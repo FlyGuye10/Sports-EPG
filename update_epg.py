@@ -45,7 +45,11 @@ def process_epg():
     tree = ET.ElementTree(new_root)
     ET.indent(tree, space="  ", level=0) # Makes the file structured and readable
     tree.write("my_guide.xml", encoding="utf-8", xml_declaration=True)
-    print("Done! 'my_guide.xml' has been updated.")
-
+    
+    # Save the filtered output as Compressed .gz
+    with gzip.open("my_guide.xml.gz", "wb") as f:
+        tree.write(f, encoding="utf-8", xml_declaration=True)
+        
+    print("Done! 'my_guide.xml' and 'my_guide.xml.gz' have been updated.")
 if __name__ == "__main__":
     process_epg()
