@@ -21,6 +21,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add my_guide.xml
+          git add my_guide.xml my_guide.xml.gz
           git commit -m "Auto-update EPG" || exit 0
           git push
