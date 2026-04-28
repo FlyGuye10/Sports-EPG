@@ -1,6 +1,7 @@
 import requests
 import gzip
 import xml.etree.ElementTree as ET
+from datetime import datetime  # Added for timestamp
 
 # Add the source URLs you need from epgshare01
 SOURCES = [
@@ -23,8 +24,11 @@ def process_epg():
         print("Error: channels.txt not found. Please create it first.")
         return
 
+    # Create XML root and add the timestamp as a generator attribute
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     new_root = ET.Element("tv")
-    
+    new_root.set("generator-info-name", f"Sports-EPG Updated: {now}")
+
     for url in SOURCES:
         print(f"Downloading and filtering: {url}")
         try:
@@ -44,12 +48,15 @@ def process_epg():
     # Save the filtered output
     tree = ET.ElementTree(new_root)
     ET.indent(tree, space="  ", level=0) # Makes the file structured and readable
+    
+    # Save standard XML
     tree.write("my_guide.xml", encoding="utf-8", xml_declaration=True)
     
     # Save the filtered output as Compressed .gz
     with gzip.open("my_guide.xml.gz", "wb") as f:
         tree.write(f, encoding="utf-8", xml_declaration=True)
         
-    print("Done! 'my_guide.xml' and 'my_guide.xml.gz' have been updated.")
+    print(f"Done! Updated at {now}. 'my_guide.xml' and 'my_guide.xml.gz' have been updated.")
+
 if __name__ == "__main__":
     process_epg()
