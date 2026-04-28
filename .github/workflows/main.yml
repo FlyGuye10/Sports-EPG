@@ -1,0 +1,26 @@
+name: Update EPG Daily
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: # <--- This line is mandatory for the manual button
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run update script
+        run: python update_epg.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add my_guide.xml
+          git commit -m "Auto-update EPG" || exit 0
+          git push
