@@ -1,0 +1,33 @@
+# --- UNITED STATES ---
+ESPN.us
+ESPN2.us
+FS1.us
+FS2.us
+GolfChannel.us
+NBATV.us
+NFLNetwork.us
+
+# --- UNITED KINGDOM ---
+SkySportsMainEvent.uk
+SkySportsPremierLeague.uk
+SkySportsFootball.uk
+SkySportsCricket.uk
+SkySportsF1.uk
+TNT-Sports-1.uk
+TNT-Sports-2.uk
+
+# --- CANADA ---
+SportsnetEast.ca
+SportsnetOntario.ca
+SportsnetWest.ca
+SportsnetPacific.ca
+TSN1.ca
+TSN2.ca
+
+# --- MALAYSIA ---
+AstroSuperSport.my
+AstroSuperSport2.my
+AstroSuperSport3.my
+AstroSuperSport4.my
+SPOTV.my
+SPOTV2.my
