@@ -4,9 +4,10 @@ import xml.etree.ElementTree as ET
 
 # Add the source URLs you need from epgshare01
 SOURCES = [
-    "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+    "hhttps://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
+    "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz"
 ]
 
 def process_epg():
