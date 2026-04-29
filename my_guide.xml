@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="Sports-EPG Updated: 2026-04-29 17:23:14">
+<tv generator-info-name="Sports-EPG Updated: 2026-04-29 17:31:58">
   <channel id="Sky.Sport.1.nz">
     <display-name lang="en">Sky Sport 1</display-name>
     <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4gZFsogRgbwZdK9k95iHWa/8dee97f8eebca01da8099679b7f42f5c/Sky_Sports_1.png" />
@@ -384,6 +384,10 @@
   <channel id="AstroGrandstand.my">
     <display-name>MY - Astro Grandstand</display-name>
     <icon src="https://iptv-epg.org/logos/Malaysia/AstroGrandstand.my.png" />
+  </channel>
+  <channel id="AstroFootball.my">
+    <display-name>MY - Astro Football</display-name>
+    <icon src="https://iptv-epg.org/logos/Malaysia/AstroFootball.my.png" />
   </channel>
   <channel id="SPOTV.my">
     <display-name>MY - SPOTV</display-name>
@@ -37620,6 +37624,227 @@
   <programme start="20260502035000 +0000" stop="20260502060000 +0000" channel="AstroGrandstand.my">
     <title lang="en">PL: Leeds vs Burnley</title>
     <desc lang="en">Premier League 2025/26: Match Week 35: Leeds United vs. Burnley, from Elland Road.</desc>
+  </programme>
+  <programme start="20260428000000 +0000" stop="20260428020000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Milan vs Udinese</title>
+    <desc lang="en">Serie A 2025/26: Round 32: Milan vs Udinese, from San Siro/Giuseppe Meazza stadium, Milan city, Italy.</desc>
+  </programme>
+  <programme start="20260428020000 +0000" stop="20260428040000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Atalanta vs Juventus</title>
+    <desc lang="en">Serie A 2025/26: Round 32: Atalanta vs Juventus, from New Balance Arena stadium, Bergamo city, Italy.</desc>
+  </programme>
+  <programme start="20260428040000 +0000" stop="20260428060000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Torino vs Verona</title>
+    <desc lang="en">Serie A 2025/26: Round 32: Torino vs Verona, from Stadio Olimpico Grande Torino stadium, Turin city, Italy.</desc>
+  </programme>
+  <programme start="20260428060000 +0000" stop="20260428080000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Cagliari vs Cremonese</title>
+    <desc lang="en">Serie A 2025/26: Round 32: Cagliari vs Cremonese, from Unipol Domus stadium, Cagliari city, Italy.</desc>
+  </programme>
+  <programme start="20260428080000 +0000" stop="20260428100000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Genoa vs Sassuolo</title>
+    <desc lang="en">Serie A 2025/26: Round 32: Genoa vs Sassuolo, from Luigi Ferraris stadium, Genova city, Italy.</desc>
+  </programme>
+  <programme start="20260428100000 +0000" stop="20260428130000 +0000" channel="AstroFootball.my">
+    <title lang="en">FA Cup Semi Finals: Chelsea vs Leeds</title>
+    <desc lang="en">Emirates FA Cup 2025/26: Semi Finals: Chelsea vs Leeds United, from Wembley Stadium, London.</desc>
+  </programme>
+  <programme start="20260428130000 +0000" stop="20260428140000 +0000" channel="AstroFootball.my">
+    <title lang="en">Dutch League: Round 29: Highlights</title>
+    <desc lang="en">Dutch League 2025/26: Highlights of all the matches during the week, including players and managers interviews. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260428140000 +0000" stop="20260428160000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Bologna vs Lecce</title>
+    <desc lang="en">Serie A 2025/26: Round 32: Bologna vs Lecce, from Renato Dall'Ara stadium, Bologna city, Italy.</desc>
+  </programme>
+  <programme start="20260428160000 +0000" stop="20260428180000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Fiorentina vs Lazio</title>
+    <desc lang="en">Serie A 2025/26: Round 32: Fiorentina vs Lazio, from Stadio Artemio Franchi stadium, Florence city, Italy.</desc>
+  </programme>
+  <programme start="20260428180000 +0000" stop="20260428205000 +0000" channel="AstroFootball.my">
+    <title lang="en">Scottish Cup: Celtic vs St Mirren</title>
+    <desc lang="en">Scottish Cup 2025/26: Semi Finals: Celtic vs St Mirren, from Celtic Park, Glasgow, Scotland.</desc>
+  </programme>
+  <programme start="20260428205000 +0000" stop="20260428230000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Lazio vs Udinese  ᴸᶦᵛᵉ</title>
+    <desc lang="en">LIVE: Serie A 2025/26: Round 34: Lazio vs Udinese, from Stadio Olimpico stadium, Rome city, Italy.</desc>
+    <live />
+  </programme>
+  <programme start="20260428230000 +0000" stop="20260429010000 +0000" channel="AstroFootball.my">
+    <title lang="en">EFL: Bromley vs Cambridge</title>
+    <desc lang="en">EFL 2025/26: League Two: Round 44: Bromley vs Cambridge United, from Hayes Lane, England.</desc>
+  </programme>
+  <programme start="20260429010000 +0000" stop="20260429030000 +0000" channel="AstroFootball.my">
+    <title lang="en">EFL: Blackburn vs Coventry</title>
+    <desc lang="en">EFL 2025/26: Championship: Round 43: Blackburn Rovers vs Coventry City, from Ewood Park stadium, Blackburn city, England.</desc>
+  </programme>
+  <programme start="20260429030000 +0000" stop="20260429050000 +0000" channel="AstroFootball.my">
+    <title lang="en">Dutch: PSV vs Zwolle</title>
+    <desc lang="en">Dutch League 2025/26: Round 31: PSV Eindhoven vs PEC Zwolle, from Philips stadium, Eindhoven city, Netherlands. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260429050000 +0000" stop="20260429070000 +0000" channel="AstroFootball.my">
+    <title lang="en">Dutch: Feyenoord vs Groningen</title>
+    <desc lang="en">Dutch League 2025/26: Round 31: Feyenoord vs FC Groningen, from De Kuip stadium, Rotterdam city, Netherlands.</desc>
+  </programme>
+  <programme start="20260429070000 +0000" stop="20260429090000 +0000" channel="AstroFootball.my">
+    <title lang="en">Dutch: Breda vs Ajax</title>
+    <desc lang="en">Dutch League 2025/26: Round 31: NAC Breda vs AFC Ajax, from Rat Verlegh Stadion stadium, Breda city, Netherlands.</desc>
+  </programme>
+  <programme start="20260429090000 +0000" stop="20260429100000 +0000" channel="AstroFootball.my">
+    <title lang="en">Dutch League: Round 31: Highlights</title>
+    <desc lang="en">Dutch League 2025/26: Highlights of all the matches during the week, including players and managers interviews.</desc>
+  </programme>
+  <programme start="20260429100000 +0000" stop="20260429120000 +0000" channel="AstroFootball.my">
+    <title lang="en">EFL: Portsmouth vs Leicester</title>
+    <desc lang="en">EFL 2025/26: Championship: Round 43: Portsmouth vs Leicester City, from Fratton Park stadium, Portsmouth city, England.</desc>
+  </programme>
+  <programme start="20260429120000 +0000" stop="20260429140000 +0000" channel="AstroFootball.my">
+    <title lang="en">EFL: Hull City vs Birmingham</title>
+    <desc lang="en">EFL 2025/26: Championship: Round 43: Hull City vs Birmingham City, from MKM Stadium, Hull city, England.</desc>
+  </programme>
+  <programme start="20260429140000 +0000" stop="20260429160000 +0000" channel="AstroFootball.my">
+    <title lang="en">DFB: Leverkusen vs Bayern Munich</title>
+    <desc lang="en">DFB Cup 2025/26: Semifinals: Bayer 04 Leverkusen vs FC Bayern Munich, from BayArena stadium, Leverkusen city, Germany.</desc>
+  </programme>
+  <programme start="20260429160000 +0000" stop="20260429163000 +0000" channel="AstroFootball.my">
+    <title lang="en">FA Cup 2025/26: Semi Finals: Highlights</title>
+    <desc lang="en">Highlights of the 2025/26 FA Cup Semi-finals between Chelsea and Leeds United and Manchester City and Southampton. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260429163000 +0000" stop="20260429170000 +0000" channel="AstroFootball.my">
+    <title lang="en">EFL 2025/26 - Highlights Show 38</title>
+    <desc lang="en">EFL 2025/26: Highlights of all the matches during the week, including players and managers interviews.</desc>
+  </programme>
+  <programme start="20260429170000 +0000" stop="20260429190000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Udinese vs Parma</title>
+    <desc lang="en">Serie A 2025/26: Round 33: Udinese vs Parma, from Bluenergy Stadium, Udine city, Italy.</desc>
+  </programme>
+  <programme start="20260429190000 +0000" stop="20260429210000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Cremonese vs Torino</title>
+    <desc lang="en">Serie A 2025/26: Round 33: Cremonese vs Torino, from Stadio Giovanni Zini stadium, Cremona city, Italy.</desc>
+  </programme>
+  <programme start="20260429210000 +0000" stop="20260429230000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Pisa vs Genoa</title>
+    <desc lang="en">Serie A 2025/26: Round 33: Pisa vs Genoa, from Arena Garibaldi-Romeo Anconetani stadium, Pisa city, Italy.</desc>
+  </programme>
+  <programme start="20260429230000 +0000" stop="20260430010400 +0000" channel="AstroFootball.my">
+    <title lang="en">Dutch: NEC vs Feyenoord</title>
+    <desc lang="en">Dutch League 2025/26: Round 30: NEC vs Feyenoord, from Stadion de Goffert stadium, Nijmegen city, Netherlands.</desc>
+  </programme>
+  <programme start="20260430010400 +0000" stop="20260430030200 +0000" channel="AstroFootball.my">
+    <title lang="en">Dutch: Heracles vs Ajax</title>
+    <desc lang="en">Dutch League 2025/26: Round 30: Heracles Almelo vs AFC Ajax, from Asito Stadium, Almelo city, Netherlands.</desc>
+  </programme>
+  <programme start="20260430030200 +0000" stop="20260430050300 +0000" channel="AstroFootball.my">
+    <title lang="en">Dutch: Rotterdam vs PSV</title>
+    <desc lang="en">Dutch League 2025/26: Round 30: Sparta Rotterdam vs PSV Eindhoven, from Het Kasteel stadium, Rotterdam city, Netherlands. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260430050300 +0000" stop="20260430070000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Verona vs Milan</title>
+    <desc lang="en">Serie A 2025/26: Round 33: Verona vs Milan, from Stadio Marcantonio Bentegodi stadium, Verona city, Italy.</desc>
+  </programme>
+  <programme start="20260430070000 +0000" stop="20260430090000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Juventus vs Bologna</title>
+    <desc lang="en">Serie A 2025/26: Round 33: Juventus vs Bologna, from Allianz Stadium, Turin city, Italy.</desc>
+  </programme>
+  <programme start="20260430090000 +0000" stop="20260430110000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Inter vs Cagliari</title>
+    <desc lang="en">Serie A 2025/26: Round 33: Inter vs Cagliari, from San Siro/Giuseppe Meazza stadium, Milan city, Italy.</desc>
+  </programme>
+  <programme start="20260430110000 +0000" stop="20260430120000 +0000" channel="AstroFootball.my">
+    <title lang="en">Dutch League: Round 31: Highlights</title>
+    <desc lang="en">Dutch League 2025/26: Highlights of all the matches during the week, including players and managers interviews.</desc>
+  </programme>
+  <programme start="20260430120000 +0000" stop="20260430150000 +0000" channel="AstroFootball.my">
+    <title lang="en">DFB: Stuttgart vs Freiburg</title>
+    <desc lang="en">DFB Cup 2025/26: Semifinals: VFB Stuttgart vs Sport-Club Freiburg, from MHP Arena stadium, Stuttgart city, Germany.</desc>
+  </programme>
+  <programme start="20260430150000 +0000" stop="20260430160000 +0000" channel="AstroFootball.my">
+    <title lang="en">FA Cup 2025/26: Semi Finals: Review</title>
+    <desc lang="en">Review show of the 2025/26 FA Cup semi-finals between Chelsea and Leeds United and Manchester City and Southampton.</desc>
+  </programme>
+  <programme start="20260430160000 +0000" stop="20260430180000 +0000" channel="AstroFootball.my">
+    <title lang="en">EFL: Norwich vs Ipswich</title>
+    <desc lang="en">EFL 2025/26: Championship: Round 42: Norwich City vs Ipswich Town, from Carrow Road stadium, Norwich city, England. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260430180000 +0000" stop="20260430200000 +0000" channel="AstroFootball.my">
+    <title lang="en">EFL: Sheffield Utd vs Hull City</title>
+    <desc lang="en">EFL 2025/26: Championship: Round 42: Sheffield United vs Hull City, from Bramall Lane stadium, Sheffield city, England.</desc>
+  </programme>
+  <programme start="20260430200000 +0000" stop="20260430220000 +0000" channel="AstroFootball.my">
+    <title lang="en">EFL: Birmingham vs Wrexham</title>
+    <desc lang="en">EFL 2025/26: Championship: Round 42: Birmingham City vs Wrexham, from St. Andrew's Knighthead Park stadium, Birmingham city, England.</desc>
+  </programme>
+  <programme start="20260430220000 +0000" stop="20260501000000 +0000" channel="AstroFootball.my">
+    <title lang="en">EFL: Bromley vs Cambridge</title>
+    <desc lang="en">EFL 2025/26: League Two: Round 44: Bromley vs Cambridge United, from Hayes Lane, England.</desc>
+  </programme>
+  <programme start="20260501000000 +0000" stop="20260501020000 +0000" channel="AstroFootball.my">
+    <title lang="en">EFL: Blackburn vs Coventry</title>
+    <desc lang="en">EFL 2025/26: Championship: Round 43: Blackburn Rovers vs Coventry City, from Ewood Park stadium, Blackburn city, England.</desc>
+  </programme>
+  <programme start="20260501020000 +0000" stop="20260501040000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Sassuolo vs Cagliari</title>
+    <desc lang="en">Serie A 2025/26: Round 31: Sassuolo vs Cagliari, from  Mapei Stadium, Reggio Emilia city, Italy.</desc>
+  </programme>
+  <programme start="20260501040000 +0000" stop="20260501060000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Verona vs Fiorentina</title>
+    <desc lang="en">Serie A 2025/26: Round 31: Verona vs Fiorentina, from Stadio Marcantonio Bentegodi stadium, Verona city, Italy.</desc>
+  </programme>
+  <programme start="20260501060000 +0000" stop="20260501080000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Lazio vs Parma</title>
+    <desc lang="en">Serie A 2025/26: Round 31: Lazio vs Parma, from Stadio Olimpico stadium, Rome city, Italy. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501080000 +0000" stop="20260501100000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Napoli vs Milan</title>
+    <desc lang="en">Serie A 2025/26: Round 31: Napoli vs Milan, from Stadio Diego Armando Maradona stadium, Naples city, Italy.</desc>
+  </programme>
+  <programme start="20260501100000 +0000" stop="20260501120000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Cremonese vs Bologna</title>
+    <desc lang="en">Serie A 2025/26: Round 31: Cremonese vs Bologna, from Stadio Giovanni Zini stadium, Cremona city, Italy.</desc>
+  </programme>
+  <programme start="20260501120000 +0000" stop="20260501123000 +0000" channel="AstroFootball.my">
+    <title lang="en">The Big Inteview 2025/26</title>
+    <desc lang="en">All the very best of the week's programming and digital content from an action packed Premier League opening weekend.</desc>
+  </programme>
+  <programme start="20260501123000 +0000" stop="20260501130000 +0000" channel="AstroFootball.my">
+    <title lang="en">EFL 2025/26 - Highlights Show 38</title>
+    <desc lang="en">EFL 2025/26: Highlights of all the matches during the week, including players and managers interviews.</desc>
+  </programme>
+  <programme start="20260501130000 +0000" stop="20260501150000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Inter vs Roma</title>
+    <desc lang="en">Serie A 2025/26: Round 31: Inter vs Roma, from San Siro/Giuseppe Meazza stadium, Milan city, Italy.</desc>
+  </programme>
+  <programme start="20260501150000 +0000" stop="20260501170000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Udinese vs Como</title>
+    <desc lang="en">Serie A 2025/26: Round 31: Udinese vs Como, from Bluenergy Stadium, Udine city, Italy.</desc>
+  </programme>
+  <programme start="20260501170000 +0000" stop="20260501180000 +0000" channel="AstroFootball.my">
+    <title lang="en">FA Cup 2025/26: Semi Finals: Review</title>
+    <desc lang="en">Review show of the 2025/26 FA Cup semi-finals between Chelsea and Leeds United and Manchester City and Southampton. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501180000 +0000" stop="20260501183500 +0000" channel="AstroFootball.my">
+    <title lang="en">Emirates FA Cup: QF Highlights</title>
+    <desc lang="en">Emirates FA Cup 2025/2026: Highlights of all the matches during the week, including players and managers interviews.</desc>
+  </programme>
+  <programme start="20260501183500 +0000" stop="20260501210000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Pisa vs Lecce</title>
+    <desc lang="en">Serie A 2025/26: Round 35: Pisa vs Lecce, from Arena Garibaldi-Romeo Anconetani stadium, Pisa city, Italy.</desc>
+  </programme>
+  <programme start="20260501210000 +0000" stop="20260501220000 +0000" channel="AstroFootball.my">
+    <title lang="en">Dutch League: Round 31: Highlights</title>
+    <desc lang="en">Dutch League 2025/26: Highlights of all the matches during the week, including players and managers interviews.</desc>
+  </programme>
+  <programme start="20260501220000 +0000" stop="20260502000000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Bologna vs Roma</title>
+    <desc lang="en">Serie A 2025/26: Round 34: Bologna vs Roma, from Renato Dall'Ara stadium, Bologna city, Italy.</desc>
+  </programme>
+  <programme start="20260502000000 +0000" stop="20260502020000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Verona vs Lecce</title>
+    <desc lang="en">Serie A 2025/26: Round 34: Verona vs Lecce, from Stadio Marcantonio Bentegodi stadium, Verona city, Italy.</desc>
+  </programme>
+  <programme start="20260502020000 +0000" stop="20260502040000 +0000" channel="AstroFootball.my">
+    <title lang="en">Serie A: Pisa vs Lecce</title>
+    <desc lang="en">Serie A 2025/26: Round 35: Pisa vs Lecce, from Arena Garibaldi-Romeo Anconetani stadium, Pisa city, Italy.</desc>
   </programme>
   <programme start="20260428013500 +0000" stop="20260428042500 +0000" channel="AstroSuperSportUHD.my">
     <title lang="en">DFB: Stuttgart vs SC Freiburg</title>
