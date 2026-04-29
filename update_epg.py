@@ -1,18 +1,18 @@
 import requests
 import gzip
 import xml.etree.ElementTree as ET
-from datetime import datetime  # Added for timestamp
+from datetime import datetime
 
-# Add the source URLs you need from epgshare01
+# Source URLs from epgshare01
 SOURCES = [
-    "https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz"
+    "https://epgshare01.online",
+    "https://epgshare01.online",
+    "https://epgshare01.online",
+    "https://epgshare01.online"
 ]
 
 def process_epg():
-    # Load your desired channel IDs, skipping comments (#) and empty lines
+    # TIP: Ensure IDs in channels.txt exactly match the source (e.g., SkySport1.nz)
     wanted_channels = set()
     try:
         with open('channels.txt', 'r') as f:
@@ -24,10 +24,14 @@ def process_epg():
         print("Error: channels.txt not found. Please create it first.")
         return
 
-    # Create XML root and add the timestamp as a generator attribute
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     new_root = ET.Element("tv")
     new_root.set("generator-info-name", f"Sports-EPG Updated: {now}")
+
+    # TIP: XMLTV requires all <channel> tags before all <programme> tags.
+    # Mixing them causes TiviMate to only see the first country found.
+    all_channels = []
+    all_programmes = []
 
     for url in SOURCES:
         print(f"Downloading and filtering: {url}")
@@ -36,27 +40,36 @@ def process_epg():
             content = gzip.decompress(response.content)
             tree = ET.fromstring(content)
             
-            # Filter <channel> and <programme> elements
             for child in tree:
-                # 'id' is for channel tags; 'channel' is the attribute for programme tags
-                cid = child.get('id') if child.tag == 'channel' else child.get('channel')
-                if cid in wanted_channels:
-                    new_root.append(child)
+                if child.tag == 'channel':
+                    cid = child.get('id')
+                    if cid in wanted_channels:
+                        all_channels.append(child)
+                elif child.tag == 'programme':
+                    cid = child.get('channel')
+                    if cid in wanted_channels:
+                        all_programmes.append(child)
         except Exception as e:
             print(f"Skipping {url} due to error: {e}")
+
+    # TIP: Consolidate all channels at the top to fix parsing issues.
+    for channel in all_channels:
+        new_root.append(channel)
+    for programme in all_programmes:
+        new_root.append(programme)
                 
-    # Save the filtered output
-    tree = ET.ElementTree(new_root)
-    ET.indent(tree, space="  ", level=0) # Makes the file structured and readable
-    
     # Save standard XML
+    tree = ET.ElementTree(new_root)
+    ET.indent(tree, space="  ", level=0)
     tree.write("my_guide.xml", encoding="utf-8", xml_declaration=True)
     
-    # Save the filtered output as Compressed .gz
+    # TIP: TiviMate prefers .gz files—they load faster and save bandwidth.
     with gzip.open("my_guide.xml.gz", "wb") as f:
         tree.write(f, encoding="utf-8", xml_declaration=True)
         
-    print(f"Done! Updated at {now}. 'my_guide.xml' and 'my_guide.xml.gz' have been updated.")
+    print(f"Done! Updated at {now}.")
+    # TIP: If TiviMate doesn't update, use 'Clear EPG' in settings to flush cache.
+    # TIP: Append ?1 to your URL in TiviMate to force a server-side refresh.
 
 if __name__ == "__main__":
     process_epg()
