@@ -1,10 +1,10 @@
 # --- MALAYSIA ---
-AstroSuperSport.my
-AstroSuperSport2.my
-AstroSuperSport3.my
-AstroSuperSport4.my
-stro.Sports.Plus.my
-Astro.Sports.UHD.my
+AstroPremierLeague.my
+AstroPremierLeague2.my
+AstroPremierLeague3.my
+AstroPremierLeague4.my
+AstroGrandstand.my
+AstroSuperSportUHD.my
 SPOTV.my
 SPOTV2.my
 
