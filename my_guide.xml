@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="Sports-EPG Updated: 2026-04-29 16:28:55">
+<tv generator-info-name="Sports-EPG Updated: 2026-04-29 17:23:14">
   <channel id="Sky.Sport.1.nz">
     <display-name lang="en">Sky Sport 1</display-name>
     <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4gZFsogRgbwZdK9k95iHWa/8dee97f8eebca01da8099679b7f42f5c/Sky_Sports_1.png" />
@@ -293,12 +293,6 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 3 HD</display-name>
   </channel>
-  <channel id="Astro.Sports.UHD.my">
-    <display-name lang="en">Astro Sports UHD</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" />
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" />
-    <url>http://www.astro.com.my</url>
-  </channel>
   <channel id="SPOTV.my">
     <display-name lang="en">SPOTV</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" />
@@ -370,6 +364,38 @@
   <channel id="Hub.Sports.8.HD.sg">
     <display-name lang="en">Hub Sports 8 HD</display-name>
     <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="AstroPremierLeague4.my">
+    <display-name>MY - Astro Premier League 4</display-name>
+    <icon src="https://iptv-epg.org/logos/Malaysia/AstroPremierLeague4.my.png" />
+  </channel>
+  <channel id="AstroPremierLeague2.my">
+    <display-name>MY - Astro Premier League 2</display-name>
+    <icon src="https://iptv-epg.org/logos/Malaysia/AstroPremierLeague2.my.png" />
+  </channel>
+  <channel id="AstroPremierLeague3.my">
+    <display-name>MY - Astro Premier League 3</display-name>
+    <icon src="https://iptv-epg.org/logos/Malaysia/AstroPremierLeague3.my.png" />
+  </channel>
+  <channel id="AstroPremierLeague.my">
+    <display-name>MY - Astro Premier League</display-name>
+    <icon src="https://iptv-epg.org/logos/Malaysia/AstroPremierLeague.my.png" />
+  </channel>
+  <channel id="AstroGrandstand.my">
+    <display-name>MY - Astro Grandstand</display-name>
+    <icon src="https://iptv-epg.org/logos/Malaysia/AstroGrandstand.my.png" />
+  </channel>
+  <channel id="SPOTV.my">
+    <display-name>MY - SPOTV</display-name>
+    <icon src="https://iptv-epg.org/logos/Malaysia/SPOTV.my.png" />
+  </channel>
+  <channel id="AstroSuperSportUHD.my">
+    <display-name>MY - Astro SuperSport UHD</display-name>
+    <icon src="https://iptv-epg.org/logos/Malaysia/AstroSuperSportUHD.my.png" />
+  </channel>
+  <channel id="SPOTV2.my">
+    <display-name>MY - SPOTV2</display-name>
+    <icon src="https://iptv-epg.org/logos/Malaysia/SPOTV2.my.png" />
   </channel>
   <programme start="20260429000000 +0000" stop="20260429004500 +0000" channel="Sky.Sport.1.nz">
     <title lang="en">Between Two Posts</title>
@@ -32135,262 +32161,6 @@
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:72d293f0bdca8d0ee80e202b668d2f71f1ddc980/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
-  <programme start="20260428173000 +0000" stop="20260428194500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Liverpool vs Brighton</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260428194500 +0000" stop="20260428220000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Arsenal vs Wolverhampton</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260428220000 +0000" stop="20260429001500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Man Utd vs Bournemouth</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260429001500 +0000" stop="20260429023000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Manchester Utd vs Brentford</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260429023000 +0000" stop="20260429044500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Arsenal vs Newcastle Utd</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260429044500 +0000" stop="20260429070000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">DFB: Leverkusen vs Bayern</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260429070000 +0000" stop="20260429091500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Newcastle Utd vs Chelsea</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260429091500 +0000" stop="20260429113000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Manchester Utd vs Brentford</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260429113000 +0000" stop="20260429134500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Burnley vs Man City</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260429134500 +0000" stop="20260429181500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Chelsea vs Manchester Utd</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260429181500 +0000" stop="20260429203000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Tottenham vs Liverpool</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260429203000 +0000" stop="20260429224500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Everton vs Arsenal</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260429224500 +0000" stop="20260430005000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Aston Villa vs Manchester Utd</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260430005000 +0000" stop="20260430030000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Burnley vs Man City</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260430030000 +0000" stop="20260430051000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Wolves vs Man Utd</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260430051000 +0000" stop="20260430072000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Manchester Utd vs Brentford</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260430072000 +0000" stop="20260430093000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Arsenal vs Newcastle Utd</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260430093000 +0000" stop="20260430114500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Burnley vs Man City</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260430114500 +0000" stop="20260430143000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">DFB: Stuttgart vs SC Freiburg</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260430143000 +0000" stop="20260430190000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Arsenal vs Newcastle Utd</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260430190000 +0000" stop="20260430211500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Chelsea vs Aston Villa</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260430211500 +0000" stop="20260430233000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Palace vs Tottenham</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260430233000 +0000" stop="20260501014500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">DFB: Leverkusen vs Bayern</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260501014500 +0000" stop="20260501040000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Arsenal vs Newcastle Utd</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260501040000 +0000" stop="20260501061500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Burnley vs Man City</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260501061500 +0000" stop="20260501083000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Arsenal vs Aston Villa</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260501083000 +0000" stop="20260501104500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Liverpool vs Leeds Utd</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260501104500 +0000" stop="20260501130000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Manchester Utd vs Brentford</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260501130000 +0000" stop="20260501151500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Burnley vs Man City</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260501151500 +0000" stop="20260501194500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">DFB: Leverkusen vs Bayern</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260501194500 +0000" stop="20260501220000 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Sunderland vs Man City</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
-  <programme start="20260501220000 +0000" stop="20260502001500 +0000" channel="Astro.Sports.UHD.my">
-    <title lang="en">PL: Bournemouth vs Arsenal</title>
-    <category lang="en">Academic</category>
-    <category lang="en">Live Winter e</category>
-    <category lang="en">Live Academic</category>
-    <category lang="en">Winter Academic</category>
-    <category lang="en">eAcademic</category>
-  </programme>
   <programme start="20260429000000 +0000" stop="20260429010000 +0000" channel="Hub.Premier.1.sg">
     <title lang="en">GENERATION xG - MON 27 APR</title>
     <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
@@ -36747,5 +36517,1284 @@
     <rating system="ID">
       <value>UNRATED</value>
     </rating>
+  </programme>
+  <programme start="20260430220000 +0000" stop="20260501040000 +0000" channel="AstroPremierLeague4.my">
+    <title lang="en">Astro Premier League 4</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2025/26: Match Week 35: Wolverhampton Wanderers vs. Sunderland.</desc>
+  </programme>
+  <programme start="20260501040000 +0000" stop="20260501100000 +0000" channel="AstroPremierLeague4.my">
+    <title lang="en">Astro Premier League 4</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2025/26: Match Week 35: Wolverhampton Wanderers vs. Sunderland.</desc>
+  </programme>
+  <programme start="20260501100000 +0000" stop="20260501160000 +0000" channel="AstroPremierLeague4.my">
+    <title lang="en">Astro Premier League 4</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2025/26: Match Week 35: Wolverhampton Wanderers vs. Sunderland.</desc>
+  </programme>
+  <programme start="20260501160000 +0000" stop="20260501220000 +0000" channel="AstroPremierLeague4.my">
+    <title lang="en">Astro Premier League 4</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2025/26: Match Week 35: Wolverhampton Wanderers vs. Sunderland.</desc>
+  </programme>
+  <programme start="20260428003000 +0000" stop="20260428010000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: Man Utd Vs Brentford</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260428010000 +0000" stop="20260428013000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Netbusters:</title>
+    <desc lang="en">E34 Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
+  </programme>
+  <programme start="20260428013000 +0000" stop="20260428023000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Generation Xg</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
+  </programme>
+  <programme start="20260428023000 +0000" stop="20260428030000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: Wolves Vs Tottenham</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260428030000 +0000" stop="20260428033000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: Liverpool Vs Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260428033000 +0000" stop="20260428043000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Review</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260428043000 +0000" stop="20260428050000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: Man Utd Vs Brentford</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260428050000 +0000" stop="20260428053000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Final Word</title>
+    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260428053000 +0000" stop="20260428060000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year.</desc>
+  </programme>
+  <programme start="20260428060000 +0000" stop="20260428063000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Netbusters:</title>
+    <desc lang="en">E34 Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
+  </programme>
+  <programme start="20260428063000 +0000" stop="20260428073000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Generation Xg</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
+  </programme>
+  <programme start="20260428073000 +0000" stop="20260428080000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: West Ham Vs Everton</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260428080000 +0000" stop="20260428090000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">1-to-11: Ep04: Gabriel Agbonlahor</title>
+    <desc lang="en">E4 Gabby Agbonlahor sits down for 1-to-11 to reveal his ultimate Aston Villa lineup, made up of the teammates he played alongside.</desc>
+  </programme>
+  <programme start="20260428090000 +0000" stop="20260428093000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: Man Utd Vs Brentford</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260428093000 +0000" stop="20260428100000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Final Word</title>
+    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260428100000 +0000" stop="20260428103000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year.</desc>
+  </programme>
+  <programme start="20260428103000 +0000" stop="20260428110000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: Wolves Vs Tottenham</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260428110000 +0000" stop="20260428120000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Review</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260428120000 +0000" stop="20260428130000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">1-to-11: Ep04: Gabriel Agbonlahor</title>
+    <desc lang="en">E4 Gabby Agbonlahor sits down for 1-to-11 to reveal his ultimate Aston Villa lineup, made up of the teammates he played alongside.</desc>
+  </programme>
+  <programme start="20260428130000 +0000" stop="20260428133000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: Man Utd Vs Brentford</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260428133000 +0000" stop="20260428140000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Final Word</title>
+    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
+  </programme>
+  <programme start="20260428140000 +0000" stop="20260428143000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260428143000 +0000" stop="20260428150000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Rewind:</title>
+    <desc lang="en">E19 An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them.</desc>
+  </programme>
+  <programme start="20260428150000 +0000" stop="20260428153000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Rewind: Ep18: Ray Parlour: the Invincibles 03/04</title>
+    <desc lang="en">E18 Ray Parlour spent 15 years with the Gunners, winning three Premier League titles during that time.</desc>
+  </programme>
+  <programme start="20260428153000 +0000" stop="20260428160000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: Arsenal Vs Newcastle</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260428160000 +0000" stop="20260428170000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Review</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260428170000 +0000" stop="20260428180000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">1-to-11: Ep04: Gabriel Agbonlahor</title>
+    <desc lang="en">E4 Gabby Agbonlahor sits down for 1-to-11 to reveal his ultimate Aston Villa lineup, made up of the teammates he played alongside.</desc>
+  </programme>
+  <programme start="20260428180000 +0000" stop="20260428183000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: Man Utd Vs Brentford</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260428183000 +0000" stop="20260428190000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Final Word</title>
+    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260428190000 +0000" stop="20260428193000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year.</desc>
+  </programme>
+  <programme start="20260428193000 +0000" stop="20260428200000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Rewind:</title>
+    <desc lang="en">E19 An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them.</desc>
+  </programme>
+  <programme start="20260428200000 +0000" stop="20260428210000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Generation Xg</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
+  </programme>
+  <programme start="20260428210000 +0000" stop="20260428220000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Review</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260428220000 +0000" stop="20260428230000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">1-to-11: Ep04: Gabriel Agbonlahor</title>
+    <desc lang="en">E4 Gabby Agbonlahor sits down for 1-to-11 to reveal his ultimate Aston Villa lineup, made up of the teammates he played alongside.</desc>
+  </programme>
+  <programme start="20260428230000 +0000" stop="20260428233000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: Wolves Vs Tottenham</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260428233000 +0000" stop="20260429000000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Netbusters:</title>
+    <desc lang="en">E34 Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260429000000 +0000" stop="20260429010000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Generation Xg</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
+  </programme>
+  <programme start="20260429010000 +0000" stop="20260429020000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Review</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260429020000 +0000" stop="20260429023000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Rewind:</title>
+    <desc lang="en">E19 An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them.</desc>
+  </programme>
+  <programme start="20260429023000 +0000" stop="20260429030000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: Man Utd Vs Brentford</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260429030000 +0000" stop="20260429033000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Final Word</title>
+    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
+  </programme>
+  <programme start="20260429033000 +0000" stop="20260429040000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year.</desc>
+  </programme>
+  <programme start="20260429040000 +0000" stop="20260429043000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Netbusters:</title>
+    <desc lang="en">E34 Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260429043000 +0000" stop="20260429053000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Goals of the Season: 2024/2025</title>
+    <desc lang="en">From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 24/25 campaign, whilst paying homage to the Golden Boot winner.</desc>
+  </programme>
+  <programme start="20260429053000 +0000" stop="20260429060000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: Liverpool Vs Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260429060000 +0000" stop="20260429063000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW34: West Ham Vs Everton</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260429063000 +0000" stop="20260429073000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">1-to-11: Ep04: Gabriel Agbonlahor</title>
+    <desc lang="en">E4 Gabby Agbonlahor sits down for 1-to-11 to reveal his ultimate Aston Villa lineup, made up of the teammates he played alongside.</desc>
+  </programme>
+  <programme start="20260429073000 +0000" stop="20260429080000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Rewind:</title>
+    <desc lang="en">E19 An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them.</desc>
+  </programme>
+  <programme start="20260429080000 +0000" stop="20260429090000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Review</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260429090000 +0000" stop="20260429093000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Big Interview: Ep37: Diego Gomez</title>
+    <desc lang="en">E37 Diego Gomez's path to the Premier League has been shaped across continents. Beginning his career in Paraguay, the midfielder earned a move to Inter Miami. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260429093000 +0000" stop="20260429100000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep47: Norwegian Strikers</title>
+    <desc lang="en">E47 We celebrate the rise of Norwegian striking power in the Premier League, exploring how a golden generation in the late 1990s; featuring pioneers like Ole Gunnar Solskjær and Tore Andre Flo.</desc>
+  </programme>
+  <programme start="20260429100000 +0000" stop="20260429103000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Netbusters: Erling Haaland's 100</title>
+    <desc lang="en">We celebrate Erling Haaland's record-breaking haul in true Netbusters' style, showcasing every one of his 100 Premier League goals, squeezed into a special 26-minute show.</desc>
+  </programme>
+  <programme start="20260429103000 +0000" stop="20260429110000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Netbusters:</title>
+    <desc lang="en">E34 Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
+  </programme>
+  <programme start="20260429110000 +0000" stop="20260429120000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Goals of the Season: 2024/2025</title>
+    <desc lang="en">From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 24/25 campaign, whilst paying homage to the Golden Boot winner.</desc>
+  </programme>
+  <programme start="20260429120000 +0000" stop="20260429130000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Generation Xg</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
+  </programme>
+  <programme start="20260429130000 +0000" stop="20260429140000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">1-to-11: Ep04: Gabriel Agbonlahor</title>
+    <desc lang="en">E4 Gabby Agbonlahor sits down for 1-to-11 to reveal his ultimate Aston Villa lineup, made up of the teammates he played alongside.</desc>
+  </programme>
+  <programme start="20260429140000 +0000" stop="20260429150000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Catch-up Show:</title>
+    <desc lang="en">E37 The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260429150000 +0000" stop="20260429170000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Classic Match: Mun Vs Liv</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2008/2009 season.</desc>
+  </programme>
+  <programme start="20260429170000 +0000" stop="20260429173000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep48: Dimitar Berbatov</title>
+    <desc lang="en">E48 We speak to Dimitar Berbatov, a player whose elegance and composure left a lasting imprint on English football.</desc>
+  </programme>
+  <programme start="20260429173000 +0000" stop="20260429180000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Rewind:</title>
+    <desc lang="en">E19 An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them.</desc>
+  </programme>
+  <programme start="20260429180000 +0000" stop="20260429190000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">1-to-11: Ep04: Gabriel Agbonlahor</title>
+    <desc lang="en">E4 Gabby Agbonlahor sits down for 1-to-11 to reveal his ultimate Aston Villa lineup, made up of the teammates he played alongside.</desc>
+  </programme>
+  <programme start="20260429190000 +0000" stop="20260429200000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Catch-up Show:</title>
+    <desc lang="en">E37 The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
+  </programme>
+  <programme start="20260429200000 +0000" stop="20260429203000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep47: Norwegian Strikers</title>
+    <desc lang="en">E47 We celebrate the rise of Norwegian striking power in the Premier League, exploring how a golden generation in the late 1990s; featuring pioneers like Ole Gunnar Solskjær and Tore Andre Flo.</desc>
+  </programme>
+  <programme start="20260429203000 +0000" stop="20260429210000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Big Interview: Ep37: Diego Gomez</title>
+    <desc lang="en">E37 Diego Gomez's path to the Premier League has been shaped across continents. Beginning his career in Paraguay, the midfielder earned a move to Inter Miami. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260429210000 +0000" stop="20260429213000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Netbusters:</title>
+    <desc lang="en">E34 Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
+  </programme>
+  <programme start="20260429213000 +0000" stop="20260429220000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year.</desc>
+  </programme>
+  <programme start="20260429220000 +0000" stop="20260429223000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep48: Dimitar Berbatov</title>
+    <desc lang="en">E48 We speak to Dimitar Berbatov, a player whose elegance and composure left a lasting imprint on English football.</desc>
+  </programme>
+  <programme start="20260429223000 +0000" stop="20260429230000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Rewind:</title>
+    <desc lang="en">E19 An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them.</desc>
+  </programme>
+  <programme start="20260429230000 +0000" stop="20260430000000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Review</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260430000000 +0000" stop="20260430010000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Catch-up Show:</title>
+    <desc lang="en">E37 The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
+  </programme>
+  <programme start="20260430010000 +0000" stop="20260430020000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">1-to-11: Ep04: Gabriel Agbonlahor</title>
+    <desc lang="en">E4 Gabby Agbonlahor sits down for 1-to-11 to reveal his ultimate Aston Villa lineup, made up of the teammates he played alongside. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260430020000 +0000" stop="20260430023000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep43: Willian</title>
+    <desc lang="en">E43 We join Willian in Gremio, Brazil, where he is currently continuing his playing career, as he reflects on an incredible journey in the Premier League.</desc>
+  </programme>
+  <programme start="20260430023000 +0000" stop="20260430030000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Netbusters:</title>
+    <desc lang="en">E34 Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
+  </programme>
+  <programme start="20260430030000 +0000" stop="20260430033000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep48: Dimitar Berbatov</title>
+    <desc lang="en">E48 We speak to Dimitar Berbatov, a player whose elegance and composure left a lasting imprint on English football.</desc>
+  </programme>
+  <programme start="20260430033000 +0000" stop="20260430043000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Moments: Ep03: Michael Carrick</title>
+    <desc lang="en">E3 With 481 Premier League appearances and five titles - Michael Carrick is a Premier League icon. Carrick sits down with Premier League Moments to look back over his glittering career.</desc>
+  </programme>
+  <programme start="20260430043000 +0000" stop="20260430050000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Rewind:</title>
+    <desc lang="en">E19 An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them.</desc>
+  </programme>
+  <programme start="20260430050000 +0000" stop="20260430053000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Rewind: Ep08: Leon Osman: My Everton Story</title>
+    <desc lang="en">E8 Leon Osman recalls his favourite moments in an Everton shirt, from imitating a Premier League legend at White Hart Lane, to scoring in his 400th appearance for the Toffees.</desc>
+  </programme>
+  <programme start="20260430053000 +0000" stop="20260430060000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Classic Match: Eve Vs Mci</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2013/2014 season. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260430060000 +0000" stop="20260430070000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Catch-up Show:</title>
+    <desc lang="en">E37 The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
+  </programme>
+  <programme start="20260430070000 +0000" stop="20260430073000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep48: Dimitar Berbatov</title>
+    <desc lang="en">E48 We speak to Dimitar Berbatov, a player whose elegance and composure left a lasting imprint on English football.</desc>
+  </programme>
+  <programme start="20260430073000 +0000" stop="20260430093000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Classic Match: Mun Vs Liv</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2013/2014 season.</desc>
+  </programme>
+  <programme start="20260430093000 +0000" stop="20260430103000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Moments: Ep03: Michael Carrick</title>
+    <desc lang="en">E3 With 481 Premier League appearances and five titles - Michael Carrick is a Premier League icon. Carrick sits down with Premier League Moments to look back over his glittering career.</desc>
+  </programme>
+  <programme start="20260430103000 +0000" stop="20260430110000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep36: Antonio Valencia</title>
+    <desc lang="en">E36 In the heart of Ecuador, we sit down with Antonio Valencia as he reflects on an extraordinary journey from humble beginnings to the grand stages of world football.</desc>
+  </programme>
+  <programme start="20260430110000 +0000" stop="20260430120000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Catch-up Show:</title>
+    <desc lang="en">E37 The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
+  </programme>
+  <programme start="20260430120000 +0000" stop="20260430123000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep48: Dimitar Berbatov</title>
+    <desc lang="en">E48 We speak to Dimitar Berbatov, a player whose elegance and composure left a lasting imprint on English football. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260430123000 +0000" stop="20260430130000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Big Interview:</title>
+    <desc lang="en">E38 Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20260430130000 +0000" stop="20260430133000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Rewind:</title>
+    <desc lang="en">E19 An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them.</desc>
+  </programme>
+  <programme start="20260430133000 +0000" stop="20260430140000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Rewind: Ep08: Darren Bent: My Premier League Years</title>
+    <desc lang="en">E8 Darren Bent is one of a select number of players to have scored a century of goals in the Premier League.</desc>
+  </programme>
+  <programme start="20260430140000 +0000" stop="20260430160000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Classic Match: Avl Vs Ful</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2012/2013 season.</desc>
+  </programme>
+  <programme start="20260430160000 +0000" stop="20260430170000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Catch-up Show:</title>
+    <desc lang="en">E37 The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
+  </programme>
+  <programme start="20260430170000 +0000" stop="20260430180000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Review</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260430180000 +0000" stop="20260430183000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Big Interview:</title>
+    <desc lang="en">E38 Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260430183000 +0000" stop="20260430190000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep48: Dimitar Berbatov</title>
+    <desc lang="en">E48 We speak to Dimitar Berbatov, a player whose elegance and composure left a lasting imprint on English football.</desc>
+  </programme>
+  <programme start="20260430190000 +0000" stop="20260430200000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Moments: Ep03: Michael Carrick</title>
+    <desc lang="en">E3 With 481 Premier League appearances and five titles - Michael Carrick is a Premier League icon. Carrick sits down with Premier League Moments to look back over his glittering career.</desc>
+  </programme>
+  <programme start="20260430200000 +0000" stop="20260430210000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Catch-up Show:</title>
+    <desc lang="en">E37 The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
+  </programme>
+  <programme start="20260430210000 +0000" stop="20260430213000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep47: Norwegian Strikers</title>
+    <desc lang="en">E47 We celebrate the rise of Norwegian striking power in the Premier League, exploring how a golden generation in the late 1990s; featuring pioneers like Ole Gunnar Solskjær and Tore Andre Flo.</desc>
+  </programme>
+  <programme start="20260430213000 +0000" stop="20260430220000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep43: Willian</title>
+    <desc lang="en">E43 We join Willian in Gremio, Brazil, where he is currently continuing his playing career, as he reflects on an incredible journey in the Premier League.</desc>
+  </programme>
+  <programme start="20260430220000 +0000" stop="20260501000000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Classic Match: Ars Vs Ful</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2012/2013 season.</desc>
+  </programme>
+  <programme start="20260501000000 +0000" stop="20260501003000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Big Interview:</title>
+    <desc lang="en">E38 Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501003000 +0000" stop="20260501010000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep48: Dimitar Berbatov</title>
+    <desc lang="en">E48 We speak to Dimitar Berbatov, a player whose elegance and composure left a lasting imprint on English football.</desc>
+  </programme>
+  <programme start="20260501010000 +0000" stop="20260501020000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Catch-up Show:</title>
+    <desc lang="en">E37 The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
+  </programme>
+  <programme start="20260501020000 +0000" stop="20260501030000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Moments: Ep04: David Ginola</title>
+    <desc lang="en">E4 Premier League Moments sits down with one of the most stylish players ever to grace the English top flight.</desc>
+  </programme>
+  <programme start="20260501030000 +0000" stop="20260501040000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Review</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260501040000 +0000" stop="20260501043000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Classic Match: Mun Vs Liv</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2015/2016 season.</desc>
+  </programme>
+  <programme start="20260501043000 +0000" stop="20260501050000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep48: Dimitar Berbatov</title>
+    <desc lang="en">E48 We speak to Dimitar Berbatov, a player whose elegance and composure left a lasting imprint on English football.</desc>
+  </programme>
+  <programme start="20260501050000 +0000" stop="20260501053000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Big Interview:</title>
+    <desc lang="en">E38 Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501053000 +0000" stop="20260501063000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Catch-up Show:</title>
+    <desc lang="en">E37 The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
+  </programme>
+  <programme start="20260501063000 +0000" stop="20260501073000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Moments: Ep04: David Ginola</title>
+    <desc lang="en">E4 Premier League Moments sits down with one of the most stylish players ever to grace the English top flight.</desc>
+  </programme>
+  <programme start="20260501073000 +0000" stop="20260501080000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Rewind: Ep01: Paul Scholes - My Greatest Rivalry</title>
+    <desc lang="en">E1 One of the greatest players of his generation revisits some of the iconic Manchester United v Liverpool clashes that he was a part of.</desc>
+  </programme>
+  <programme start="20260501080000 +0000" stop="20260501083000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep48: Dimitar Berbatov</title>
+    <desc lang="en">E48 We speak to Dimitar Berbatov, a player whose elegance and composure left a lasting imprint on English football.</desc>
+  </programme>
+  <programme start="20260501083000 +0000" stop="20260501090000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Big Interview:</title>
+    <desc lang="en">E38 Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20260501090000 +0000" stop="20260501093000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Netbusters:</title>
+    <desc lang="en">E34 Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
+  </programme>
+  <programme start="20260501093000 +0000" stop="20260501100000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Fantasy Show</title>
+    <desc lang="en">Haaland or Salah? Saka or Palmer? Isak or Cunha? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501100000 +0000" stop="20260501110000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Catch-up Show:</title>
+    <desc lang="en">E37 The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
+  </programme>
+  <programme start="20260501110000 +0000" stop="20260501120000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Welcome to the Weekend</title>
+    <desc lang="en">Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend.</desc>
+  </programme>
+  <programme start="20260501120000 +0000" stop="20260501123000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Classic Match: Mun Vs Liv</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2015/2016 season.</desc>
+  </programme>
+  <programme start="20260501123000 +0000" stop="20260501133000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Moments: Ep03: Michael Carrick</title>
+    <desc lang="en">E3 With 481 Premier League appearances and five titles - Michael Carrick is a Premier League icon. Carrick sits down with Premier League Moments to look back over his glittering career.</desc>
+  </programme>
+  <programme start="20260501133000 +0000" stop="20260501140000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Big Interview:</title>
+    <desc lang="en">E38 Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20260501140000 +0000" stop="20260501143000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Fantasy Show</title>
+    <desc lang="en">Haaland or Salah? Saka or Palmer? Isak or Cunha? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions.</desc>
+  </programme>
+  <programme start="20260501143000 +0000" stop="20260501153000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Fanzone</title>
+    <desc lang="en">This is the show that puts international fans at the heart of the Premier League conversation. We connect with fans from around the world as they share their views on their teams and favourite players. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501153000 +0000" stop="20260501160000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Preview</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20260501160000 +0000" stop="20260501170000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Welcome to the Weekend</title>
+    <desc lang="en">Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend.</desc>
+  </programme>
+  <programme start="20260501170000 +0000" stop="20260501173000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Fantasy Show</title>
+    <desc lang="en">Haaland or Salah? Saka or Palmer? Isak or Cunha? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions.</desc>
+  </programme>
+  <programme start="20260501173000 +0000" stop="20260501180000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Big Interview:</title>
+    <desc lang="en">E38 Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20260501180000 +0000" stop="20260501190000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PLTV: PL Review 2025/26</title>
+    <desc lang="en">Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260501190000 +0000" stop="20260501213000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Premier League 2025/26: Match Week 32: Sunderland vs. Tottenham Hotspur</title>
+    <desc lang="en">Premier League 2025/26: Match Week 32: Sunderland vs Tottenham Hotspur, from Stadium of Light, Sunderland city, England.</desc>
+  </programme>
+  <programme start="20260501213000 +0000" stop="20260501223000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Team Talks</title>
+    <desc lang="en">Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501223000 +0000" stop="20260501230000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Big Interview:</title>
+    <desc lang="en">E38 Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20260501230000 +0000" stop="20260501233000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Preview</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20260501233000 +0000" stop="20260502000000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW35: Leeds Vs Burnley</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260502000000 +0000" stop="20260502003000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">PL Stories: Ep48: Dimitar Berbatov</title>
+    <desc lang="en">E48 We speak to Dimitar Berbatov, a player whose elegance and composure left a lasting imprint on English football. Focusing on his Premier League years.</desc>
+  </programme>
+  <programme start="20260502003000 +0000" stop="20260502010000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Classic Match: Mun Vs Liv</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2015/2016 season.</desc>
+  </programme>
+  <programme start="20260502010000 +0000" stop="20260502020000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Team Talks</title>
+    <desc lang="en">Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20260502020000 +0000" stop="20260502023000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">The Big Interview:</title>
+    <desc lang="en">E38 Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260502023000 +0000" stop="20260502030000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Match Hls 25/26: MW35: Leeds Vs Burnley</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260502030000 +0000" stop="20260502033000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">Preview</title>
+    <desc lang="en">We preview Manchester United's blockbuster clash with Liverpool, Arsenal taking on Fulham in a London derby and Manchester City's trip to Everton.</desc>
+  </programme>
+  <programme start="20260502033000 +0000" stop="20260502043000 +0000" channel="AstroPremierLeague2.my">
+    <title lang="en">1-to-11: Ep04: Gabriel Agbonlahor</title>
+    <desc lang="en">E4 Gabby Agbonlahor sits down for 1-to-11 to reveal his ultimate Aston Villa lineup, made up of the teammates he played alongside.</desc>
+  </programme>
+  <programme start="20260430220000 +0000" stop="20260501040000 +0000" channel="AstroPremierLeague3.my">
+    <title lang="en">Astro Premier League 3</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2025/26: Match Week 35:.</desc>
+  </programme>
+  <programme start="20260501040000 +0000" stop="20260501100000 +0000" channel="AstroPremierLeague3.my">
+    <title lang="en">Astro Premier League 3</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2025/26: Match Week 35: Wolverhampton Wanderers vs Sunderland. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501100000 +0000" stop="20260501160000 +0000" channel="AstroPremierLeague3.my">
+    <title lang="en">Astro Premier League 3</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2025/26: Match Week 35: Wolverhampton Wanderers vs Sunderland.</desc>
+  </programme>
+  <programme start="20260501160000 +0000" stop="20260501220000 +0000" channel="AstroPremierLeague3.my">
+    <title lang="en">Astro Premier League 3</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2025/26: Match Week 35: Wolverhampton Wanderers vs Sunderland.</desc>
+  </programme>
+  <programme start="20260501220000 +0000" stop="20260502040000 +0000" channel="AstroPremierLeague3.my">
+    <title lang="en">Astro Premier League 3</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2025/26: Match Week 35: Wolverhampton Wanderers vs Sunderland.</desc>
+  </programme>
+  <programme start="20260428012000 +0000" stop="20260428033000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Leeds vs Wolves</title>
+    <desc lang="en">Premier League 2025/26: Match Week 33: Leeds United vs. Wolverhampton Wanderers, from Elland Road.</desc>
+  </programme>
+  <programme start="20260428033000 +0000" stop="20260428054000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Man Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Manchester United vs. Brentford, from Old Trafford.</desc>
+  </programme>
+  <programme start="20260428054000 +0000" stop="20260428075000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Fulham vs Aston Villa</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Fulham vs. Aston Villa, from Craven Cottage.</desc>
+  </programme>
+  <programme start="20260428075000 +0000" stop="20260428082000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Match HL 2025/26: WK34: ARS vs NEW</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260428082000 +0000" stop="20260428085000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Match HL 2025/26: WK34: FUL vs AVL</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260428085000 +0000" stop="20260428110000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Liverpool vs Crystal Palace</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Liverpool vs. Crystal Palace, from Anfield.</desc>
+  </programme>
+  <programme start="20260428110000 +0000" stop="20260428113000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Match HL 2025/26: WK34: MUN vs BRE</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260428113000 +0000" stop="20260428120000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PLTV: Extra Time</title>
+    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year.</desc>
+  </programme>
+  <programme start="20260428120000 +0000" stop="20260428130000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL Review 2025/26: Week 34</title>
+    <desc lang="en">Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260428130000 +0000" stop="20260428133000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Netbusters 2025/26:</title>
+    <desc lang="en">E34 Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+  </programme>
+  <programme start="20260428133000 +0000" stop="20260428154000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Man Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Manchester United vs. Brentford, from Old Trafford.</desc>
+  </programme>
+  <programme start="20260428154000 +0000" stop="20260428175000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Brighton vs Chelsea</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Brighton &amp; Hove Albion vs. Chelsea, from American Express Stadium. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260428175000 +0000" stop="20260428200000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: West Ham vs Everton</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: West Ham United vs. Everton, from London Stadium.</desc>
+  </programme>
+  <programme start="20260428200000 +0000" stop="20260428210000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL Review 2025/26: Week 34</title>
+    <desc lang="en">Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260428210000 +0000" stop="20260428213000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Netbusters 2025/26:</title>
+    <desc lang="en">E34 Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+  </programme>
+  <programme start="20260428213000 +0000" stop="20260428220000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Match HL 2025/26: WK34: WHU vs EVE</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260428220000 +0000" stop="20260429001000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Bournemouth vs Leeds</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: A.F.C. Bournemouth vs. Leeds United, from Vitality Stadium.</desc>
+  </programme>
+  <programme start="20260429001000 +0000" stop="20260429004000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">West Ham vs Manchester Utd 2015/16</title>
+    <desc lang="en">PL Classic 2023/24: West Ham marked their departure from Upton Park after 112 years with a thrilling victory that may have ended Manchester United's chances of Champions League qualifications.</desc>
+  </programme>
+  <programme start="20260429004000 +0000" stop="20260429011000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Liverpool vs Manchester United 2010/11</title>
+    <desc lang="en">PL Classic 2023/24: Dirk Kuyt finest hour in a Liverpool shirt sees him grab a hat-trick against rivals United. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260429011000 +0000" stop="20260429032000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Sunderland vs Nottm Forest</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Sunderland vs. Nottingham Forest, from Stadium of Light.</desc>
+  </programme>
+  <programme start="20260429032000 +0000" stop="20260429045000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Final Whistle: Season 2025/26:</title>
+    <desc lang="en">E2 Final Whistle: Episode 2 follows Nicklas Bendtner on a journey shaped by promise, pressure, and controversy. From being discovered by Arsenal and guided by Arsene Wenger, to arriving among The Invincibles,.</desc>
+  </programme>
+  <programme start="20260429045000 +0000" stop="20260429070000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Arsenal vs Newcastle</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Arsenal vs. Newcastle United, from Emirates Stadium.</desc>
+  </programme>
+  <programme start="20260429070000 +0000" stop="20260429091000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Man Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Manchester United vs. Brentford, from Old Trafford.</desc>
+  </programme>
+  <programme start="20260429091000 +0000" stop="20260429112000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Fulham vs Aston Villa</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Fulham vs. Aston Villa, from Craven Cottage.</desc>
+  </programme>
+  <programme start="20260429112000 +0000" stop="20260429115000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PLTV: The Final Word</title>
+    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
+  </programme>
+  <programme start="20260429115000 +0000" stop="20260429125000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Generation XG 2025/26:</title>
+    <desc lang="en">E29 Expert analysis and insightful data are used to explain the twists and turns of the Premier League matchweek. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260429125000 +0000" stop="20260429145000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Burnley vs Man City</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Burnley vs. Manchester City, from Andy Madley.</desc>
+  </programme>
+  <programme start="20260429145000 +0000" stop="20260429172000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Wolves vs Tottenham</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Wolverhampton Wanderers vs. Tottenham Hotspur, from Molineux Stadium.</desc>
+  </programme>
+  <programme start="20260429172000 +0000" stop="20260429175000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Match HL 2025/26: WK34: MUN vs BRE</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260429175000 +0000" stop="20260429182000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PLTV: Extra Time</title>
+    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year.</desc>
+  </programme>
+  <programme start="20260429182000 +0000" stop="20260429213000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Everton vs Liverpool</title>
+    <desc lang="en">Premier League 2025/26: Match Week 33: Everton vs. Liverpool, from Hill Dickinson Stadium.</desc>
+  </programme>
+  <programme start="20260429213000 +0000" stop="20260429220000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PLTV: The Final Word</title>
+    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
+  </programme>
+  <programme start="20260429220000 +0000" stop="20260430001000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: West Ham vs Everton</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: West Ham United vs. Everton, from London Stadium. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260430001000 +0000" stop="20260430011000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Generation XG 2025/26:</title>
+    <desc lang="en">E29 Expert analysis and insightful data are used to explain the twists and turns of the Premier League matchweek.</desc>
+  </programme>
+  <programme start="20260430011000 +0000" stop="20260430032000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Arsenal vs Newcastle</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Arsenal vs. Newcastle United, from Emirates Stadium.</desc>
+  </programme>
+  <programme start="20260430032000 +0000" stop="20260430035000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Netbusters 2025/26:</title>
+    <desc lang="en">E34 Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+  </programme>
+  <programme start="20260430035000 +0000" stop="20260430045000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL Review 2025/26: Week 34</title>
+    <desc lang="en">Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260430045000 +0000" stop="20260430065000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Burnley vs Man City</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Burnley vs. Manchester City, from Andy Madley.</desc>
+  </programme>
+  <programme start="20260430065000 +0000" stop="20260430092000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Wolves vs Tottenham</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Wolverhampton Wanderers vs. Tottenham Hotspur, from Molineux Stadium.</desc>
+  </programme>
+  <programme start="20260430092000 +0000" stop="20260430095000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Tottenham vs Everton 2002/03</title>
+    <desc lang="en">PL Classic 2023/24: A hat-trick for Robbie Keane, including the winner, in a very close game against Everton. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260430095000 +0000" stop="20260430120000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Sunderland vs Nottm Forest</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Sunderland vs. Nottingham Forest, from Stadium of Light.</desc>
+  </programme>
+  <programme start="20260430120000 +0000" stop="20260430123000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL Stories 2025/26: Dimitar Berbatov</title>
+    <desc lang="en">We speak to Dimitar Berbatov, a player whose elegance and composure left a lasting imprint on English football.</desc>
+  </programme>
+  <programme start="20260430123000 +0000" stop="20260430144000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Liverpool vs Crystal Palace</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Liverpool vs. Crystal Palace, from Anfield.</desc>
+  </programme>
+  <programme start="20260430144000 +0000" stop="20260430165000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Brighton vs Chelsea</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Brighton &amp; Hove Albion vs. Chelsea, from American Express Stadium.</desc>
+  </programme>
+  <programme start="20260430165000 +0000" stop="20260430190000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Bournemouth vs Leeds</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: A.F.C. Bournemouth vs. Leeds United, from Vitality Stadium.</desc>
+  </programme>
+  <programme start="20260430190000 +0000" stop="20260430193000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL Stories 2025/26: Dimitar Berbatov</title>
+    <desc lang="en">We speak to Dimitar Berbatov, a player whose elegance and composure left a lasting imprint on English football.</desc>
+  </programme>
+  <programme start="20260430193000 +0000" stop="20260430214000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Fulham vs Aston Villa</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Fulham vs. Aston Villa, from Craven Cottage. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260430214000 +0000" stop="20260430221000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Match HL 2025/26: WK34: SUN vs NFO</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20260430221000 +0000" stop="20260501004000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Wolves vs Tottenham</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Wolverhampton Wanderers vs. Tottenham Hotspur, from Molineux Stadium.</desc>
+  </programme>
+  <programme start="20260501004000 +0000" stop="20260501024000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Burnley vs Man City</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Burnley vs. Manchester City, from Andy Madley.</desc>
+  </programme>
+  <programme start="20260501024000 +0000" stop="20260501031000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL Stories 2025/26: Dimitar Berbatov</title>
+    <desc lang="en">We speak to Dimitar Berbatov, a player whose elegance and composure left a lasting imprint on English football.</desc>
+  </programme>
+  <programme start="20260501031000 +0000" stop="20260501052000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Liverpool vs Crystal Palace</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Liverpool vs. Crystal Palace, from Anfield.</desc>
+  </programme>
+  <programme start="20260501052000 +0000" stop="20260501073000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Bournemouth vs Leeds</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: A.F.C. Bournemouth vs. Leeds United, from Vitality Stadium.</desc>
+  </programme>
+  <programme start="20260501073000 +0000" stop="20260501094000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: West Ham vs Everton</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: West Ham United vs. Everton, from London Stadium. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501094000 +0000" stop="20260501103000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Generation XG 2025/26:</title>
+    <desc lang="en">E29 Expert analysis and insightful data are used to explain the twists and turns of the Premier League matchweek.</desc>
+  </programme>
+  <programme start="20260501103000 +0000" stop="20260501110000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Netbusters 2025/26:</title>
+    <desc lang="en">E34 Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+  </programme>
+  <programme start="20260501110000 +0000" stop="20260501120000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL Review 2025/26: Week 34</title>
+    <desc lang="en">Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260501120000 +0000" stop="20260501123000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Liverpool vs Arsenal 2008/09</title>
+    <desc lang="en">PL Classic 2023/24: Andrei Arshavin scores four for Arsenal in an eight goal thriller as Fernando Torres and Yossi Benayoun get two each for Liverpool.</desc>
+  </programme>
+  <programme start="20260501123000 +0000" stop="20260501130000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Liverpool vs Arsenal 2013/14</title>
+    <desc lang="en">PL Classic 2023/24: Liverpool made a mockery of Arsenal's status as Premier League leaders by handing out an emphatic beating at Anfield.</desc>
+  </programme>
+  <programme start="20260501130000 +0000" stop="20260501143000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Final Whistle: Season 2025/26:</title>
+    <desc lang="en">E2 Final Whistle: Episode 2 follows Nicklas Bendtner on a journey shaped by promise, pressure, and controversy. From being discovered by Arsenal and guided by Arsene Wenger, to arriving among The Invincibles,.</desc>
+  </programme>
+  <programme start="20260501143000 +0000" stop="20260501164000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Arsenal vs Newcastle</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Arsenal vs. Newcastle United, from Emirates Stadium. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501164000 +0000" stop="20260501185000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Man Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Manchester United vs. Brentford, from Old Trafford.</desc>
+  </programme>
+  <programme start="20260501185000 +0000" stop="20260501210000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Leeds vs Burnley  ᴸᶦᵛᵉ</title>
+    <desc lang="en">LIVE: Premier League 2025/26: Match Week 35: Leeds United vs. Burnley, from Elland Road.</desc>
+    <live />
+  </programme>
+  <programme start="20260501210000 +0000" stop="20260501220000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL Moments Ep.9: Gary Cahill</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+  </programme>
+  <programme start="20260501220000 +0000" stop="20260502001000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Liverpool vs Crystal Palace</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Liverpool vs. Crystal Palace, from Anfield.</desc>
+  </programme>
+  <programme start="20260502001000 +0000" stop="20260502004000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">Fantasy Show 2025/26: Week 30</title>
+    <desc lang="en">Haaland or Salah? Saka or Palmer? Isak or Cunha? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions.</desc>
+  </programme>
+  <programme start="20260502004000 +0000" stop="20260502011000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL Preview 2025/26: Week 30</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20260502011000 +0000" stop="20260502032000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Brighton vs Chelsea</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Brighton &amp; Hove Albion vs. Chelsea, from American Express Stadium. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260502032000 +0000" stop="20260502053000 +0000" channel="AstroPremierLeague.my">
+    <title lang="en">PL: Leeds vs Burnley</title>
+    <desc lang="en">Premier League 2025/26: Match Week 35: Leeds United vs. Burnley, from Elland Road.</desc>
+  </programme>
+  <programme start="20260428003000 +0000" stop="20260428013000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PBR UTB 2026:</title>
+    <desc lang="en">PBR UTB 2026: Ep.12, event highlights from Denny Sanford PREMIER Center, Sioux Falls, South Dakota. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260428013000 +0000" stop="20260428034000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Crystal Palace vs West Ham</title>
+    <desc lang="en">Premier League 2025/26: Match Week 33: Crystal Palace vs. West Ham United, from Selhurst Park.</desc>
+  </programme>
+  <programme start="20260428034000 +0000" stop="20260428061000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Wolves vs Tottenham</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Wolverhampton Wanderers vs. Tottenham Hotspur, from Molineux Stadium.</desc>
+  </programme>
+  <programme start="20260428061000 +0000" stop="20260428082000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Tour of Hainan 2026: Stage 4</title>
+    <desc lang="en">Tour of Hainan 2026: Stage 4, from Hainan Island, China.</desc>
+  </programme>
+  <programme start="20260428082000 +0000" stop="20260428085000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">FA Cup 2025/26: Semi Finals: Highlights</title>
+    <desc lang="en">Highlights of the 2025/26 FA Cup Semi-finals between Chelsea and Leeds United and Manchester City and Southampton.</desc>
+  </programme>
+  <programme start="20260428085000 +0000" stop="20260428095000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">2025 Giants  ᴸᶦᵛᵉ</title>
+    <desc lang="en">E5 25 of the most gargantuan gentlemen anywhere on the globe are gonna be gathering here in search of glory. But before they do that, they've gotta book their places via qualifying tour.</desc>
+    <live />
+  </programme>
+  <programme start="20260428095000 +0000" stop="20260428102100 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Own The Moment: Ep2 - Innocent</title>
+    <desc lang="en">E2 As Malaysia's defending champions, SRG.OG heads to the 2025 Esports World Cup in Riyadh. This is more than a competition, it's the untold story of their journey, personal battles, and the brotherhood.</desc>
+  </programme>
+  <programme start="20260428102100 +0000" stop="20260428135000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">FA Cup Semi Finals: Chelsea vs Leeds</title>
+    <desc lang="en">Emirates FA Cup 2025/26: Semi Finals: Chelsea vs Leeds United, from Wembley Stadium, London. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260428135000 +0000" stop="20260428160000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Man Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Manchester United vs. Brentford, from Old Trafford.</desc>
+  </programme>
+  <programme start="20260428160000 +0000" stop="20260428225000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">UFC 2026: Sterling vs Zalal</title>
+    <desc lang="en">UFC 2026: Main Fight: Featherweight Bout: Aljamain Sterling vs. Youssef Zalal, takes place at the Meta APEX, Las Vegas, Nevada.</desc>
+  </programme>
+  <programme start="20260428225000 +0000" stop="20260429010000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Burnley vs Man City</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Burnley vs. Manchester City, from Andy Madley.</desc>
+  </programme>
+  <programme start="20260429010000 +0000" stop="20260429020000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL Review 2025/26: Week 34</title>
+    <desc lang="en">Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260429020000 +0000" stop="20260429041000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Arsenal vs Newcastle</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Arsenal vs. Newcastle United, from Emirates Stadium.</desc>
+  </programme>
+  <programme start="20260429041000 +0000" stop="20260429062000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Sunderland vs Nottm Forest</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Sunderland vs. Nottingham Forest, from Stadium of Light.</desc>
+  </programme>
+  <programme start="20260429062000 +0000" stop="20260429082000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Tour of Hainan 2026: Stage 5</title>
+    <desc lang="en">Tour of Hainan 2026: Stage 5, from Hainan Island, China. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260429082000 +0000" stop="20260429085000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Tour Of Oman 2026 Daily Hls: Stage 5</title>
+    <desc lang="en">The 2026 Tour of Oman is a road cycling stage racep program highlights from Oman.</desc>
+  </programme>
+  <programme start="20260429085000 +0000" stop="20260429110000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Man Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Manchester United vs. Brentford, from Old Trafford.</desc>
+  </programme>
+  <programme start="20260429110000 +0000" stop="20260429120000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">FA Cup 2025/26: Semi Finals: Review</title>
+    <desc lang="en">Review show of the 2025/26 FA Cup semi-finals between Chelsea and Leeds United and Manchester City and Southampton.</desc>
+  </programme>
+  <programme start="20260429120000 +0000" stop="20260429130000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Schneider Electric Marathon de Paris Final Program Hls</title>
+    <desc lang="en">The Schneider Electric Marathon de Paris 2026: Final Program Highlights feature a route through the streets of the capital, from the Champs-elysees to Avenue Foch.</desc>
+  </programme>
+  <programme start="20260429130000 +0000" stop="20260429153000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">FA Cup Semi Finals: Man City vs Southampton</title>
+    <desc lang="en">Emirates FA Cup 2025/26: Semi Finals: Manchester City vs Southampton, from Wembley Stadium, London.</desc>
+  </programme>
+  <programme start="20260429153000 +0000" stop="20260429160000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">FA Cup 2025/26: Semi Finals: Highlights</title>
+    <desc lang="en">Highlights of the 2025/26 FA Cup Semi-finals between Chelsea and Leeds United and Manchester City and Southampton.</desc>
+  </programme>
+  <programme start="20260429160000 +0000" stop="20260429184000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">DFB: Leverkusen vs Bayern Munich</title>
+    <desc lang="en">DFB Cup 2025/26: Semifinals: Bayer 04 Leverkusen vs FC Bayern Munich, from BayArena stadium, Leverkusen city, Germany. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260429184000 +0000" stop="20260429210000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Leeds vs Wolves</title>
+    <desc lang="en">Premier League 2025/26: Match Week 33: Leeds United vs. Wolverhampton Wanderers, from Elland Road.</desc>
+  </programme>
+  <programme start="20260429210000 +0000" stop="20260429220000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Schneider Electric Marathon de Paris Final Program Hls</title>
+    <desc lang="en">The Schneider Electric Marathon de Paris 2026: Final Program Highlights feature a route through the streets of the capital, from the Champs-elysees to Avenue Foch.</desc>
+  </programme>
+  <programme start="20260429220000 +0000" stop="20260430010000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">FA Cup: Man City vs Liverpool</title>
+    <desc lang="en">Emirates FA Cup 2025/26: Quarter Finals: Manchester City vs Liverpool, from Etihad Stadium, Manchester city, England.</desc>
+  </programme>
+  <programme start="20260430010000 +0000" stop="20260430020000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Schneider Electric Marathon de Paris Final Program Hls</title>
+    <desc lang="en">The Schneider Electric Marathon de Paris 2026: Final Program Highlights feature a route through the streets of the capital, from the Champs-elysees to Avenue Foch.</desc>
+  </programme>
+  <programme start="20260430020000 +0000" stop="20260430043000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">FA Cup: Chelsea vs Port Vale</title>
+    <desc lang="en">Emirates FA Cup 2025/26: Quarter Finals: Chelsea vs Port Vale, from Stamford Bridge stadium, London city, England.</desc>
+  </programme>
+  <programme start="20260430043000 +0000" stop="20260430050000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Carabao Cup 2025/26 - Highlights</title>
+    <desc lang="en">Carabao Cup 2025/26: Highlights of all the matches during the week, including players and managers interviews.</desc>
+  </programme>
+  <programme start="20260430050000 +0000" stop="20260430080000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">FA Cup: West Ham vs Leeds</title>
+    <desc lang="en">Emirates FA Cup 2025/26: Quarter Finals: West Ham vs Leeds United, from London Stadium, London city, England. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260430080000 +0000" stop="20260430090000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Schneider Electric Marathon de Paris Final Program Hls</title>
+    <desc lang="en">The Schneider Electric Marathon de Paris 2026: Final Program Highlights feature a route through the streets of the capital, from the Champs-elysees to Avenue Foch.</desc>
+  </programme>
+  <programme start="20260430090000 +0000" stop="20260430093000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">World's Strongest Man 2024 - Episode 5</title>
+    <desc lang="en">This year's World's Strongest Man competition will see the sport's most dominant strength athletes compete for the title.</desc>
+  </programme>
+  <programme start="20260430093000 +0000" stop="20260430120000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Wolves vs Tottenham</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Wolverhampton Wanderers vs. Tottenham Hotspur, from Molineux Stadium.</desc>
+  </programme>
+  <programme start="20260430120000 +0000" stop="20260430130000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">World's Strongest Man 2025:</title>
+    <desc lang="en">E4 25 Men bringing the biggest of big guns to a shootout in the sun &amp; amongst them the duo who've dominated this sport so far this decade.</desc>
+  </programme>
+  <programme start="20260430130000 +0000" stop="20260430151000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Fulham vs Aston Villa</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Fulham vs. Aston Villa, from Craven Cottage.</desc>
+  </programme>
+  <programme start="20260430151000 +0000" stop="20260430160000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Tour of Hainan 2026: Highlights</title>
+    <desc lang="en">Tour of Hainan 2026: Highlights, from Hainan Island, China.</desc>
+  </programme>
+  <programme start="20260430160000 +0000" stop="20260430184000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">DFB: Stuttgart vs Freiburg</title>
+    <desc lang="en">DFB Cup 2025/26: Semifinals: VFB Stuttgart vs Sport-Club Freiburg, from MHP Arena stadium, Stuttgart city, Germany. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260430184000 +0000" stop="20260430210000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Japan Rugby: D-Rocks vs Blue Revs</title>
+    <desc lang="en">Japan Rugby League One 2025-26: D-Rocks vs Blue Revs, at Prince Chichibu Memorial Stadium, Tokyo, Japan.</desc>
+  </programme>
+  <programme start="20260430210000 +0000" stop="20260430220000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">World's Strongest Man 2025:</title>
+    <desc lang="en">E4 25 Men bringing the biggest of big guns to a shootout in the sun &amp; amongst them the duo who've dominated this sport so far this decade.</desc>
+  </programme>
+  <programme start="20260430220000 +0000" stop="20260501001000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Crystal Palace vs West Ham</title>
+    <desc lang="en">Premier League 2025/26: Match Week 33: Crystal Palace vs. West Ham United, from Selhurst Park.</desc>
+  </programme>
+  <programme start="20260501001000 +0000" stop="20260501011000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">2025 Giants  ᴸᶦᵛᵉ</title>
+    <desc lang="en">E5 25 of the most gargantuan gentlemen anywhere on the globe are gonna be gathering here in search of glory. But before they do that, they've gotta book their places via qualifying tour.</desc>
+    <live />
+  </programme>
+  <programme start="20260501011000 +0000" stop="20260501020000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">BP Ultimate Rally Raid Portugal Final Program Hls</title>
+    <desc lang="en">W2RC: BP Ultimate Rally Raid Portugal 2026: Final Program Highlights from GrAndola - Badajoz - Loule.</desc>
+  </programme>
+  <programme start="20260501020000 +0000" stop="20260501043000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">FA Cup: Southampton vs Arsenal</title>
+    <desc lang="en">Emirates FA Cup 2025/26: Quarter Finals: Southampton vs Arsenal, from St. Mary's Stadium, Southampton city, England.</desc>
+  </programme>
+  <programme start="20260501043000 +0000" stop="20260501050000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Muscat Classic 2026: Final Program Hls</title>
+    <desc lang="en">Muscat Classic 2026: Final Program Highlights from Al Mouj to Al Bustan. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501050000 +0000" stop="20260501080000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">FA Cup Semi Finals: Chelsea vs Leeds</title>
+    <desc lang="en">Emirates FA Cup 2025/26: Semi Finals: Chelsea vs Leeds United, from Wembley Stadium, London.</desc>
+  </programme>
+  <programme start="20260501080000 +0000" stop="20260501090000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">FA Cup 2025/26: Semi Finals: Review</title>
+    <desc lang="en">Review show of the 2025/26 FA Cup semi-finals between Chelsea and Leeds United and Manchester City and Southampton.</desc>
+  </programme>
+  <programme start="20260501090000 +0000" stop="20260501110000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">MPL MY S17 2026: FL vs AC  ᴸᶦᵛᵉ</title>
+    <desc lang="en">S17 LIVE: MPL Malaysia S17 2026: Week 5, Match 29: FL vs AC.</desc>
+    <live />
+  </programme>
+  <programme start="20260501110000 +0000" stop="20260501120000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PBR UTB 2026:</title>
+    <desc lang="en">PBR UTB 2026: Ep.13, event highlights from First Interstate Arena at MetraPark, Billings, Montana.</desc>
+  </programme>
+  <programme start="20260501120000 +0000" stop="20260501121500 +0000" channel="AstroGrandstand.my">
+    <title lang="en">This Is Our Time:</title>
+    <desc lang="en">Behind the label of a development club, New York Dutch Lions FC helps athletes sharpen their game and identity, seen clearly through the growth of Malaysia's Marissa Aleya.</desc>
+  </programme>
+  <programme start="20260501121500 +0000" stop="20260501142000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">MPL MY S17 2026: VMS vs iG.  ᴸᶦᵛᵉ</title>
+    <desc lang="en">S17 LIVE: MPL Malaysia S17 2026: Week 5, Match 30: VMS vs iG.</desc>
+    <live />
+  </programme>
+  <programme start="20260501142000 +0000" stop="20260501151000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Schneider Electric Marathon de Paris Final Program Hls</title>
+    <desc lang="en">The Schneider Electric Marathon de Paris 2026: Final Program Highlights feature a route through the streets of the capital, from the Champs-elysees to Avenue Foch. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501151000 +0000" stop="20260501154000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">FA Cup 2025/26: Semi Finals: Highlights</title>
+    <desc lang="en">Highlights of the 2025/26 FA Cup Semi-finals between Chelsea and Leeds United and Manchester City and Southampton.</desc>
+  </programme>
+  <programme start="20260501154000 +0000" stop="20260501175000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">The JOOLA Titans Tour 2026</title>
+    <desc lang="en">Pickleball: The JOOLA Titans Tour 2026 held at Stadium Juara, Kuala Lumpur, Malaysia.</desc>
+  </programme>
+  <programme start="20260501175000 +0000" stop="20260501185000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL Review 2025/26: Week 34</title>
+    <desc lang="en">Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme start="20260501185000 +0000" stop="20260501210000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Leeds vs Burnley  ᴸᶦᵛᵉ</title>
+    <desc lang="en">LIVE: Premier League 2025/26: Match Week 35: Leeds United vs. Burnley, from Elland Road.</desc>
+    <live />
+  </programme>
+  <programme start="20260501210000 +0000" stop="20260501220000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">Tour Of Oman 2026 Final Program Hls</title>
+    <desc lang="en">The 2026 Tour of Oman is a road cycling stage race: Final Program Highlights from Oman.</desc>
+  </programme>
+  <programme start="20260501220000 +0000" stop="20260502003000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Wolves vs Tottenham</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Wolverhampton Wanderers vs. Tottenham Hotspur, from Molineux Stadium.</desc>
+  </programme>
+  <programme start="20260502003000 +0000" stop="20260502025000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Man Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Match Week 34: Manchester United vs. Brentford, from Old Trafford. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260502025000 +0000" stop="20260502035000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">2025 Giants  ᴸᶦᵛᵉ</title>
+    <desc lang="en">E5 25 of the most gargantuan gentlemen anywhere on the globe are gonna be gathering here in search of glory. But before they do that, they've gotta book their places via qualifying tour.</desc>
+    <live />
+  </programme>
+  <programme start="20260502035000 +0000" stop="20260502060000 +0000" channel="AstroGrandstand.my">
+    <title lang="en">PL: Leeds vs Burnley</title>
+    <desc lang="en">Premier League 2025/26: Match Week 35: Leeds United vs. Burnley, from Elland Road.</desc>
+  </programme>
+  <programme start="20260428013500 +0000" stop="20260428042500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">DFB: Stuttgart vs SC Freiburg</title>
+    <desc lang="en">DFB Pokal 2025/26: Semi Finals: VfB Stuttgart vs SC Freiburg, from the MHP Arena, Stuttgart, Baden-Wurttemberg, Germany.</desc>
+  </programme>
+  <programme start="20260428042500 +0000" stop="20260428063500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Chelsea vs Manchester Utd</title>
+    <desc lang="en">Premier League 2025/26: Round 33: Chelsea vs Manchester Utd, from the Stamford Bridge, West London, England.</desc>
+  </programme>
+  <programme start="20260428063500 +0000" stop="20260428084500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Arsenal vs Newcastle Utd</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Arsenal vs Newcastle Utd, from the Emirates Stadium, London, England.</desc>
+  </programme>
+  <programme start="20260428084500 +0000" stop="20260428110000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Sunderland vs Arsenal</title>
+    <desc lang="en">Premier League 2025/26: Round 11: Sunderland vs Arsenal, from Stadium of Light, Sunderland, England. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260428110000 +0000" stop="20260428131000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Manchester Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Manchester Utd vs Brentford, from the Old Trafford, Manchester, England.</desc>
+  </programme>
+  <programme start="20260428131000 +0000" stop="20260428152000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Arsenal vs Newcastle Utd</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Arsenal vs Newcastle Utd, from the Emirates Stadium, London, England.</desc>
+  </programme>
+  <programme start="20260428152000 +0000" stop="20260428173000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Manchester Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Manchester Utd vs Brentford, from the Old Trafford, Manchester, England.</desc>
+  </programme>
+  <programme start="20260428173000 +0000" stop="20260428194500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Liverpool vs Brighton</title>
+    <desc lang="en">Premier League 2025/26: Round 16: Liverpool vs Brighton &amp; Hove Albion, from the Anfield, Liverpool.</desc>
+  </programme>
+  <programme start="20260428194500 +0000" stop="20260428220000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Arsenal vs Wolverhampton</title>
+    <desc lang="en">Premier League 2025/26: Round 16: Arsenal vs Wolverhampton, from the Emirates Stadium, London.</desc>
+  </programme>
+  <programme start="20260428220000 +0000" stop="20260429001500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Man Utd vs Bournemouth</title>
+    <desc lang="en">Premier League 2025-2026: Round 16: Manchester Utd vs AFC Bournemouth, from the Old Trafford, Manchester, England.</desc>
+  </programme>
+  <programme start="20260429001500 +0000" stop="20260429023000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Manchester Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Manchester Utd vs Brentford, from the Old Trafford, Manchester, England. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260429023000 +0000" stop="20260429044500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Arsenal vs Newcastle Utd</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Arsenal vs Newcastle Utd, from the Emirates Stadium, London, England.</desc>
+  </programme>
+  <programme start="20260429044500 +0000" stop="20260429070000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">DFB: Leverkusen vs Bayern</title>
+    <desc lang="en">DFB Pokal 2025/26: Semi Finals: Bayer Leverkusen vs Bayern Munich, from the Bay Arena, Leverkusen, North Rhine-Westphalia, Germany.</desc>
+  </programme>
+  <programme start="20260429070000 +0000" stop="20260429091500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Newcastle Utd vs Chelsea</title>
+    <desc lang="en">Premier League 2025/26: Round 17: Newcastle Utd vs Chelsea, from the St James Park, Newcastle upon Tyne, England.</desc>
+  </programme>
+  <programme start="20260429091500 +0000" stop="20260429113000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Manchester Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Manchester Utd vs Brentford, from the Old Trafford, Manchester, England.</desc>
+  </programme>
+  <programme start="20260429113000 +0000" stop="20260429134500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Burnley vs Man City</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Burnley vs Manchester City, from Andy Madley.</desc>
+  </programme>
+  <programme start="20260429134500 +0000" stop="20260429160000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Chelsea vs Manchester Utd</title>
+    <desc lang="en">Premier League 2025/26: Round 33: Chelsea vs Manchester Utd, from the Stamford Bridge, West London, England.</desc>
+  </programme>
+  <programme start="20260429160000 +0000" stop="20260429181500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Arsenal vs Newcastle Utd</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Arsenal vs Newcastle Utd, from the Emirates Stadium, London, England. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260429181500 +0000" stop="20260429203000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Tottenham vs Liverpool</title>
+    <desc lang="en">Premier League 2025/26: Round 17: Tottenham Hotspur vs Liverpool, from Tottenham Hotspur Stadium, London.</desc>
+  </programme>
+  <programme start="20260429203000 +0000" stop="20260429224500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Everton vs Arsenal</title>
+    <desc lang="en">Premier League 2025/26: Round 17: Everton vs Arsenal, from Hill Dickinson Stadium, Vauxhall, Liverpool, England.</desc>
+  </programme>
+  <programme start="20260429224500 +0000" stop="20260430005000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Aston Villa vs Manchester Utd</title>
+    <desc lang="en">Premier League 2025/26: Round 17: Aston Villa vs Manchester Utd, from the Villa Park, Aston, Birmingham, England.</desc>
+  </programme>
+  <programme start="20260430005000 +0000" stop="20260430030000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Burnley vs Man City</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Burnley vs Manchester City, from Andy Madley.</desc>
+  </programme>
+  <programme start="20260430030000 +0000" stop="20260430051000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Wolves vs Man Utd</title>
+    <desc lang="en">Premier League 2025/26: Round 15: Wolverhampton vs Manchester Utd, from Molineux Stadium, Wolverhampton, England.</desc>
+  </programme>
+  <programme start="20260430051000 +0000" stop="20260430072000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Manchester Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Manchester Utd vs Brentford, from the Old Trafford, Manchester, England.</desc>
+  </programme>
+  <programme start="20260430072000 +0000" stop="20260430093000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Arsenal vs Newcastle Utd</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Arsenal vs Newcastle Utd, from the Emirates Stadium, London, England. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260430093000 +0000" stop="20260430114500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Burnley vs Man City</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Burnley vs Manchester City, from Andy Madley.</desc>
+  </programme>
+  <programme start="20260430114500 +0000" stop="20260430143000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">DFB: Stuttgart vs SC Freiburg</title>
+    <desc lang="en">DFB Pokal 2025/26: Semi Finals: VfB Stuttgart vs SC Freiburg, from the MHP Arena, Stuttgart, Baden-Wurttemberg, Germany.</desc>
+  </programme>
+  <programme start="20260430143000 +0000" stop="20260430164500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Arsenal vs Newcastle Utd</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Arsenal vs Newcastle Utd, from the Emirates Stadium, London, England.</desc>
+  </programme>
+  <programme start="20260430164500 +0000" stop="20260430190000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Arsenal vs Brighton</title>
+    <desc lang="en">Premier League 2025/26: Round 18: Arsenal vs Brighton &amp; Hove Albion, from Emirates Stadium, London, England.</desc>
+  </programme>
+  <programme start="20260430190000 +0000" stop="20260430211500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Chelsea vs Aston Villa</title>
+    <desc lang="en">Premier League 2025/26: Round 18: Chelsea vs Aston Villa, from Stamford Bridge, Fulham, West London.</desc>
+  </programme>
+  <programme start="20260430211500 +0000" stop="20260430233000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Palace vs Tottenham</title>
+    <desc lang="en">Premier League 2025/26: Round 18: Crystal Palace vs Tottenham Hotspur, from Selhurst Park, Selhurst, England.</desc>
+  </programme>
+  <programme start="20260430233000 +0000" stop="20260501014500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">DFB: Leverkusen vs Bayern</title>
+    <desc lang="en">DFB Pokal 2025/26: Semi Finals: Bayer Leverkusen vs Bayern Munich, from the Bay Arena, Leverkusen, North Rhine-Westphalia, Germany. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501014500 +0000" stop="20260501040000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Arsenal vs Newcastle Utd</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Arsenal vs Newcastle Utd, from the Emirates Stadium, London, England.</desc>
+  </programme>
+  <programme start="20260501040000 +0000" stop="20260501061500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Burnley vs Man City</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Burnley vs Manchester City, from Andy Madley.</desc>
+  </programme>
+  <programme start="20260501061500 +0000" stop="20260501083000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Arsenal vs Aston Villa</title>
+    <desc lang="en">Premier League 2025/26: Round 19: Arsenal vs Aston Villa, from the Emirates Stadium, Holloway, London, England.</desc>
+  </programme>
+  <programme start="20260501083000 +0000" stop="20260501104500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Liverpool vs Leeds Utd</title>
+    <desc lang="en">Premier League 2025/26: Round 19: Liverpool vs Leeds Utd, from the Anfield, Liverpool, England,.</desc>
+  </programme>
+  <programme start="20260501104500 +0000" stop="20260501130000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Manchester Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Manchester Utd vs Brentford, from the Old Trafford, Manchester, England.</desc>
+  </programme>
+  <programme start="20260501130000 +0000" stop="20260501151500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Burnley vs Man City</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Burnley vs Manchester City, from Andy Madley.</desc>
+  </programme>
+  <programme start="20260501151500 +0000" stop="20260501173000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">DFB: Leverkusen vs Bayern</title>
+    <desc lang="en">DFB Pokal 2025/26: Semi Finals: Bayer Leverkusen vs Bayern Munich, from the Bay Arena, Leverkusen, North Rhine-Westphalia, Germany. — iptv-epg.org/kofi</desc>
+  </programme>
+  <programme start="20260501173000 +0000" stop="20260501194500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Manchester Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Manchester Utd vs Brentford, from the Old Trafford, Manchester, England.</desc>
+  </programme>
+  <programme start="20260501194500 +0000" stop="20260501220000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Sunderland vs Man City</title>
+    <desc lang="en">Premier League 2025/26: Round 19: Sunderland vs Manchester City, from the Stadium of Light, Sunderland, England.</desc>
+  </programme>
+  <programme start="20260501220000 +0000" stop="20260502001500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Bournemouth vs Arsenal</title>
+    <desc lang="en">Premier League 2025/26: Round 20: AFC Bournemouth vs Arsenal, from Vitality Stadium, Bournemouth, Dorset, England.</desc>
+  </programme>
+  <programme start="20260502001500 +0000" stop="20260502023000 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Chelsea vs Manchester Utd</title>
+    <desc lang="en">Premier League 2025/26: Round 33: Chelsea vs Manchester Utd, from the Stamford Bridge, West London, England.</desc>
+  </programme>
+  <programme start="20260502023000 +0000" stop="20260502044500 +0000" channel="AstroSuperSportUHD.my">
+    <title lang="en">PL: Manchester Utd vs Brentford</title>
+    <desc lang="en">Premier League 2025/26: Round 34: Manchester Utd vs Brentford, from the Old Trafford, Manchester, England.</desc>
   </programme>
 </tv>
