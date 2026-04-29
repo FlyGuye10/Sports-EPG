@@ -5,7 +5,7 @@ from datetime import datetime
 
 # Source URLs from epgshare01
 SOURCES = [
-     "https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz"
