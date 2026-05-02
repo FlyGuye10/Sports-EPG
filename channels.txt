@@ -9,6 +9,9 @@ AstroSuperSportUHD.my
 SPOTV.my
 SPOTV2.my
 
+# --- HONG KONG---
+NowSportsPrime.hk
+
 # --- SINGAPORE ---
 Hub.Premier.1.sg
 Hub.Premier.2.sg
