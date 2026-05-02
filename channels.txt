@@ -11,6 +11,35 @@ SPOTV2.my
 
 # --- HONG KONG---
 NowSportsPrime.hk
+NowSportsPremierLeague1.hk
+NowSports4K.hk
+NowSports4K2.hk
+NowSports4K3.hk
+NowSports4K616.hk
+NowSports4K617.hk
+NowSports618.hk
+NowSports619.hk
+NowSports650.hk
+NowSports651.hk
+Now668.hk
+NowSports688.hk
+NowSports681.hk
+NowSportsPlus.hk
+NowSportsPremierLeagueTV.hk
+NowSportsPremierLeague2.hk
+NowSportsPremierLeague3.hk
+NowSportsPremierLeague4.hk
+NowSportsPremierLeague5.hk
+NowSportsPremierLeague6.hk
+NowSportsPremierLeague7.hk
+NowSports1.hk
+NowSports2.hk
+NowSports3.hk
+NowSports4.hk
+NowSports5.hk
+NowSports6.hk
+NowSports7.hk
+
 
 # --- SINGAPORE ---
 Hub.Premier.1.sg
