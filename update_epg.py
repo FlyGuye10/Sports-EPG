@@ -9,6 +9,7 @@ SOURCES = [
     "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz",
+    "https://iptv-epg.org/files/epg-qvweloqtki.xml.gz",
     "https://iptv-epg.org/files/epg-my.xml.gz"
 ]
 
