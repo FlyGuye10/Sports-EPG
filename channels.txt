@@ -83,6 +83,7 @@ SkySp.Golf.HD.uk
 SkySp.Golf.uk
 SkySp+HD.uk
 SkySpMainEvHD.uk
+SkySportsMainEventUHD.uk
 SkySp.Mix.HD.uk
 SkySp.News.HD.uk
 Sky.Sports.Football.HD.uk
