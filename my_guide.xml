@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="Sports-EPG Updated: 2026-05-04 03:24:27">
+<tv generator-info-name="Sports-EPG Updated: 2026-05-04 04:24:43">
   <channel id="Sky.Sport.1.nz">
     <display-name lang="en">Sky Sport 1</display-name>
     <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4gZFsogRgbwZdK9k95iHWa/8dee97f8eebca01da8099679b7f42f5c/Sky_Sports_1.png" />
@@ -365,9 +365,17 @@
     <display-name lang="en">Hub Sports 8 HD</display-name>
     <url>http://www.starhubtvplus.com</url>
   </channel>
+  <channel id="SkySportsNews.uk">
+    <display-name>UK - Sky Sports News</display-name>
+    <icon src="https://iptv-epg.org/logos/UK/SkySportsNews.uk.png" />
+  </channel>
   <channel id="SkySportsMainEventUHD.uk">
     <display-name>UK - Sky Sports Main Event UHD</display-name>
     <icon src="https://iptv-epg.org/logos/UK/SkySportsMainEventUHD.uk.png" />
+  </channel>
+  <channel id="SkySportsF1UHD.uk">
+    <display-name>UK -  Sky Sports F1 UHD</display-name>
+    <icon src="https://iptv-epg.org/logos/UK/SkySportsF1UHD.uk.png" />
   </channel>
   <channel id="NowSports4K.hk">
     <display-name>HK - Now Sports 4K</display-name>
@@ -36621,6 +36629,464 @@
       <value>UNRATED</value>
     </rating>
   </programme>
+  <programme start="20260503000000 +0000" stop="20260503010000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260503010000 +0000" stop="20260503020000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260503020000 +0000" stop="20260503030000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260503030000 +0000" stop="20260503040000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260503040000 +0000" stop="20260503050000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260503050000 +0000" stop="20260503060000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260503060000 +0000" stop="20260503070000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Goals on Sunday  ᴸᶦᵛᵉ</title>
+    <desc lang="en">S2026 E16 A round-up of all the latest goals and major talking points from around the world of football.</desc>
+    <live />
+  </programme>
+  <programme start="20260503070000 +0000" stop="20260503080000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Goals on Sunday  ᴸᶦᵛᵉ</title>
+    <desc lang="en">S2026 E16 A round-up of all the latest goals and major talking points from around the world of football.</desc>
+    <live />
+  </programme>
+  <programme start="20260503080000 +0000" stop="20260503100000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">The Sunday Supplement  ᴸᶦᵛᵉ</title>
+    <desc lang="en">E19 The UK's top sports journalists dissect the stories in the Sunday newspapers, offering insight, opinion and in-depth analysis. Essential viewing for fans who want more than just the score.</desc>
+    <live />
+  </programme>
+  <programme start="20260503100000 +0000" stop="20260503110000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Super Sunday Pre-Match  ᴸᶦᵛᵉ</title>
+    <desc lang="en">E33 In the pre-match build-up to Super Sunday, stay up to speed with all the latest news including discussion and analysis of the big talking points.</desc>
+    <live />
+  </programme>
+  <programme start="20260503110000 +0000" stop="20260503120000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Super Sunday Pre-Match  ᴸᶦᵛᵉ</title>
+    <desc lang="en">E33 In the pre-match build-up to Super Sunday, stay up to speed with all the latest news including discussion and analysis of the big talking points.</desc>
+    <live />
+  </programme>
+  <programme start="20260503120000 +0000" stop="20260503123000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Sunday  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay in touch with the news, as studio guests join the team for live reports and the latest scores from all the afternoon's sporting events.</desc>
+    <live />
+  </programme>
+  <programme start="20260503123000 +0000" stop="20260503130000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Sunday  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay in touch with the news, as studio guests join the team for live reports and the latest scores from all the afternoon's sporting events.</desc>
+    <live />
+  </programme>
+  <programme start="20260503130000 +0000" stop="20260503140000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Sunday  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay in touch with the news, as studio guests join the team for live reports and the latest scores from all the afternoon's sporting events.</desc>
+    <live />
+  </programme>
+  <programme start="20260503140000 +0000" stop="20260503150000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Sunday  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay in touch with the news, as studio guests join the team for live reports and the latest scores from all the afternoon's sporting events.</desc>
+    <live />
+  </programme>
+  <programme start="20260503150000 +0000" stop="20260503160000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Sunday  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay in touch with the news, as studio guests join the team for live reports and the latest scores from all the afternoon's sporting events.</desc>
+    <live />
+  </programme>
+  <programme start="20260503160000 +0000" stop="20260503170000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Sunday  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay in touch with the news, as studio guests join the team for live reports and the latest scores from all the afternoon's sporting events.</desc>
+    <live />
+  </programme>
+  <programme start="20260503170000 +0000" stop="20260503180000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Sunday  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay in touch with the news, as studio guests join the team for live reports and the latest scores from all the afternoon's sporting events.</desc>
+    <live />
+  </programme>
+  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Sunday  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay in touch with the news, as studio guests join the team for live reports and the latest scores from all the afternoon's sporting events.</desc>
+    <live />
+  </programme>
+  <programme start="20260503190000 +0000" stop="20260503193000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">The Sky Sports Catch-Up  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">The Sky Sports Catch-Up  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260503200000 +0000" stop="20260503210000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">The Sky Sports Catch-Up  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Take a moment to catch-up with the all biggest sports stories hitting the headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260503210000 +0000" stop="20260503220000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260503220000 +0000" stop="20260503230000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260503230000 +0000" stop="20260504000000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260504000000 +0000" stop="20260504010000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260504010000 +0000" stop="20260504020000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260504020000 +0000" stop="20260504030000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260504030000 +0000" stop="20260504040000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260504040000 +0000" stop="20260504050000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260504050000 +0000" stop="20260504060000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260504060000 +0000" stop="20260504070000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports Breakfast  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260504070000 +0000" stop="20260504080000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports Breakfast  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260504080000 +0000" stop="20260504090000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Ref Watch  ᴸᶦᵛᵉ</title>
+    <desc lang="en">The Sky Sports team analyse some of the big refereeing decisions from the weekend's games. Did the officials get it right?</desc>
+    <live />
+  </programme>
+  <programme start="20260504090000 +0000" stop="20260504100000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports FC  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260504100000 +0000" stop="20260504110000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports FC  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260504110000 +0000" stop="20260504120000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Lunchtime Live  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <live />
+  </programme>
+  <programme start="20260504120000 +0000" stop="20260504130000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Lunchtime Live  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <live />
+  </programme>
+  <programme start="20260504130000 +0000" stop="20260504133000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Desk  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.</desc>
+    <live />
+  </programme>
+  <programme start="20260504133000 +0000" stop="20260504140000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Desk  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.</desc>
+    <live />
+  </programme>
+  <programme start="20260504140000 +0000" stop="20260504150000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Desk  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.</desc>
+    <live />
+  </programme>
+  <programme start="20260504150000 +0000" stop="20260504160000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Desk  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.</desc>
+    <live />
+  </programme>
+  <programme start="20260504160000 +0000" stop="20260504170000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">The Premier League Show  ᴸᶦᵛᵉ</title>
+    <desc lang="en">E81 Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
+    <live />
+  </programme>
+  <programme start="20260504170000 +0000" stop="20260504180000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">The Premier League Show  ᴸᶦᵛᵉ</title>
+    <desc lang="en">E81 Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
+    <live />
+  </programme>
+  <programme start="20260504180000 +0000" stop="20260504190000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Centre  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260504190000 +0000" stop="20260504200000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Centre  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260504200000 +0000" stop="20260504210000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Centre  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260504210000 +0000" stop="20260504213000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260504213000 +0000" stop="20260504220000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Back Pages Tonight  ᴸᶦᵛᵉ</title>
+    <desc lang="en">A look at the big stories dominating the news headlines, with discussion and analysis of sport's major topics.</desc>
+    <live />
+  </programme>
+  <programme start="20260504220000 +0000" stop="20260504230000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260504230000 +0000" stop="20260505000000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260505000000 +0000" stop="20260505010000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260505010000 +0000" stop="20260505020000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260505020000 +0000" stop="20260505030000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260505030000 +0000" stop="20260505040000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260505040000 +0000" stop="20260505050000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260505050000 +0000" stop="20260505060000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260505060000 +0000" stop="20260505070000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports Breakfast  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260505070000 +0000" stop="20260505080000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports Breakfast  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260505080000 +0000" stop="20260505090000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports Breakfast  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260505090000 +0000" stop="20260505100000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports FC  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260505100000 +0000" stop="20260505110000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports FC  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260505110000 +0000" stop="20260505120000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Lunchtime Live  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <live />
+  </programme>
+  <programme start="20260505120000 +0000" stop="20260505130000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Lunchtime Live  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <live />
+  </programme>
+  <programme start="20260505130000 +0000" stop="20260505140000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Desk  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.</desc>
+    <live />
+  </programme>
+  <programme start="20260505140000 +0000" stop="20260505150000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Desk  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.</desc>
+    <live />
+  </programme>
+  <programme start="20260505150000 +0000" stop="20260505160000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Desk  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.</desc>
+    <live />
+  </programme>
+  <programme start="20260505160000 +0000" stop="20260505170000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">The Premier League Show  ᴸᶦᵛᵉ</title>
+    <desc lang="en">E82 Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
+    <live />
+  </programme>
+  <programme start="20260505170000 +0000" stop="20260505180000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">The Premier League Show  ᴸᶦᵛᵉ</title>
+    <desc lang="en">E82 Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
+    <live />
+  </programme>
+  <programme start="20260505180000 +0000" stop="20260505190000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Centre  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260505190000 +0000" stop="20260505200000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Centre  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260505200000 +0000" stop="20260505210000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Centre  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260505210000 +0000" stop="20260505213000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260505213000 +0000" stop="20260505220000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Back Pages Tonight  ᴸᶦᵛᵉ</title>
+    <desc lang="en">A look at the big stories dominating the news headlines, with discussion and analysis of sport's major topics.</desc>
+    <live />
+  </programme>
+  <programme start="20260505220000 +0000" stop="20260505230000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260505230000 +0000" stop="20260506000000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260506000000 +0000" stop="20260506010000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260506010000 +0000" stop="20260506020000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260506020000 +0000" stop="20260506030000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260506030000 +0000" stop="20260506040000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260506040000 +0000" stop="20260506050000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260506050000 +0000" stop="20260506060000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+  </programme>
+  <programme start="20260506060000 +0000" stop="20260506070000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports Breakfast  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260506070000 +0000" stop="20260506080000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports Breakfast  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260506080000 +0000" stop="20260506090000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports Breakfast  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260506090000 +0000" stop="20260506100000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports FC  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260506100000 +0000" stop="20260506110000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sky Sports FC  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+    <live />
+  </programme>
+  <programme start="20260506110000 +0000" stop="20260506120000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Lunchtime Live  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <live />
+  </programme>
+  <programme start="20260506120000 +0000" stop="20260506130000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Lunchtime Live  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <live />
+  </programme>
+  <programme start="20260506130000 +0000" stop="20260506140000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Desk  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.</desc>
+    <live />
+  </programme>
+  <programme start="20260506140000 +0000" stop="20260506150000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Desk  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.</desc>
+    <live />
+  </programme>
+  <programme start="20260506150000 +0000" stop="20260506160000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Desk  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.</desc>
+    <live />
+  </programme>
+  <programme start="20260506160000 +0000" stop="20260506170000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">The Premier League Show : The Run-In ᴸᶦᵛᵉ</title>
+    <desc lang="en">E83 Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
+    <live />
+  </programme>
+  <programme start="20260506170000 +0000" stop="20260506180000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">The Premier League Show : The Run-In ᴸᶦᵛᵉ</title>
+    <desc lang="en">E83 Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
+    <live />
+  </programme>
+  <programme start="20260506180000 +0000" stop="20260506183000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Centre  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260506183000 +0000" stop="20260506190000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Centre  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
+  <programme start="20260506190000 +0000" stop="20260506200000 +0000" channel="SkySportsNews.uk">
+    <title lang="en">Sports Centre  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <live />
+  </programme>
   <programme start="20260503023000 +0000" stop="20260503030000 +0000" channel="SkySportsMainEventUHD.uk">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
@@ -36923,6 +37389,414 @@
     <title lang="en">WSL : Brighton &amp; Hove Albion v Arsenal ᴸᶦᵛᵉ</title>
     <desc lang="en">In the Barclays WSL, Brighton play host to Arsenal.</desc>
     <live />
+  </programme>
+  <programme start="20260503003500 +0000" stop="20260503010500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Qualifying</title>
+    <desc lang="en">Ted Kravitz gives his thoughts.</desc>
+  </programme>
+  <programme start="20260503010500 +0000" stop="20260503011000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Flying Lap: Miami</title>
+    <desc lang="en">Get to grips with Miami International Autodrome on a hot lap of the track - present on the Formula 1 calendar since 2022.</desc>
+  </programme>
+  <programme start="20260503011000 +0000" stop="20260503020500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix: Sprint Race</title>
+    <desc lang="en">Action and highlights of the latest Formula 1 action on Sky Sports.</desc>
+  </programme>
+  <programme start="20260503020500 +0000" stop="20260503023500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Sprint Race</title>
+    <desc lang="en">Ted Kravitz gives his thoughts.</desc>
+  </programme>
+  <programme start="20260503023500 +0000" stop="20260503024000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Flying Lap: Miami</title>
+    <desc lang="en">Get to grips with Miami International Autodrome on a hot lap of the track - present on the Formula 1 calendar since 2022.</desc>
+  </programme>
+  <programme start="20260503024000 +0000" stop="20260503034500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">FIA Formula 2 Championship : Miami: Sprint Race</title>
+    <desc lang="en">Coverage of motor racing action.</desc>
+  </programme>
+  <programme start="20260503034500 +0000" stop="20260503040000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : The Best of Japan 2026</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260503040000 +0000" stop="20260503042500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : The Best Of Australia 2026</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260503042500 +0000" stop="20260503050000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : The Best Of China 2026</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260503050000 +0000" stop="20260503051500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Oscar Piastri Drives a V8 Supercar</title>
+    <desc lang="en">McLaren's Oscar Piastri drives V8 supercars in Australia ahead of his fourth home race in Melbourne, while chatting to Sky F1's Rachel Brookes about his hopes for the season.</desc>
+  </programme>
+  <programme start="20260503051500 +0000" stop="20260503054500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Qualifying</title>
+    <desc lang="en">Ted Kravitz gives his thoughts.</desc>
+  </programme>
+  <programme start="20260503054500 +0000" stop="20260503064500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix: Sprint Race</title>
+    <desc lang="en">Action and highlights of the latest Formula 1 action on Sky Sports.</desc>
+  </programme>
+  <programme start="20260503064500 +0000" stop="20260503071500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Sprint Race</title>
+    <desc lang="en">Ted Kravitz gives his thoughts.</desc>
+  </programme>
+  <programme start="20260503071500 +0000" stop="20260503091500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix: Qualifying</title>
+    <desc lang="en">Action and highlights of the latest Formula 1 action on Sky Sports.</desc>
+  </programme>
+  <programme start="20260503091500 +0000" stop="20260503094500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Qualifying</title>
+    <desc lang="en">Ted Kravitz gives his thoughts.</desc>
+  </programme>
+  <programme start="20260503094500 +0000" stop="20260503113000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">GT World Challenge Europe Motor Racing : Brands Hatch: Sprint Race 1 ᴸᶦᵛᵉ</title>
+    <desc lang="en">After launching in style at Circuit Paul Ricard, the 2026 GT World Challenge heads to Brands Hatch as attention turns to the Sprint Cup with the opening race of two.</desc>
+    <live />
+  </programme>
+  <programme start="20260503113000 +0000" stop="20260503133000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix: Qualifying</title>
+    <desc lang="en">Action and highlights of the latest Formula 1 action on Sky Sports.</desc>
+  </programme>
+  <programme start="20260503133000 +0000" stop="20260503140000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Qualifying</title>
+    <desc lang="en">Ted Kravitz gives his thoughts.</desc>
+  </programme>
+  <programme start="20260503140000 +0000" stop="20260503141000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ollie Bearman IV</title>
+    <desc lang="en">The 2009 Formula 1 world champion Jenson Button chats to British Haas driver Ollie Bearman.</desc>
+  </programme>
+  <programme start="20260503141000 +0000" stop="20260503141500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Rachel Looks Back at the 1st 3 F1 Races</title>
+  </programme>
+  <programme start="20260503141500 +0000" stop="20260503160000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">GT World Challenge Europe Motor Racing : Brands Hatch: Sprint Race 2 ᴸᶦᵛᵉ</title>
+    <desc lang="en">GT World Challenge's visit to Brands Hatch concludes with the second Sprint Cup race of the day.</desc>
+    <live />
+  </programme>
+  <programme start="20260503160000 +0000" stop="20260503162000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">F2: Chasing the Dream : Australia</title>
+    <desc lang="en">A look at the season-opening race at Albert Park Circuit in Melbourne, Australia.</desc>
+  </programme>
+  <programme start="20260503162000 +0000" stop="20260503162500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Flying Lap: Miami</title>
+    <desc lang="en">Get to grips with Miami International Autodrome on a hot lap of the track - present on the Formula 1 calendar since 2022.</desc>
+  </programme>
+  <programme start="20260503162500 +0000" stop="20260503174500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">FIA Formula 2 Championship : Miami: Feature Race ᴸᶦᵛᵉ</title>
+    <desc lang="en">The Formula 2 weekend concludes as Miami stages a Feature Race.</desc>
+    <live />
+  </programme>
+  <programme start="20260503174500 +0000" stop="20260503175500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Valtteri Bottas IV</title>
+    <desc lang="en">Sky F1's Rachel Brookes spends time with Cadillac man Valtteri Bottas at his home in South Australia.</desc>
+  </programme>
+  <programme start="20260503175500 +0000" stop="20260503180000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Flying Lap: Miami</title>
+    <desc lang="en">Get to grips with Miami International Autodrome on a hot lap of the track - present on the Formula 1 calendar since 2022.</desc>
+  </programme>
+  <programme start="20260503180000 +0000" stop="20260503195500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Grand Prix Sunday ᴸᶦᵛᵉ</title>
+    <desc lang="en">Join Sky Sports F1 on the grid ahead of the start of the race at the Miami Grand Prix.</desc>
+    <live />
+  </programme>
+  <programme start="20260503195500 +0000" stop="20260503220000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Race ᴸᶦᵛᵉ</title>
+    <desc lang="en">It's lights out for the 2026 Miami Grand Prix. Last season, Oscar Piastri led a McLaren one-two as Mercedes' George Russell came home in third.</desc>
+    <live />
+  </programme>
+  <programme start="20260503220000 +0000" stop="20260503230000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Chequered Flag ᴸᶦᵛᵉ</title>
+    <desc lang="en">As the chequered flag comes down on the Miami Grand Prix, join Sky Sports F1 for all the reaction and analysis.</desc>
+    <live />
+  </programme>
+  <programme start="20260503230000 +0000" stop="20260503233000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Race ᴸᶦᵛᵉ</title>
+    <desc lang="en">Ted Kravitz is live following the Miami Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
+    <live />
+  </programme>
+  <programme start="20260503233000 +0000" stop="20260504003000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix: Race</title>
+    <desc lang="en">Action and highlights of the latest Formula 1 action on Sky Sports.</desc>
+  </programme>
+  <programme start="20260504003000 +0000" stop="20260504010000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Race</title>
+    <desc lang="en">Ted Kravitz is live following the Miami Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
+  </programme>
+  <programme start="20260504010000 +0000" stop="20260504022000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">FIA Formula 2 Championship : Miami: Feature Race</title>
+    <desc lang="en">Coverage of motor racing action.</desc>
+  </programme>
+  <programme start="20260504022000 +0000" stop="20260504022500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Lewis Hamilton IV</title>
+    <desc lang="en">The seven-time Formula 1 world champion Lewis Hamilton looks ahead to the 2026 Japanese Grand Prix at Suzuka.</desc>
+  </programme>
+  <programme start="20260504022500 +0000" stop="20260504023000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">The New F1 Rules in 2026</title>
+  </programme>
+  <programme start="20260504023000 +0000" stop="20260504033000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix</title>
+    <desc lang="en">It's lights out for the Miami Grand Prix. Last season, Oscar Piastri led a McLaren one-two as Mercedes' George Russell came home in third.</desc>
+  </programme>
+  <programme start="20260504033000 +0000" stop="20260504040000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Race</title>
+    <desc lang="en">Ted Kravitz is live following the Miami Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
+  </programme>
+  <programme start="20260504040000 +0000" stop="20260504050000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">F1 Explained</title>
+    <desc lang="en">A round-up of the F1 Explained series, as Sky F1's leading voices unpack the intricacies of the sport.</desc>
+  </programme>
+  <programme start="20260504050000 +0000" stop="20260504065500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Grand Prix Sunday</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260504065500 +0000" stop="20260504090000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Race</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260504090000 +0000" stop="20260504100000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Chequered Flag</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260504100000 +0000" stop="20260504110000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix</title>
+    <desc lang="en">It's lights out for the Miami Grand Prix. Last season, Oscar Piastri led a McLaren one-two as Mercedes' George Russell came home in third.</desc>
+  </programme>
+  <programme start="20260504110000 +0000" stop="20260504131500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Stand Alone Race</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260504131500 +0000" stop="20260504141500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix</title>
+    <desc lang="en">It's lights out for the Miami Grand Prix. Last season, Oscar Piastri led a McLaren one-two as Mercedes' George Russell came home in third.</desc>
+  </programme>
+  <programme start="20260504141500 +0000" stop="20260504163000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Stand Alone Race</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260504163000 +0000" stop="20260504173000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix: Sprint Race</title>
+    <desc lang="en">Action and highlights of the latest Formula 1 action on Sky Sports.</desc>
+  </programme>
+  <programme start="20260504173000 +0000" stop="20260504180000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Qualifying</title>
+    <desc lang="en">Ted Kravitz gives his thoughts.</desc>
+  </programme>
+  <programme start="20260504180000 +0000" stop="20260504201500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Stand Alone Race</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260504201500 +0000" stop="20260504204500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Race</title>
+    <desc lang="en">Ted Kravitz is live following the Miami Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
+  </programme>
+  <programme start="20260504204500 +0000" stop="20260504210000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Oscar Piastri Drives a V8 Supercar</title>
+    <desc lang="en">McLaren's Oscar Piastri drives V8 supercars in Australia ahead of his fourth home race in Melbourne, while chatting to Sky F1's Rachel Brookes about his hopes for the season.</desc>
+  </programme>
+  <programme start="20260504210000 +0000" stop="20260504224500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">GT World Challenge Europe Motor Racing : Brands Hatch: Sprint Race 1</title>
+    <desc lang="en">Featuring motorsport coverage from all over Europe courtesy of GT World Challenge Europe.</desc>
+  </programme>
+  <programme start="20260504224500 +0000" stop="20260505003000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">GT World Challenge Europe Motor Racing : Brands Hatch: Sprint Race 2</title>
+    <desc lang="en">Featuring motorsport coverage from all over Europe courtesy of GT World Challenge Europe.</desc>
+  </programme>
+  <programme start="20260505003000 +0000" stop="20260505004500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Brad Pitt x McLaren</title>
+    <desc lang="en">Catch up on star of F1 The Movie Brad Pitt's interactions with McLaren.</desc>
+  </programme>
+  <programme start="20260505004500 +0000" stop="20260505010000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : The Best of Japan 2026</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260505010000 +0000" stop="20260505020000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">F1 Explained</title>
+    <desc lang="en">A round-up of the F1 Explained series, as Sky F1's leading voices unpack the intricacies of the sport.</desc>
+  </programme>
+  <programme start="20260505020000 +0000" stop="20260505022500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : The Best Of Australia 2026</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260505022500 +0000" stop="20260505030000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : The Best Of China 2026</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260505030000 +0000" stop="20260505040000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">F1 Explained</title>
+    <desc lang="en">A round-up of the F1 Explained series, as Sky F1's leading voices unpack the intricacies of the sport.</desc>
+  </programme>
+  <programme start="20260505040000 +0000" stop="20260505042500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : The Best Of Australia 2026</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260505042500 +0000" stop="20260505050000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : The Best Of China 2026</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260505050000 +0000" stop="20260505060000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Chinese Grand Prix: Race Highlights</title>
+    <desc lang="en">The 2017 Chinese Grand Prix from the Shanghai International Circuit. Lewis Hamilton starts on pole ahead of Ferrari's Sebastian Vettel.</desc>
+  </programme>
+  <programme start="20260505060000 +0000" stop="20260505070000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Bahrain Grand Prix: Race Highlights</title>
+    <desc lang="en">The 2017 Bahrain Grand Prix from the Bahrain International Circuit. Mercedes' Valtteri Bottas starts on pole for the first time in his career, with Lewis Hamilton lining up in second.</desc>
+  </programme>
+  <programme start="20260505070000 +0000" stop="20260505080000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ferrari Challenge Europe : Mugello: Highlights</title>
+    <desc lang="en">Coverage of motor racing action.</desc>
+  </programme>
+  <programme start="20260505080000 +0000" stop="20260505083000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Paddock Uncut</title>
+    <desc lang="en">Join Sky F1's leading voices as they dissect and discuss the top stories coming out of media day in the build-up to the Miami Grand Prix.</desc>
+  </programme>
+  <programme start="20260505083000 +0000" stop="20260505093000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix: Sprint Race</title>
+    <desc lang="en">Action and highlights of the latest Formula 1 action on Sky Sports.</desc>
+  </programme>
+  <programme start="20260505093000 +0000" stop="20260505100000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Sprint Race</title>
+    <desc lang="en">Ted Kravitz gives his thoughts.</desc>
+  </programme>
+  <programme start="20260505100000 +0000" stop="20260505120000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix: Qualifying</title>
+    <desc lang="en">Action and highlights of the latest Formula 1 action on Sky Sports.</desc>
+  </programme>
+  <programme start="20260505120000 +0000" stop="20260505123000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Qualifying</title>
+    <desc lang="en">Ted Kravitz gives his thoughts.</desc>
+  </programme>
+  <programme start="20260505123000 +0000" stop="20260505142500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Grand Prix Sunday</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260505142500 +0000" stop="20260505163000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Race</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260505163000 +0000" stop="20260505173000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Chequered Flag</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260505173000 +0000" stop="20260505180000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Race</title>
+    <desc lang="en">Ted Kravitz is live following the Miami Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
+  </programme>
+  <programme start="20260505180000 +0000" stop="20260505190000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">IndyCar Series Racing : Grand Prix of Long Beach: Highlights</title>
+    <desc lang="en">It's NTT IndyCar Series race day as the field of drivers line up on the grid for the start of the Grand Prix of Long Beach.</desc>
+  </programme>
+  <programme start="20260505190000 +0000" stop="20260505200000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">British GT Championship Motor Racing : Silverstone 500: Highlights</title>
+    <desc lang="en">The pinnacle of racing in the UK with large grids composed of the best GT3 and GT4 cars.</desc>
+  </programme>
+  <programme start="20260505200000 +0000" stop="20260505210000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">GB3 Championship Motor Racing : Silverstone: Highlights</title>
+    <desc lang="en">Action from the GB3 Championship, known as the BRDC British Formula 3 Championship until 2021.</desc>
+  </programme>
+  <programme start="20260505210000 +0000" stop="20260505220000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix: Race</title>
+    <desc lang="en">Action and highlights of the latest Formula 1 action on Sky Sports.</desc>
+  </programme>
+  <programme start="20260505220000 +0000" stop="20260505230000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">IndyCar Series Racing : Grand Prix of Long Beach: Highlights</title>
+    <desc lang="en">It's NTT IndyCar Series race day as the field of drivers line up on the grid for the start of the Grand Prix of Long Beach.</desc>
+  </programme>
+  <programme start="20260505230000 +0000" stop="20260506000000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix: Race</title>
+    <desc lang="en">Action and highlights of the latest Formula 1 action on Sky Sports.</desc>
+  </programme>
+  <programme start="20260506000000 +0000" stop="20260506010000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">F1 Explained</title>
+    <desc lang="en">A round-up of the F1 Explained series, as Sky F1's leading voices unpack the intricacies of the sport.</desc>
+  </programme>
+  <programme start="20260506010000 +0000" stop="20260506012500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : The Best Of Australia 2026</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260506012500 +0000" stop="20260506020000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : The Best Of China 2026</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260506020000 +0000" stop="20260506030000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">F1 Explained</title>
+    <desc lang="en">A round-up of the F1 Explained series, as Sky F1's leading voices unpack the intricacies of the sport.</desc>
+  </programme>
+  <programme start="20260506030000 +0000" stop="20260506032500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : The Best Of Australia 2026</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260506032500 +0000" stop="20260506040000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : The Best Of China 2026</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260506040000 +0000" stop="20260506050000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">F1 Explained</title>
+    <desc lang="en">A round-up of the F1 Explained series, as Sky F1's leading voices unpack the intricacies of the sport.</desc>
+  </programme>
+  <programme start="20260506050000 +0000" stop="20260506060000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Russian Grand Prix: Race Highlights</title>
+    <desc lang="en">The 2017 Russian Grand Prix from the Sochi Autodrom. Sebastian Vettel starts on pole ahead of teammate Kimi Räikkönen, with Valtteri Bottas in third.</desc>
+  </programme>
+  <programme start="20260506060000 +0000" stop="20260506070000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Spanish Grand Prix: Race Highlights</title>
+    <desc lang="en">The 2017 Spanish Grand Prix at the Circuit de Barcelona-Catalunya. Lewis Hamilton starts on pole after edging out Ferrari's Sebastian Vettel in qualifying.</desc>
+  </programme>
+  <programme start="20260506070000 +0000" stop="20260506080000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Monaco Grand Prix: Race Highlights</title>
+    <desc lang="en">The biggest stop in the Formula 1 calendar, the world-famous Monaco Grand Prix is held at Circuit de Monaco. Kimi Raikkonen starts the race on pole, his first in nine years.</desc>
+  </programme>
+  <programme start="20260506080000 +0000" stop="20260506090000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ginetta Junior Championship : Silverstone</title>
+  </programme>
+  <programme start="20260506090000 +0000" stop="20260506111500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 : Miami Grand Prix: Stand Alone Race</title>
+    <desc lang="en">Featuring all of the action and highlight from Formula 1 racing.</desc>
+  </programme>
+  <programme start="20260506111500 +0000" stop="20260506113000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Oscar Piastri Drives a V8 Supercar</title>
+    <desc lang="en">McLaren's Oscar Piastri drives V8 supercars in Australia ahead of his fourth home race in Melbourne, while chatting to Sky F1's Rachel Brookes about his hopes for the season.</desc>
+  </programme>
+  <programme start="20260506113000 +0000" stop="20260506123000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">IndyCar Series Racing : Grand Prix of Long Beach: Highlights</title>
+    <desc lang="en">It's NTT IndyCar Series race day as the field of drivers line up on the grid for the start of the Grand Prix of Long Beach.</desc>
+  </programme>
+  <programme start="20260506123000 +0000" stop="20260506133000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix: Race</title>
+    <desc lang="en">Action and highlights of the latest Formula 1 action on Sky Sports.</desc>
+  </programme>
+  <programme start="20260506133000 +0000" stop="20260506145000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">FIA Formula 2 Championship : Miami: Feature Race</title>
+    <desc lang="en">Coverage of motor racing action.</desc>
+  </programme>
+  <programme start="20260506145000 +0000" stop="20260506150000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ollie Bearman IV</title>
+    <desc lang="en">The 2009 Formula 1 world champion Jenson Button chats to British Haas driver Ollie Bearman.</desc>
+  </programme>
+  <programme start="20260506150000 +0000" stop="20260506160000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">FIA Formula 2 Championship : Miami: Sprint Race</title>
+    <desc lang="en">Coverage of motor racing action.</desc>
+  </programme>
+  <programme start="20260506160000 +0000" stop="20260506170000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix: Sprint Race</title>
+    <desc lang="en">Action and highlights of the latest Formula 1 action on Sky Sports.</desc>
+  </programme>
+  <programme start="20260506170000 +0000" stop="20260506173000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Sprint Race</title>
+    <desc lang="en">Ted Kravitz gives his thoughts.</desc>
+  </programme>
+  <programme start="20260506173000 +0000" stop="20260506183000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Formula 1 Highlights : Miami Grand Prix: Race</title>
+    <desc lang="en">Action and highlights of the latest Formula 1 action on Sky Sports.</desc>
+  </programme>
+  <programme start="20260506183000 +0000" stop="20260506190000 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">Ted's Notebook : Miami Grand Prix: Race</title>
+    <desc lang="en">Ted Kravitz is live following the Miami Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
+  </programme>
+  <programme start="20260506190000 +0000" stop="20260506211500 +0000" channel="SkySportsF1UHD.uk">
+    <title lang="en">F1 Classic Races : United States of America 1981</title>
+    <desc lang="en">A look back at the 1981 Caesars Palace Grand Prix in Las Vegas, Nevada. Carlos Reutemann went into this season-ending race with a narrow lead over Nelson Piquet.</desc>
   </programme>
   <programme start="20260502000000 +0000" stop="20260502020000 +0000" channel="NowSports4K.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
