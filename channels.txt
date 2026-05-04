@@ -112,3 +112,4 @@ TNT.Sports.Box.Office.2.uk
 TNT.Sports.Box.Office.uk
 TNT.Sports.Ultimate.HD.uk
 TNT.Sports.Ultimate.uk
+SkySportsNews.uk
