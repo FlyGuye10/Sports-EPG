@@ -74,6 +74,7 @@ Sky.Sport.Select.nz
 # --- UNITED KINGDOM ---
 Premier.Sports.1.HD.uk
 Premier.Sports.2.HD.uk
+SkySportsAction.uk
 SkySp.Cricket.uk
 SkySportsF1UHD.uk
 SkySp.F1.HD.uk
