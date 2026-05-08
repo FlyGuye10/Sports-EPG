@@ -97,6 +97,8 @@ SkySp.Racing.HD.uk
 SkySp.Racing.uk
 SkySp.Tennis.HD.uk
 SkySp+.uk
+SkySportsPremierLeague.uk
+SkySportsPremierLeagueROI.uk
 TNTSBoxOff2HD.uk
 TNT.Sport.BoxOffice.HD.uk
 TNT.Sports.10.HD.uk
