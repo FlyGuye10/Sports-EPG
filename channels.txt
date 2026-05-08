@@ -1,14 +1,3 @@
-# --- MALAYSIA ---
-AstroFootball.my
-AstroPremierLeague.my
-AstroPremierLeague2.my
-AstroPremierLeague3.my
-AstroPremierLeague4.my
-AstroGrandstand.my
-AstroSuperSportUHD.my
-SPOTV.my
-SPOTV2.my
-
 # --- HONG KONG---
 NowSportsPrime.hk
 NowSportsPremierLeague1.hk
@@ -40,6 +29,21 @@ NowSports5.hk
 NowSports6.hk
 NowSports7.hk
 
+# --- IRELAND ---
+PremierSports1.ie
+PremierSports2.ie
+SkySportsPremierLeagueROI.uk
+
+# --- MALAYSIA ---
+AstroFootball.my
+AstroPremierLeague.my
+AstroPremierLeague2.my
+AstroPremierLeague3.my
+AstroPremierLeague4.my
+AstroGrandstand.my
+AstroSuperSportUHD.my
+SPOTV.my
+SPOTV2.my
 
 # --- SINGAPORE ---
 Hub.Premier.1.sg
@@ -74,9 +78,29 @@ Sky.Sport.Select.nz
 # --- UNITED KINGDOM ---
 Premier.Sports.1.HD.uk
 Premier.Sports.2.HD.uk
-PremierSports1.ie
-PremierSports2.ie
 SkySportsAction.uk
+SkySportsBoxOffice.uk
+SkySportsClassics.uk
+SkySportsCricket.uk
+SkySportsF1.uk
+SkySportsF1UHD.uk
+SkySportsFootball.uk
+SkySportsGolf.uk
+SkySportsMainEvent.uk
+SkySportsMainEventUHD.uk
+SkySportsMix.uk
+SkySportsNews.uk
+SkySportsPremierLeague.uk
+SkySportsRacing.uk
+SkySportsStories.uk
+SkySportsTennis.uk
+SkySportsUltraHD.uk
+SkySportsUltraHD2.uk
+SkySports+1.Vig
+SkySports+2.Vig
+SkySports+3.Vig
+SkySports+4.Vig
+SkySports+5.Vig
 SkySp.Cricket.uk
 SkySportsF1UHD.uk
 SkySp.F1.HD.uk
@@ -99,20 +123,23 @@ SkySp.Racing.HD.uk
 SkySp.Racing.uk
 SkySp.Tennis.HD.uk
 SkySp+.uk
+SkySportsPlus.uk
 SkySportsPremierLeague.uk
 SkySportsPremierLeagueROI.uk
 TNTSBoxOff2HD.uk
 TNT.Sport.BoxOffice.HD.uk
-TNT.Sports.10.HD.uk
-TNT.Sports.1.HD.uk
-TNT.Sports.2.HD.uk
-TNT.Sports.3.HD.uk
-TNT.Sports.4.HD.uk
-TNT.Sports.5.HD.uk
-TNT.Sports.6.HD.uk
-TNT.Sports.7.HD.uk
-TNT.Sports.8.HD.uk
-TNT.Sports.9.HD.uk
+TNTSports1.uk
+TNTSports2.uk
+TNTSports3.uk
+TNTSports4.uk
+TNTSports5.uk
+TNTSports6.uk
+TNTSports7.uk
+TNTSports8.uk
+TNTSports9.uk
+TNTSports10.uk
+TNTSportsBoxOffice.uk
+TNTSportsBoxOffice2.uk
 TNT.Sports.Box.Office.2.uk
 TNT.Sports.Box.Office.uk
 TNT.Sports.Ultimate.HD.uk
