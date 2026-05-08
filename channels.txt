@@ -78,6 +78,8 @@ Sky.Sport.Select.nz
 # --- UNITED KINGDOM ---
 Premier.Sports.1.HD.uk
 Premier.Sports.2.HD.uk
+PremierSports1.uk
+PremierSports2.uk
 Sky.Sports.Football.HD.uk
 Sky.Sports.NFL.uk
 Sky.Sports.Ultra.HD.1.uk
