@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="Sports-EPG Updated: 2026-10-22 03:40:28">
+<tv generator-info-name="Sports-EPG Updated: 2026-10-23 03:44:59">
   <channel id="Sky.Sport.1.nz">
     <display-name lang="en">Sky Sport 1</display-name>
     <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4gZFsogRgbwZdK9k95iHWa/8dee97f8eebca01da8099679b7f42f5c/Sky_Sports_1.png" />
@@ -88683,62 +88683,6 @@ Extended sit-downs and more informal 'out and about' interview with the Premier 
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261021020000 +0000" stop="20261021040000 +0000" channel="AstroFootball.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Dutch League 2026/27: Round 7: FC Twente vs PSV Eindhoven, from De Grolsch Veste, Enschede, Netherlands.</desc>
-    <icon src="https://iptv-epg.org/images/gv2wjgsirWSJEUGyEQb8UkAV_P1UE-nqhNTNSCd6r5bBaJfw0k3HHSaUZClWJ_gsVHyOWK3JgaWahqwtSDSp5IiQ1GQ5_WyEIoAtdZnJBPawXWbb3HNv2SwuxVFEo8Ia8vXy-YXa-M-W" />
-    <title lang="en">Dutch: Twente vs PSV</title>
-  </programme>
-  <programme start="20261021040000 +0000" stop="20261021060000 +0000" channel="AstroFootball.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Dutch League 2026/27: Round 8: Feyenoord vs AZ Alkmaar, from De Kuip, Rotterdam, Netherlands.</desc>
-    <icon src="https://iptv-epg.org/images/dRb8Ki4EJxhxqil7v9mkhfAmO8g-BNHP9JfeIMHuN5nWks9kZcYjF8REe_GSiCShK3YCCdFftJo2ze-mvb2EHmzCW-IVj0D_TiWECA0HXTZ2HJ4f4u1Egn30hmLuGrQ9O3wuSJoEnjYt" />
-    <title lang="en">Dutch: Feyenoord vs Alkmaar</title>
-  </programme>
-  <programme start="20261021060000 +0000" stop="20261021080000 +0000" channel="AstroFootball.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Dutch League 2026/27: Round 8: AFC Ajax vs NEC, from Johan Cruijff Arena, Amsterdam, Netherlands.</desc>
-    <icon src="https://iptv-epg.org/images/KqcJx2CWaJz4KXyTzy8JyKg8nPt4DECw-cAFL-gIxqtWQ4YSe-XadIICUmMIZ-xI0X3ezJ7pq5nW-57uhGznlhbq1NO7b2pOON5yv1lSqlO9sOLC9rlyxrF3Ac6Hc4uE9EzKIX94Ls-0" />
-    <title lang="en">Dutch: Ajax vs NEC</title>
-  </programme>
-  <programme start="20261021080000 +0000" stop="20261021100000 +0000" channel="AstroFootball.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Dutch League 2026/27: Round 8: PSV Eindhoven vs sc Heerenveen, from Philips Stadion, Eindhoven, Netherlands.</desc>
-    <icon src="https://iptv-epg.org/images/aiA3y39nYwWgAbJFzXyzDzw_FwsnPAt4OiwDXWIuLa61vWypLnAL9LzObSWSuoyzHLp3lNi68J0eHQHTe5Lav-HBpHgTVtW9hw8oJZhOl20BKwMiqaKyPueDV1ChgX_L25NnJagY-iBZ" />
-    <title lang="en">Dutch: PSV vs Heerenveen</title>
-  </programme>
-  <programme start="20261021100000 +0000" stop="20261021110000 +0000" channel="AstroFootball.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Highlights of all the matches during the week, including players and managers interviews.</desc>
-    <icon src="https://iptv-epg.org/images/VaUIf2ra_FFut6YCINqwuQ0j8wYWrymkZ5PY2FsPw3WKVSvp9sHx00XStjKZgXTqYzwXhAcrMCLWN_rG94V270EN1aOoIpFrx3b9Nl_aJHSAAN5mMQDjqQiswCXF_oiiSenjblbLU_kA" />
-    <title lang="en">Dutch League 2026/27: Highlights Rd9</title>
-  </programme>
-  <programme start="20261021110000 +0000" stop="20261021130000 +0000" channel="AstroFootball.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Serie A 2026/27: Round 5: Juventus vs Atalanta, from Allianz Stadium, Turin, Italy.</desc>
-    <icon src="https://iptv-epg.org/images/rh0wV35ZlbhTfoH9TmJv6jPLCNxY-ykBT7nB07G9MUVED1r51xQH7OhRKnRHTfHsd1Jbo9Am_4RlCFjDiLL38ZZqkkWJBQVeSBaxy5Gowx288avhbJt1O_DpSq3uCu4u6aR5V7Po8H4d" />
-    <title lang="en">Serie A: Juventus vs Atalanta</title>
-  </programme>
-  <programme start="20261021130000 +0000" stop="20261021150000 +0000" channel="AstroFootball.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Serie A 2026/27: Round 5: Milan vs Lecce, from San Siro/Giuseppe Meazza, Milan, Italy.</desc>
-    <icon src="https://iptv-epg.org/images/nh4Y1IenIk4qz3FAFnPCntPpXeguqkeOBtYsAk4IA2C0s_dHGd3l1FxdYjYES5fnFU0N2PHXyH0smhSAYcqWHBqFskGWhKSQVKeeUoHG3esv5zhrpWgzgm47m4fIIN0sGOMKG4FvLsUR" />
-    <title lang="en">Serie A: Milan vs Lecce</title>
-  </programme>
-  <programme start="20261021150000 +0000" stop="20261021170000 +0000" channel="AstroFootball.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Serie A 2026/27: Round 5: Monza vs Sassuolo, from U-Power Stadium, Monza, Italy.</desc>
-    <icon src="https://iptv-epg.org/images/0VAwiDGF2aX0EVDsHR7QUKkePnMTwLfT09VDsdqqvDQS8ijALW5R5qd7AnjSSghLAg9koi6O5f8Dw6wLFd6-vcGbORUarsYbEiPNWjvdEVaf7UvX7Q83hPzeRoRRugah4cT1Wo2oaYfi" />
-    <title lang="en">Serie A: Monza vs Sassuolo</title>
-  </programme>
   <programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="AstroFootball.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -89297,68 +89241,124 @@ Through the journey of its athletes, including Malaysia's Marissa Aleya, we witn
     <icon src="https://iptv-epg.org/images/VULhr_ex3oABo_uDT_fLvW15nY80XgxbsQUBgE5rg_FoZeSvjyJry5osPhpEyRjNqWJyvr-O7rVgOVvqaQNk1a4IBRUv6NoC0Vfloz7O7KBIE2fQlTJ2xvILKk-xOJJMeBs78sAWOsk4" />
     <title lang="en">Serie A: Torino vs Monza</title>
   </programme>
-  <programme start="20261021001000 +0000" stop="20261021011000 +0000" channel="AstroGrandstand.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Other Sports / General</category>
-    <desc lang="en">Reaction Sports showcases the "best bits" from the world of high adrenaline action sports.</desc>
-    <icon src="https://iptv-epg.org/images/sQFwX26nt9fJgBFsZDgdhagOAPT9BPEnmVpIi54wuewI0OjquErWnOT0aaC6S-SDiYm6EahQsSg4P88CXcqjiyiiT2KiWfM6ZMrDCcbtmXWqh_kOFqSbh56Joc8Gaow-ctfmiLtZ_URc" />
-    <title lang="en">Reaction Sports 2026: January Edition</title>
-  </programme>
-  <programme start="20261021011000 +0000" stop="20261021021000 +0000" channel="AstroGrandstand.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <desc lang="en">Highlights of MotoGP 2026: Austria, Round 15 Grand Prix Of Austria, from Red Bull Ring - Spielberg.</desc>
-    <icon src="https://iptv-epg.org/images/JA59f69gSKN2nifXRYMwg-pFkHJ52OlZh-rtkM1D51aH0RWLnZYYBylr70EPi3biUL_GqR-Q1zpJG8T2w8BAojpgQ7Bqt84FM7_7VUFUTw8DvpUYH45ZTmpvJVAdTQ2rzeIX_IB5tGAKESzbrtrIzw" />
-    <title lang="en">MotoGP 2026: Austria Highlights</title>
-  </programme>
-  <programme start="20261021021000 +0000" stop="20261021091500 +0000" channel="AstroGrandstand.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Badminton</category>
-    <desc lang="en">BWF World Tour Super 750: VICTOR Denmark Open 2026: Round of 16: TV Court 2, from SJF Bank Arena in Odense, Denmark.</desc>
-    <icon src="https://iptv-epg.org/images/yhd4OU_FhRvWcVSdqxSjyat_LforJ_3Y9PsKM9XrtVSFHdV5dxLh2nMJ_i4zxt0Zty6X18HPWfsZ73_xvBbaonxgkRXgAOh-miUypc2uRBWEDuqGCqqxl30fblnOUoBGSliuW2POxECJ" />
-    <title lang="en">BWF Denmark Open: Rd16</title>
-  </programme>
-  <programme start="20261021091500 +0000" stop="20261021101500 +0000" channel="AstroGrandstand.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Sports Magazine</category>
-    <desc lang="en">CRO Race 2026 road cycling stage race Final Program Highlights from Croatia.</desc>
-    <icon src="https://iptv-epg.org/images/FEGELj0GCAMqbeyhYFMeUd3srICr6LckxZSDtSzWBjj8bgWr-NpDQe2u1m_AwX_x_yxlsKZptSlh5bEhZ0hMoZAcmj6Xz7ZNCLT6UrTF0dQ24Ho0UDzE7mNbjcgLHB2_wM4VjVZM8oZNQrCd-L1L2KIcEZ7D1d67dQbKL05qAuYG3V62fuuISZmrPUSK7Hpy" />
-    <title lang="en">CRO Race 2026 Final Program Hls</title>
-  </programme>
-  <programme start="20261021101500 +0000" stop="20261021130000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261027000000 +0000" stop="20261027020000 +0000" channel="AstroFootball.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/27: Match Week 7: Everton vs Chelsea, from Hill Dickinson Stadium.</desc>
-    <icon src="https://iptv-epg.org/images/pya1sTSeRm08I6fJLr0UbRUGLnOd6HZTIxhNRMXJ_6brL7LO5XZRrtP5Ke33t4jbb47C75l_sObk_lVHXB3BJ9w3ja4cxPuU2AWSAMh_Z1v9SRLLNe05sG6aIr5e0FZkIh8F35AnrvYG" />
-    <title lang="en">PL: Everton vs Chelsea</title>
+    <desc lang="en">Serie A 2026/27: Round 8: Como vs Sassuolo, from Giuseppe Sinigaglia, Como, Italy.</desc>
+    <icon src="https://iptv-epg.org/images/A4KvqQ5HCMKzYebYOVPiSrSMPNkfBTxyrKwPGiR-qWphkqNV1ixFh-8t0LmQkTIJeljXI1pQn4ldOVqxtFBsGj2nY1kFAdiziXGpcImxZA4mTwrVZteMHOpmCKdt0YVjDL2MBesebU3S" />
+    <title lang="en">Serie A: Como vs Sassuolo</title>
   </programme>
-  <programme start="20261021130000 +0000" stop="20261021150000 +0000" channel="AstroGrandstand.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Sports Magazine</category>
-    <desc lang="en">Spartan Race HVAR 2026: 100 Meter &amp; Sprint World Championship, from Hvar, Croatia.</desc>
-    <icon src="https://iptv-epg.org/images/OQVAifSUVN8nOLCyKomiYY6fnYM5hLYYdYRFYi3qcrSkVBhL5ozew8nuotZlDeUmngUuLqLm1BrybRIlB0UZ9S1zi-M0Lf9OfPn9o08TJfRu9rDZCIUeQrfid0-1W5ABH2TRz_dNyv4u" />
-    <title lang="en">Spartan Race HVAR: 100 Meter &amp; Sprint World C'ship</title>
-  </programme>
-  <programme start="20261021150000 +0000" stop="20261021153000 +0000" channel="AstroGrandstand.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Sports Magazine</category>
-    <desc lang="en">Total Combat series features MMA, boxing, and other combat sports news, fight previews, and bout highlights.</desc>
-    <icon src="https://iptv-epg.org/images/e3Cd6NxQjKqF0kM6u4Zsx86AGU4Iv-43QcF-Pa3LMLEzsKfycIHEIVnslskP3qiK5liL-yszUZjujZAT4OqGUiIp2MSrpvooIMuhfG7hXIzRw6COC1ZlOhTBWWmJ25IQo3FUcpcRYmaP" />
-    <title lang="en">Total Combat 2026 (52</title>
-  </programme>
-  <programme start="20261021153000 +0000" stop="20261021160000 +0000" channel="AstroGrandstand.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Sports Magazine</category>
-    <desc lang="en">Total Combat series features MMA, boxing, and other combat sports news, fight previews, and bout highlights.</desc>
-    <icon src="https://iptv-epg.org/images/uxSSJ4lwblAtiVc_voTi1dVrByVACpN-68mV5fxaS5GAQ1YeO3lzVvl8YHMpZCnPcCzJvml7KP8SLgQQmJ6fDc2Wi_KSG2Ie9FOwrbFSgaiA4h8cmvL7gGb3nEyhtb2olWTHkvCUlYK1" />
-    <title lang="en">Total Combat 2026 (52</title>
-  </programme>
-  <programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261027020000 +0000" stop="20261027040000 +0000" channel="AstroFootball.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/27: Match Week 2: Crystal Palace vs Manchester City, from Selhurst Park.</desc>
-    <icon src="https://iptv-epg.org/images/cNyRM5zKERRDGu3ZkUxFF0Acc80CILFYEWS_tWOGvl6RVgOr9MTk_UUZiuuqB_3d_wfbH5aMHFrHjIplSUb0pSPZVQx7uxpRCdjnqwdL_8Xy6JSJvzRpvIRir3WFpjIJewwb9WgUDmmp" />
-    <title lang="en">PL: Crystal Palace vs Man City</title>
+    <desc lang="en">Serie A 2026/27: Round 8: Napoli vs Roma, from Stadio Diego Armando Maradona, Naples, Italy.</desc>
+    <icon src="https://iptv-epg.org/images/qQc15ECbj5MWyby27ZpyKzgVbVzbWXrFsGw-QxpPW-0DDru0Ib96ZEOVQXYpoYC-IglM9SrbQ-OKQDCiI_-zHPvcWcaujfn6md30tRfPn_KroglQo-BaNhhF6xfxBsNfJZzFyVlSQ2Il" />
+    <title lang="en">Serie A: Napoli vs Roma</title>
+  </programme>
+  <programme start="20261027040000 +0000" stop="20261027060000 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Serie A 2026/27: Round 8: Lazio vs Parma, from Stadio Olimpico, Rome, Italy.</desc>
+    <icon src="https://iptv-epg.org/images/8gOqifFxQs9bK95a-hq5G9aizgrYXDM6cMR0eQZWQUnUYNlCTHfltOYegXpYKg0DqEoRznqXkdQ00E63QAty849sPIFZ9Y7vcoSlCMVXe-YfyQmno6bRrdWrm9yRMs4Aw1KUx6ptHV9R" />
+    <title lang="en">Serie A: Lazio vs Parma</title>
+  </programme>
+  <programme start="20261027060000 +0000" stop="20261027080000 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Dutch League 2026/27: Round 10: NEC vs FC Groningen, from Stadion de Goffert, Nijmegen, Netherlands.</desc>
+    <icon src="https://iptv-epg.org/images/oRP1Og8rGRoyCyb2JPIUJQckpXjfYVX0XT2UgTGAt0569ueAxzP_ExRsIi9QrCxZWQSv4ygwI0YzrdW5nkgWeWHWBfictt25ezUF9lCwS2eaXbtRLXLNjl3g_ThbEvNHDcdoAilvzG9F" />
+    <title lang="en">Dutch: NEC vs Groningen</title>
+  </programme>
+  <programme start="20261027080000 +0000" stop="20261027090000 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Highlights of all the matches during the week, including players and managers interviews.</desc>
+    <icon src="https://iptv-epg.org/images/md546uOk-ManCrQKmkQ_benSgtFT5msgD9zQVop_jhj0g-Y0oQRCKM0TZP_6daOp-Diqs51cCf5aXh9FhIvQizlUQhh5qC_MH2DCgbip_Az8q1DtetGuGoW3gVuRdS1DohF28C8RkGY9" />
+    <title lang="en">Dutch League 2026/27: Highlights Rd8</title>
+  </programme>
+  <programme start="20261027090000 +0000" stop="20261027093000 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Serie A 2026/27: Highlights of all the matches during the week, including players and managers interviews.</desc>
+    <icon src="https://iptv-epg.org/images/avTsOZIOau1ySUv5LT84ExSpeQ_kefuOqjBRADFC9MFVZyW62DOyHaLgkhQJCyqYSFXkfxzNVJ3g4_-8TMx_QPSTwGSQG1S8AOe5ul7F4uDavoTBwfZ6Fgr2c-HJWBOemMA4k67FZDHz" />
+    <title lang="en">Serie A 2026/27: Full Impact Rd6</title>
+  </programme>
+  <programme start="20261027093000 +0000" stop="20261027095000 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">E3
+Through the journey of its athletes, including Malaysia's Marissa Aleya, we witness growth, sacrifice, and the courage it takes to believe in oneself.</desc>
+    <episode-num>E3</episode-num>
+    <icon src="https://iptv-epg.org/images/5-9khBnIs-x7ioYYreIvZFD_14_nyWMswKwJKhKckFQoHQKu7RL7NfHJkmnd59IRL-TL783qAxsyTlBrIEx4s355LzOQcbTMbsq1s6d7nx3tPuB0OpN2r613iZ3xmrMn194DVGGuJDeS49KCs_R1Fw" />
+    <title lang="en">This Is Our Time</title>
+  </programme>
+  <programme start="20261027095000 +0000" stop="20261027120000 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">LIVE: AFC Champions League Elite 2026/27: MD3: Shanghai Port FC vs Cong An Ha Noi FC, from Pudong Football Stadium, Shanghai, China.</desc>
+    <icon src="https://iptv-epg.org/images/PHHNhmdC3MdwmKL9l1KXzrsWIzB7nmv5v0LlRTWxtNov7AGWWBL_lQlVS17qPPVoOHVOiuecOcdG1zW4V1VZcG3VIDzvWSqGDEh8Vv4aaIJ-gaj81hNTEYKkDQWVa8SZ59MUmuMnIjaS" />
+    <title lang="en">AFC Elite: Shanghai vs Cong Ha</title>
+    <live />
+  </programme>
+  <programme start="20261027120000 +0000" stop="20261027140000 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">AFC Champions League Elite 2026/27: MD3: Al Nassr Club vs Al Wasl FC, from Al-Awwal Park, Riyadh, Saudi Arabia.</desc>
+    <icon src="https://iptv-epg.org/images/PHHNhmdC3MdwmKL9l1KXzrsWIzB7nmv5v0LlRTWxtNov7AGWWBL_lQlVS17qPPVoOHVOiuecOcdG1zW4V1VZcG3VIDzvWSqGDEh8Vv4aaIJ-gaj81hNTEYKkDQWVa8SZ59MUmuMnIjaS" />
+    <title lang="en">AFC Elite: Al Nassr vs Al Wasl</title>
+  </programme>
+  <programme start="20261027140000 +0000" stop="20261027160000 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Dutch League 2026/27: Round 10: PSV Eindhoven vs Feyenoord, from Philips Stadion, Eindhoven, Netherlands.</desc>
+    <icon src="https://iptv-epg.org/images/E4-hn-5-IiBo2QmgziaYL8TEJHodeBFhvMOot1FnzRPcjKoDvI9wo6UqKGRd9_Xk7tEWMiNSZtdZ7-5dGbmRvYSlw0ZaD7Aok7PB38mXxUAerINaRC2ZUJicMcjQOKiAW0r2n7-6jerd" />
+    <title lang="en">Dutch: PSV vs Feyenoord</title>
+  </programme>
+  <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Serie A 2026/27: Highlights of all the matches during the week, including players and managers interviews.</desc>
+    <icon src="https://iptv-epg.org/images/dTaMkc0dw9Ic3bDJsaFonhFs71tGyWzfuEFKhyPzhSkN6QIXLtKMGF8BLb1uMJCS0SooekM3vjmVbgcVc_C20yGEEpYGBSNvD5TkEpaw_E9w3fTh-1s-9_IKTNzFMooVfGgvJMqz6g8-" />
+    <title lang="en">Serie A 2026/27: Full Impact Rd5</title>
+  </programme>
+  <programme start="20261027163000 +0000" stop="20261027165000 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">E5
+Through the journey of its athletes, including Malaysia's Marissa Aleya, we witness growth, sacrifice, and the courage it takes to believe in oneself.</desc>
+    <episode-num>E5</episode-num>
+    <icon src="https://iptv-epg.org/images/5-9khBnIs-x7ioYYreIvZFD_14_nyWMswKwJKhKckFQoHQKu7RL7NfHJkmnd59IRL-TL783qAxsyTlBrIEx4s355LzOQcbTMbsq1s6d7nx3tPuB0OpN2r613iZ3xmrMn194DVGGuJDeS49KCs_R1Fw" />
+    <title lang="en">This Is Our Time</title>
+  </programme>
+  <programme start="20261027165000 +0000" stop="20261027190000 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">LIVE: DFB-Pokal 2026/27: Round 2: Rot-Weiss Essen vs RB Leipzig, from Stadion Essen, Essen, Germany.</desc>
+    <icon src="https://iptv-epg.org/images/J2FBiKI7tUxwsV3LlCkzg4SvkacMzzRMY5riy6ei89cp_DqR_lpTCTntlyRs-302jV9bTkZTk1oPyQe1ZCGTgS6q_iU_X8IpWJfo1hzez3td5lGRdJ8Hs6wRreK2X4lUEN41Iq_gpnb5eaLRR2YE8Q" />
+    <title lang="en">DFB: Rot-Weiss vs Leipzig</title>
+    <live />
+  </programme>
+  <programme start="20261027190000 +0000" stop="20261027193500 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Inside Serie A International Break Special is your necessary guide to all you need to know prior to all the matches from Serie A 2026/27 season.</desc>
+    <icon src="https://iptv-epg.org/images/3BpdXQKGBGv2Sc9L5LpqOVzXsxOLMV3lhTacE8F9NsXYSmME9qUCxgPIFu7D0rgKNCBOZvcK0JyQpEuwDfKOqGH9v9iv2st78kZiiRtna98TSOxU1HQEW46tchl0jZNXYtcVYvkEjP-U" />
+    <title lang="en">Inside Serie A Special</title>
+  </programme>
+  <programme start="20261027193500 +0000" stop="20261027220000 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">LIVE: DFB-Pokal 2026/27: Round 2: Borussia Dortmund vs SV Werder Bremen, from Signal Iduna Park, Dortmund, Germany.</desc>
+    <icon src="https://iptv-epg.org/images/J2FBiKI7tUxwsV3LlCkzg4SvkacMzzRMY5riy6ei89cp_DqR_lpTCTntlyRs-302jV9bTkZTk1oPyQe1ZCGTgS6q_iU_X8IpWJfo1hzez3td5lGRdJ8Hs6wRreK2X4lUEN41Iq_gpnb5eaLRR2YE8Q" />
+    <title lang="en">DFB: Dortmund vs Bremen</title>
+    <live />
+  </programme>
+  <programme start="20261027220000 +0000" stop="20261028000000 +0000" channel="AstroFootball.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Dutch League 2026/27: Round 10: Sparta Rotterdam vs AFC Ajax, from Het Kasteel, Rotterdam, Netherlands.</desc>
+    <icon src="https://iptv-epg.org/images/3aSGl5hc42tryg9luPpfTuGEQ5IFXJwGPx-YvZuGz5PsH2-IKR3QPWH5zKdyQZ0TbPzlyHikRIgUt8AtZNghZegnEZ_cDes81i0HwPBaG1MesNc9Z8MV8hVe9LQSs36Fdv1oFU1mJKwV" />
+    <title lang="en">Dutch: Sparta vs Ajax</title>
   </programme>
   <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
@@ -89388,14 +89388,14 @@ Through the journey of its athletes, including Malaysia's Marissa Aleya, we witn
     <icon src="https://iptv-epg.org/images/RH74B69Y5i8nIq3XXK-pzlD5KtCCbGQgu92WeeGNuQsHBs3AOvBF08So8yqtXsvFQ08Mx2FR4NlkWpNIOBsaLxGAS2Jh7kGcACQbazosNn0TUh16ETcnOQ4qXEDkBCPDN-zv1M-kDFBY" />
     <title lang="en">PL: Newcastle vs Hull</title>
   </programme>
-  <programme start="20261022001000 +0000" stop="20261022080000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261022001000 +0000" stop="20261022081000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Badminton</category>
     <desc lang="en">BWF World Tour Super 750: VICTOR Denmark Open 2026: Quarter Finals: TV Court 2, from SJF Bank Arena in Odense, Denmark.</desc>
     <icon src="https://iptv-epg.org/images/_ctUAIXURCZ-vG8KgLBzd2sFYsIay5VXNcVvV43xQyPBo6bbpBOBJ6FyPQ558h1tWelKniDQKQK-StEx36q6fZvgN1HzmT8Yh-6ffNKlOTSzarOtkRzIoTuicwCeXmBGUA7LgcWI4VnB" />
     <title lang="en">BWF Denmark Open: QF 2</title>
   </programme>
-  <programme start="20261022080000 +0000" stop="20261022100000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261022081000 +0000" stop="20261022100000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Other Sports / General</category>
     <desc lang="en">EASL 2026-2027: Nagasaki Velca vs KCC Egis, from at the Happiness Arena in Nagasaki, Japan.</desc>
@@ -89409,35 +89409,35 @@ Through the journey of its athletes, including Malaysia's Marissa Aleya, we witn
     <icon src="https://iptv-epg.org/images/R4c_zUmJC6qrH08EeBPDV7m66GPGHJt61LNA6GAUU43sGzbuhp2oR3MYQCz0L6-PIQtTbgP_FnfAxTEcvJYLRdUmuGslTgDR0CkpJDOoD0iEuIK-A3p-Adspph9h6nmyN8Y_GD_eWquO" />
     <title lang="en">AFC Elite: Al Sadd vs Al Hilal</title>
   </programme>
-  <programme start="20261022120000 +0000" stop="20261022141000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261022120000 +0000" stop="20261022141500 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Premier League 2026/27: Match Week 7: Brentford vs Liverpool, from Gtech Community Stadium.</desc>
     <icon src="https://iptv-epg.org/images/izeO-rDvU8a8eRPokPIFGH2MyKQXwGaxDksBEPJe_eCUGvzSe3bv0PALXAZ4kgEJydGIduMlLHqRovmArrZ6vDX4oBzdd8oG4nr1t8Ilpj8g36B3DaxsP_SE51qh6O640EBQcbZE7fD8" />
     <title lang="en">PL: Brentford vs Liverpool</title>
   </programme>
-  <programme start="20261022141000 +0000" stop="20261022162000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261022141500 +0000" stop="20261022162500 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Premier League 2026/27: Match Week 7: Newcastle United vs Aston Villa, from St. James' Park.</desc>
     <icon src="https://iptv-epg.org/images/HUW9dsaiECBVmbaingvw4ciXCU4_4aFn48jfaMKUHbk1SkgVYCxk10gsqrinXYUiyG2667eHRhN3No-PolV_hnEbmCopi9_vbjRSDzacJciiqqdzfoU4nGtddAEhkgNHQVxjnGe4-DHr" />
     <title lang="en">PL: Newcastle vs Aston Villa</title>
   </programme>
-  <programme start="20261022162000 +0000" stop="20261022172000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261022162500 +0000" stop="20261022172500 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Sports Magazine</category>
     <desc lang="en">CRO Race 2026 road cycling stage race Final Program Highlights from Croatia.</desc>
     <icon src="https://iptv-epg.org/images/FEGELj0GCAMqbeyhYFMeUd3srICr6LckxZSDtSzWBjj8bgWr-NpDQe2u1m_AwX_x_yxlsKZptSlh5bEhZ0hMoZAcmj6Xz7ZNCLT6UrTF0dQ24Ho0UDzE7mNbjcgLHB2_wM4VjVZM8oZNQrCd-L1L2KIcEZ7D1d67dQbKL05qAuYG3V62fuuISZmrPUSK7Hpy" />
     <title lang="en">CRO Race 2026 Final Program Hls</title>
   </programme>
-  <programme start="20261022172000 +0000" stop="20261022193000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261022172500 +0000" stop="20261022192500 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Premier League 2026/27: Match Week 6: Chelsea vs Bournemouth, from Stamford Bridge.</desc>
     <icon src="https://iptv-epg.org/images/nwLb_-1K1LDzG75UVcRpdJEqLzSk-ziw97MD9jdBNVrX7WrxnHB_yZDV5k6QN6tj29gOUIs99x4QeWhGbu_4MeCslFiVcsT_mdl9rWXUFJyEr_Uq4IsWRDut16jGg6vm1fJVRrTBGFsu" />
     <title lang="en">PL: Chelsea vs Bournemouth</title>
   </programme>
-  <programme start="20261022193000 +0000" stop="20261022215500 +0000" channel="AstroGrandstand.my">
+  <programme start="20261022192500 +0000" stop="20261022215500 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Martial Arts</category>
     <desc lang="en">UFC returns to Las Vegas as Max 'Blessed' Holloway and Charles 'do Bronxs' Oliveira clash for the BMF title.</desc>
@@ -89474,42 +89474,42 @@ Through the journey of its athletes, including Malaysia's Marissa Aleya, we witn
     <icon src="https://iptv-epg.org/images/sQW0M2n4PS2BHvBC9hCh1_tVXKmoU1BDqjpc_AsH5_p2ErFb8iInH_F-BxCR74wGLAX0gUZGAyMoPx-IXLu7rA6I0bowkC6NtRae_oZE-b1JUAeaEWfNXkiJNKXcO6DTYIzM9mAFX8IE" />
     <title lang="en">PBR Teams 2026</title>
   </programme>
-  <programme start="20261023061000 +0000" stop="20261023090000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261023061000 +0000" stop="20261023091000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Premier League 2026/27: Match Week 6: Liverpool vs Manchester City, from Anfield.</desc>
     <icon src="https://iptv-epg.org/images/dLthqUOvbcgQzwxccGzsmobt-phSF9NeMyRbeme-mK-drPUugTje3VyJhRl8_D-E-ixIf2gB5za0toKFCFe8jZoErsgoaxmXAMzUmh2b5F7QARdIOmQez5f69bR-pY2xu1VMETdPfMEp" />
     <title lang="en">PL: Liverpool vs Man City</title>
   </programme>
-  <programme start="20261023090000 +0000" stop="20261023123000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261023091000 +0000" stop="20261023121000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Premier League 2026/27: Match Week 7: Leeds United vs Manchester United, from Elland Road.</desc>
     <icon src="https://iptv-epg.org/images/rEV-Vrp-3HJm6ElTV-RfBeTCVzmrV3x-aqRtSAOOJToSOCan4881eo4QpT5nW3XxINCNaiE8VKI1f3KqNhsKUF_efP8g44QnxFTKhdIRLlowa3UghSIrQOkxisM0aBXdNpnMeNf2IEPQ" />
     <title lang="en">PL: Leeds vs Man Utd</title>
   </programme>
-  <programme start="20261023123000 +0000" stop="20261023133000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261023121000 +0000" stop="20261023131000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Sports Magazine</category>
     <desc lang="en">PBR Teams 2026 highlights: Ridge Rider Days, at the Desert Diamond Arena in Glendale, Arizona.</desc>
     <icon src="https://iptv-epg.org/images/uhmOUSshLz6Uyi64jDUH2uTEZ5Zec1pbjzmu751tedkIMhvry4M3kQkeCKN5OC49_TEhnddbaFPRNM_KSIHZTmAAU8H8t-zCNMNE56ZaD04UaiMv4bRpDSQL3yt7CVlmpVys2fNr3PUD" />
     <title lang="en">PBR Teams 2026</title>
   </programme>
-  <programme start="20261023133000 +0000" stop="20261023160000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261023131000 +0000" stop="20261023154500 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Martial Arts</category>
     <desc lang="en">The Octagon comes to Washington DC as UFC makes history again, with the first ever sporting event at The White House.</desc>
     <icon src="https://iptv-epg.org/images/hdeX8dmfwBn6r_1iDoHDnaecBFyP_ZCsceSRe0dKt2lOhkQSlDUETA0_W7gAWokgsWWY96dbyCj2uLZHRXmceQfi_Qao9kuBHuafb6BDnPL19-VWMQswGmMiSNAgo0V7jnMojCeS1zUxoBoI1jAozQ" />
     <title lang="en">UFC Reloaded: Freedom 250: Topuria vs Gaethje</title>
   </programme>
-  <programme start="20261023160000 +0000" stop="20261023180000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261023154500 +0000" stop="20261023174500 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Other Sports / General</category>
     <desc lang="en">EASL 2026-2027: Nagasaki Velca vs KCC Egis, from at the Happiness Arena in Nagasaki, Japan.</desc>
     <icon src="https://iptv-epg.org/images/TD6nUUO2quyMH-cc_pNySfh-yYap4xMEC00a0lF71j64ZXPT-Lpi8xkczrx6z3_guFpL9o7yQ-RW3a6oAuaxWUeio094zCVzLf1lJcpQtztqLR6tGB5w8t_Vdi6Z2jJct0mAbwpTfINC" />
     <title lang="en">EASL: Nagasaki Velca vs KCC Egis</title>
   </programme>
-  <programme start="20261023180000 +0000" stop="20261023185000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261023174500 +0000" stop="20261023185000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Motor Sports</category>
     <desc lang="en">Highlights of MotoGP 2026: Japan, Round 16 Motul Grand Prix Of Japan, from Mobility Resort Motegi, Japan.</desc>
@@ -89554,21 +89554,21 @@ Through the journey of its athletes, including Malaysia's Marissa Aleya, we witn
     <title lang="en">MotoGP Australia: Qualifying/MotoGP Sprint</title>
     <live />
   </programme>
-  <programme start="20261024045000 +0000" stop="20261024060000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261024045000 +0000" stop="20261024055000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Other Sports / General</category>
     <desc lang="en">Reaction Sports showcases the "best bits" from the world of high adrenaline action sports.</desc>
     <icon src="https://iptv-epg.org/images/HUg_VUOk-yV75pH7Ubc3Xj8z3V6sToNdwfs7VN8WkcyZ3HOpChgZims5XUFNjJweuS-U0N-SstmlRgziG66Mrrjx_hHsehzB5JdvT4vEGqeG-jpuQpXPUQA5h7E_FHdc3Clk0OYZJIxm" />
     <title lang="en">Reaction Sports 2026: Aug Edition</title>
   </programme>
-  <programme start="20261024060000 +0000" stop="20261024081000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261024055000 +0000" stop="20261024075500 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Premier League 2026/27: Match Week 8: Ipswich Town vs Nottingham Forest, from Portman Road.</desc>
     <icon src="https://iptv-epg.org/images/gXOwg7FRUEBMXZF1b1VGWgEmHUm3PxyzYfc3VoOh77Zm-UZQUET0DzD3iSoT6mpzi12XSwBZOdGqeln_aZJw0qd1-FwD9b4EWcvt664sBvsDwElb8Zh3j_B9nD-pXiMxTqmwvsz4O6-v" />
     <title lang="en">PL: Ipswich vs Nottm Forest</title>
   </programme>
-  <programme start="20261024081000 +0000" stop="20261024095000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261024075500 +0000" stop="20261024095000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Sports Magazine</category>
     <desc lang="en">Spartan Race HVAR 2026: 100 Meter &amp; Sprint World Championship, from Hvar, Croatia.</desc>
@@ -89649,14 +89649,14 @@ Through the journey of its athletes, including Malaysia's Marissa Aleya, we witn
     <title lang="en">Postshow</title>
     <live />
   </programme>
-  <programme start="20261024191500 +0000" stop="20261024193000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261024191500 +0000" stop="20261024193500 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Martial Arts</category>
     <desc lang="en">Mauricio Ruffy details the unexplainable phenomenon that led him to two miracles. We go behind the scenes for Gable Stevenson's highly anticipated UFC debut.</desc>
     <icon src="https://iptv-epg.org/images/P1BJz4cEXv2i51b_WtcJuQaFW8YnUOJ1UzMNhTfVyo0DZ2YD7jnrUdkFIBCRw1la-cGS1FRubMZqVFICcrVbe51ap1oj6O8HCslT_AWICU75jLbSRTje1TU6AMymgcqPHas1_pWKXKW4FlX1h2lwJg" />
     <title lang="en">UFC Connected: Mauricio Ruffy</title>
   </programme>
-  <programme start="20261024193000 +0000" stop="20261024220000 +0000" channel="AstroGrandstand.my">
+  <programme start="20261024193500 +0000" stop="20261024220000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Martial Arts</category>
     <desc lang="en">The Octagon comes to Washington DC as UFC makes history again, with the first ever sporting event at The White House.</desc>
@@ -89896,86 +89896,118 @@ Through the journey of its athletes, including Malaysia's Marissa Aleya, we witn
     <icon src="https://iptv-epg.org/images/65Q3cyGMxxXyE8VgF36_PD7j8raufabDvjVBEvL4SMYm9uMpKWxdx1OVA_s_pr6zxgy2DCs2tHtxq0STpvpIh8L6b_1ry3VQAMNJEetU0LTEjDL6Temc4Fztdvj1iHdai7yBFU7FDaKT" />
     <title lang="en">PL: Man Utd vs Bournemouth</title>
   </programme>
-  <programme start="20261021001000 +0000" stop="20261021025000 +0000" channel="AstroPremierLeague.my">
+  <programme start="20261027010000 +0000" stop="20261027040000 +0000" channel="AstroGrandstand.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <desc lang="en">MotoGP 2026: Australia: Moto3 &amp; Moto2 Qualifying/MotoGP Sprint, Round 18 Grand Prix Of Australia, from Phillip Island, Australia.</desc>
+    <icon src="https://iptv-epg.org/images/baEJsidF0vQ6eXeCKM-6FOlqD9fqwJxf7CELIrSBBPJvq8QYRbTtDlPfP0yI3hzy0iEQeUWz6Nuth4uxwQ0ild_ICENxSDJLQtCTtLs2nDWF4LfcFeLr0KRHuqnTsCeJJCkYISuF9kUT" />
+    <title lang="en">MotoGP Australia: Qualifying/MotoGP Sprint</title>
+  </programme>
+  <programme start="20261027040000 +0000" stop="20261027043000 +0000" channel="AstroGrandstand.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <desc lang="en">The 2026 Spartan Ultra World Championship final program highlights from Morzine, Avoriaz, Portes du Soleil, France.</desc>
+    <icon src="https://iptv-epg.org/images/qXsOJ-xyohJDiyvY8TcerbBq5oKbAdRB8Mml4W3ABVSbRkzy3MwJoF62jTYdYq6QUH3YLwyNmyww4O8HBG7jdrm2uRv12U8rynHSbZbt7wDEMgYnppdMo1WMKPz32ZeCnChKX4GGJiYo" />
+    <title lang="en">Spartan Ultra World C'ship 2026 Final Program Hls</title>
+  </programme>
+  <programme start="20261027043000 +0000" stop="20261027064000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/27: Match Week 7: Everton vs Chelsea, from Hill Dickinson Stadium.</desc>
-    <icon src="https://iptv-epg.org/images/pya1sTSeRm08I6fJLr0UbRUGLnOd6HZTIxhNRMXJ_6brL7LO5XZRrtP5Ke33t4jbb47C75l_sObk_lVHXB3BJ9w3ja4cxPuU2AWSAMh_Z1v9SRLLNe05sG6aIr5e0FZkIh8F35AnrvYG" />
-    <title lang="en">PL: Everton vs Chelsea</title>
+    <desc lang="en">Premier League 2026/27: Match Week 8: Aston Villa vs Manchester City, from Villa Park.</desc>
+    <icon src="https://iptv-epg.org/images/6ANKy3KuFj-9qQhyjPfH1tJ-XpOhm4s0FyFEdrXbEL6B10TOtNPFTR1hDyqEadWfW4FDmSwZDi9tTu7NYXSSQT1l6hUucv1Lun23NPT8ylLhE7WrpgXwgp_7ZmKWUP-83fU4lBd0zIfS" />
+    <title lang="en">PL: Aston Villa vs Man City</title>
   </programme>
-  <programme start="20261021025000 +0000" stop="20261021032000 +0000" channel="AstroPremierLeague.my">
+  <programme start="20261027064000 +0000" stop="20261027074000 +0000" channel="AstroGrandstand.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <desc lang="en">CRO Race 2026 road cycling stage race Final Program Highlights from Croatia.</desc>
+    <icon src="https://iptv-epg.org/images/FEGELj0GCAMqbeyhYFMeUd3srICr6LckxZSDtSzWBjj8bgWr-NpDQe2u1m_AwX_x_yxlsKZptSlh5bEhZ0hMoZAcmj6Xz7ZNCLT6UrTF0dQ24Ho0UDzE7mNbjcgLHB2_wM4VjVZM8oZNQrCd-L1L2KIcEZ7D1d67dQbKL05qAuYG3V62fuuISZmrPUSK7Hpy" />
+    <title lang="en">CRO Race 2026 Final Program Hls</title>
+  </programme>
+  <programme start="20261027074000 +0000" stop="20261027080000 +0000" channel="AstroGrandstand.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <desc lang="en">This year's World's Strongest Man competition will see the sport's most dominant strength athletes compete for the title.</desc>
+    <icon src="https://iptv-epg.org/images/9mFzPamKjUcv5_31-JgAdb5wg0kTyczITGLeuOjWXLFdqlg_T6EcaSnDFIJ0C-6210tsCWMQr0pa3dzPaQaxq9j4gxXUZveIVNL7xxftmXRfh9D959_GHJLd9CMxvPBHoLzRitiSb7v9" />
+    <title lang="en">World's Strongest Man 2024 - Episode 3</title>
+  </programme>
+  <programme start="20261027080000 +0000" stop="20261027100000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year.</desc>
-    <icon src="https://iptv-epg.org/images/UzxiTJ8lgKoNzoqxjuF2Lw4S94NVP0ROfxYPT9hygeUqyr8Em3CUgjjnKyophRmjR0pF45SudBGTFwLUTxENEJIksmKKaV9KaApSddKvTXrwhIibANOoQNJ49qijf7ag1GbaSx4Kvtyad4xa8HUFdw" />
-    <title lang="en">PL Extra Time</title>
+    <desc lang="en">AFC Champions League Elite 2026/27: MD3: PFC Neftchi vs Al Ittihad Club, from Istiqlol Stadium, Fergana, Uzbekistan.</desc>
+    <icon src="https://iptv-epg.org/images/PHHNhmdC3MdwmKL9l1KXzrsWIzB7nmv5v0LlRTWxtNov7AGWWBL_lQlVS17qPPVoOHVOiuecOcdG1zW4V1VZcG3VIDzvWSqGDEh8Vv4aaIJ-gaj81hNTEYKkDQWVa8SZ59MUmuMnIjaS" />
+    <title lang="en">AFC Elite: PFC Neftchi vs Al Ittihad</title>
   </programme>
-  <programme start="20261021032000 +0000" stop="20261021042000 +0000" channel="AstroPremierLeague.my">
+  <programme start="20261027100000 +0000" stop="20261027120000 +0000" channel="AstroGrandstand.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">AFC Champions League Elite 2026/27: MD3: Al Ahli Saudi FC vs Al Gharafa SC, from King Abdullah Sports City Stadium, Jeddah.</desc>
+    <icon src="https://iptv-epg.org/images/PHHNhmdC3MdwmKL9l1KXzrsWIzB7nmv5v0LlRTWxtNov7AGWWBL_lQlVS17qPPVoOHVOiuecOcdG1zW4V1VZcG3VIDzvWSqGDEh8Vv4aaIJ-gaj81hNTEYKkDQWVa8SZ59MUmuMnIjaS" />
+    <title lang="en">AFC Elite: Al Ahli Saudi vs Al Gharafa</title>
+  </programme>
+  <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="AstroGrandstand.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <desc lang="en">Reaction Sports showcases the "best bits" from the world of high adrenaline action sports.</desc>
+    <icon src="https://iptv-epg.org/images/3lWY0M0q_fhsmoTT7HvJjwo49fpGVgQcbThFa-1TEl3_LKDyTaqoKXsBuz68x10d7FfVe-npytI5UYI4Toz7G_azeG9sPv5X7sDHRXFmQhF0G4bDOdjC5Dz9yAMDG8mUG8ynal79Jebv" />
+    <title lang="en">Reaction Sports 2026: Oct Edition</title>
+  </programme>
+  <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
     <icon src="https://iptv-epg.org/images/KJuaP7Q7Ta1Xa2mTmcAyrXTDM7Ij64gWtx3zOA5Dl902QJcIzy7CXRxwmt8rR6xLs_o10SWmP1rnNUmN4zn7oTurkZtJKHSWRx4sSA-3n8FMaD-eZWbCOV33N3Cz1lyEsG5X6rGdL4_PdV3Vats7CQ" />
-    <title lang="en">PL Review 2026/27: Week 7</title>
+    <title lang="en">PL Review 2026/27: Week 8</title>
   </programme>
-  <programme start="20261021042000 +0000" stop="20261021045000 +0000" channel="AstroPremierLeague.my">
+  <programme start="20261027140000 +0000" stop="20261027161000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">E7
-Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
-    <episode-num>E7</episode-num>
-    <icon src="https://iptv-epg.org/images/aDVYB3jlVKIU_ka4MI6wFJ-qwfQ3SDTA_J6HtRsnOibTlQ0aVpW_4FneRSibrqDKTVREt_SoMvxh46D75mxFdhs1TqIM2xkZDge7VF8VX_oDW0cxItcpUZbMMMmySLmW7pGq77PpNruApIe4Q8ooLg" />
-    <title lang="en">Netbusters 2026/27</title>
+    <desc lang="en">Premier League 2026/27: Match Week 8: Ipswich Town vs Nottingham Forest, from Portman Road.</desc>
+    <icon src="https://iptv-epg.org/images/gXOwg7FRUEBMXZF1b1VGWgEmHUm3PxyzYfc3VoOh77Zm-UZQUET0DzD3iSoT6mpzi12XSwBZOdGqeln_aZJw0qd1-FwD9b4EWcvt664sBvsDwElb8Zh3j_B9nD-pXiMxTqmwvsz4O6-v" />
+    <title lang="en">PL: Ipswich vs Nottm Forest</title>
   </programme>
-  <programme start="20261021045000 +0000" stop="20261021070000 +0000" channel="AstroPremierLeague.my">
+  <programme start="20261027161000 +0000" stop="20261027171000 +0000" channel="AstroGrandstand.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <desc lang="en">At UFC 312, middleweight champion Dricus du Plessis faced familiar foe, Sean Strickland.</desc>
+    <icon src="https://iptv-epg.org/images/ATdY1saGC5DFw9mQh73dDZPt1NKRZSyKb3XhreWdWUbSm88Gm6M_tyxXc2usO7cAhjfr6ty885ha8pVOo54Pfsa2C7npg0kdAkWM2vmU27dm8gDNtKcO0Zdw-iq-sBRgDGBLxA4m11r3Ft3SwF9UVQ" />
+    <title lang="en">UFC 312: du Plessis vs Strickland 2</title>
+  </programme>
+  <programme start="20261027171000 +0000" stop="20261027180500 +0000" channel="AstroGrandstand.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <desc lang="en">At UFC 314, the vacant featherweight title was up for grabs as former champion Alexander Volkanovski faced surging contender Diego Lopes.</desc>
+    <icon src="https://iptv-epg.org/images/ATdY1saGC5DFw9mQh73dDZPt1NKRZSyKb3XhreWdWUbSm88Gm6M_tyxXc2usO7cAhjfr6ty885ha8pVOo54Pfsa2C7npg0kdAkWM2vmU27dm8gDNtKcO0Zdw-iq-sBRgDGBLxA4m11r3Ft3SwF9UVQ" />
+    <title lang="en">UFC Main Event 314: Volkanovski vs Lopez</title>
+  </programme>
+  <programme start="20261027180500 +0000" stop="20261027203000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/27: Match Week 7: Tottenham Hotspur vs Coventry City, from Tottenham Hotspur Stadium.</desc>
-    <icon src="https://iptv-epg.org/images/aquEciDWtvu1R7gMWmLkb0esN1npgwu_3Q-Zs62FLSWmGFKwFD-ZI0W7vg960V3ErXoaDKG6zzgAMpJIAW0lYfgie0jG5b18bAOlXOglXVY5BWAsqheySvXe6GCZ1C1GOF6perqE1VNw" />
-    <title lang="en">PL: Tottenham vs Coventry</title>
+    <desc lang="en">LIVE: AFC Champions League Elite 2026/27: MD3: Al Shamal SC vs Al Hilal SFC, from Al Bayt Stadium, Al Khor, Qatar.</desc>
+    <icon src="https://iptv-epg.org/images/PHHNhmdC3MdwmKL9l1KXzrsWIzB7nmv5v0LlRTWxtNov7AGWWBL_lQlVS17qPPVoOHVOiuecOcdG1zW4V1VZcG3VIDzvWSqGDEh8Vv4aaIJ-gaj81hNTEYKkDQWVa8SZ59MUmuMnIjaS" />
+    <title lang="en">AFC Elite: Al Shamal vs Al Hilal</title>
+    <live />
   </programme>
-  <programme start="20261021070000 +0000" stop="20261021091000 +0000" channel="AstroPremierLeague.my">
+  <programme start="20261027203000 +0000" stop="20261027210000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/27: Match Week 7: Bournemouth vs Sunderland, from Vitality Stadium.</desc>
-    <icon src="https://iptv-epg.org/images/_OZZ-nCPa3vy9vgPVRJFeGBTIeHJ6G3jpXFk2h9Utud5-gEDv-ZdR9w1bG1Ajk4wy9Rs6WOl43FP8ej_gDYJ7_9N_8jFakSPUUNmpuvxH3L6tJfzpiHJ2HXeVkvw13dt5yYIejMjGE3T" />
-    <title lang="en">PL: Bournemouth vs Sunderland</title>
+    <category lang="en">Martial Arts</category>
+    <desc lang="en">Tabatha Ricci and Callum Walsh detail how their unbreakable bond is driving their success in combat sports. Justin Gaethje and Michael Chandler bring their competitive edge to the fairway.</desc>
+    <icon src="https://iptv-epg.org/images/P1BJz4cEXv2i51b_WtcJuQaFW8YnUOJ1UzMNhTfVyo0DZ2YD7jnrUdkFIBCRw1la-cGS1FRubMZqVFICcrVbe51ap1oj6O8HCslT_AWICU75jLbSRTje1TU6AMymgcqPHas1_pWKXKW4FlX1h2lwJg" />
+    <title lang="en">UFC Connected: Tabatha Ricci</title>
   </programme>
-  <programme start="20261021091000 +0000" stop="20261021113000 +0000" channel="AstroPremierLeague.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/27: Match Week 7: Brentford vs Liverpool, from Gtech Community Stadium.</desc>
-    <icon src="https://iptv-epg.org/images/izeO-rDvU8a8eRPokPIFGH2MyKQXwGaxDksBEPJe_eCUGvzSe3bv0PALXAZ4kgEJydGIduMlLHqRovmArrZ6vDX4oBzdd8oG4nr1t8Ilpj8g36B3DaxsP_SE51qh6O640EBQcbZE7fD8" />
-    <title lang="en">PL: Brentford vs Liverpool</title>
-  </programme>
-  <programme start="20261021113000 +0000" stop="20261021120000 +0000" channel="AstroPremierLeague.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-    <icon src="https://iptv-epg.org/images/Y6OM9q0aveUnilZ-OhORXTfsUSOGKwagH_Mx9pFRisz5M5h1ozvd7LkKNVuBWArHCsuKNoUGZ7Q1Dz8fWVidLLVXjSJOkJL-wv_LOpHhr4cYkPs90yyTucUkR3uKrv5ic0WJGLgp6Rj3rlQ-CLCeMg" />
-    <title lang="en">The Final Word</title>
-  </programme>
-  <programme start="20261021120000 +0000" stop="20261021130000 +0000" channel="AstroPremierLeague.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">E7
-Expert analysis and insightful data are used to explain the twists and turns of the Premier League matchweek.</desc>
-    <episode-num>E7</episode-num>
-    <icon src="https://iptv-epg.org/images/KWRukEl5Qd6aY6v3xMPRT8vm1g0lsw5azyxOl2xuu7sih-GEwUbfh06y0ZI1NkvisOr1hSc_rSVrh-_z_FkccDqepe4Jz3Y24KKW9P1FUgrxLR-pkgF3eVCxIgImBukUFO3pMOar5_FgW4LTgRF5Qg" />
-    <title lang="en">Generation XG 2026/27</title>
-  </programme>
-  <programme start="20261021130000 +0000" stop="20261021140000 +0000" channel="AstroPremierLeague.my">
+  <programme start="20261027210000 +0000" stop="20261027220000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
     <icon src="https://iptv-epg.org/images/KJuaP7Q7Ta1Xa2mTmcAyrXTDM7Ij64gWtx3zOA5Dl902QJcIzy7CXRxwmt8rR6xLs_o10SWmP1rnNUmN4zn7oTurkZtJKHSWRx4sSA-3n8FMaD-eZWbCOV33N3Cz1lyEsG5X6rGdL4_PdV3Vats7CQ" />
-    <title lang="en">PL Review 2026/27: Week 7</title>
+    <title lang="en">PL Review 2026/27: Week 8</title>
   </programme>
-  <programme start="20261021140000 +0000" stop="20261021161000 +0000" channel="AstroPremierLeague.my">
+  <programme start="20261027220000 +0000" stop="20261028010000 +0000" channel="AstroGrandstand.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/27: Match Week 7: Nottingham Forest vs Arsenal, from The City Ground.</desc>
-    <icon src="https://iptv-epg.org/images/imLEAsp7ix6ylkb5gdL0GSkDWUkcA04wj0x1tIuEq1a5YIYk_MOHQ42nWkvr_MLjAcDRHvrNfeUpWL-BZvz7jDuEml4YiZ0qLXw02KeIQNndvZjIWbrQYvPX5ADcMZjt7y_chTXqqZAg" />
-    <title lang="en">PL: Nottm Forest vs Arsenal</title>
+    <desc lang="en">Premier League 2026/27: Match Week 7: Leeds United vs Manchester United, from Elland Road.</desc>
+    <icon src="https://iptv-epg.org/images/rEV-Vrp-3HJm6ElTV-RfBeTCVzmrV3x-aqRtSAOOJToSOCan4881eo4QpT5nW3XxINCNaiE8VKI1f3KqNhsKUF_efP8g44QnxFTKhdIRLlowa3UghSIrQOkxisM0aBXdNpnMeNf2IEPQ" />
+    <title lang="en">PL: Leeds vs Man Utd</title>
   </programme>
   <programme start="20261021161000 +0000" stop="20261021182000 +0000" channel="AstroPremierLeague.my">
     <category lang="en">Sports</category>
@@ -90591,173 +90623,154 @@ Expert analysis and insightful data are used to explain the twists and turns of 
     <icon src="https://iptv-epg.org/images/SijcO4NiknN9-O6TuTff7huRbg6emgORBQGDlW4KZd0Fkk-95ItNdB57JO0Dqs0khmVqTcSCt6ot_FZz85GvyKCbpJI09mvQ7HYZLGS-CWxFInf-6mk3rGexzdcoRm4cabZ0YbwZRPmu" />
     <title lang="en">PL: Sunderland vs Leeds</title>
   </programme>
-  <programme start="20261021010000 +0000" stop="20261021020000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261027012000 +0000" stop="20261027033000 +0000" channel="AstroPremierLeague.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">An extensive recap of Matchweek 7, showcasing the thrills, spills and major talking points from each Premier League fixture.</desc>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Review: MW07</title>
+    <desc lang="en">Premier League 2026/27: Match Week 8: Coventry City vs Fulham, from Coventry Building Society Arena.</desc>
+    <icon src="https://iptv-epg.org/images/qI9HvFORvtY2n-hVwTB5wdKs_E2RWOafs6T09AdW_Ave0xPAue0zji703-dzxrggvR9P3EZeWz4RG3m9qAIXjgmLEkWbA5SGNkiHPdcab0JG6SswCSNaboBJYhbm_llzHarBNqyTK8T1" />
+    <title lang="en">PL: Coventry vs Fulham</title>
   </programme>
-  <programme start="20261021020000 +0000" stop="20261021023000 +0000" channel="AstroPremierLeague2.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">E5
-An evergreen archive strand that relives classic matches, season and moments in the company of those who starred in them.</desc>
-    <episode-num>E5</episode-num>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Rewind: Ep05: Theo Walcott: My PL Years</title>
-  </programme>
-  <programme start="20261021023000 +0000" stop="20261021030000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261027033000 +0000" stop="20261027040000 +0000" channel="AstroPremierLeague.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Match Hls 26/27: MW07: Tot Vs Cov</title>
+    <icon src="https://iptv-epg.org/images/2MjEd2JvCh_iKO0kYUK9_F-PPMrHkV1y4CG_BYQy3gq057XdguhbkKllAF4oq8tI4zMJH9nIHyL_5iMzbJyfqiBI7rJMZpR4xkkfXZIdZPYsJ0qu-J7bDAFmyEQd8QZ0KPOhwtPLRiYkjQxmuiXa-Q" />
+    <title lang="en">Match HL 2026/27: WK8: LIV vs BHA</title>
   </programme>
-  <programme start="20261021030000 +0000" stop="20261021033000 +0000" channel="AstroPremierLeague2.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-    <icon src="https://iptv-epg.org/images/tkgvt8AyG_ywjf3kTexfa5V2fPiO8TMWepca5p0OZo_ZBsW9YjTHfBB8i_848llAIPrBAsMZAh52ZmnPE2c9hDkdUvoXL_SMewcVXmSSrSi4pqt6MQPWL9900XzOJm-lMOmKGwPdlmfuKjSmffzMGt3CIA" />
-    <title lang="en">The Final Word</title>
-  </programme>
-  <programme start="20261021033000 +0000" stop="20261021040000 +0000" channel="AstroPremierLeague2.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year.</desc>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Extra Time</title>
-  </programme>
-  <programme start="20261021040000 +0000" stop="20261021043000 +0000" channel="AstroPremierLeague2.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Netbusters: MW07</title>
-  </programme>
-  <programme start="20261021043000 +0000" stop="20261021053000 +0000" channel="AstroPremierLeague2.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">We take a look back at some of the most spectacular and important goals from previous Premier League seasons.</desc>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Goals of the Season: 2020/2021</title>
-  </programme>
-  <programme start="20261021053000 +0000" stop="20261021060000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261027040000 +0000" stop="20261027043000 +0000" channel="AstroPremierLeague.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Match Hls 26/27: MW07: Mci Vs Ips</title>
+    <icon src="https://iptv-epg.org/images/2MjEd2JvCh_iKO0kYUK9_F-PPMrHkV1y4CG_BYQy3gq057XdguhbkKllAF4oq8tI4zMJH9nIHyL_5iMzbJyfqiBI7rJMZpR4xkkfXZIdZPYsJ0qu-J7bDAFmyEQd8QZ0KPOhwtPLRiYkjQxmuiXa-Q" />
+    <title lang="en">Match HL 2026/27: WK8: MUN vs BOU</title>
   </programme>
-  <programme start="20261021060000 +0000" stop="20261021063000 +0000" channel="AstroPremierLeague2.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Pro Ref Chief Refereeing Officer Howard Webb joins Michael Owen to provide context and explanation behind refereeing decisions.</desc>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Match Officials Mic'd up</title>
-  </programme>
-  <programme start="20261021063000 +0000" stop="20261021073000 +0000" channel="AstroPremierLeague2.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">E2
-Former Chelsea and Tottenham midfielder Gus Poyet chooses the best eleven teammates he shared a Premier League pitch with.</desc>
-    <episode-num>E2</episode-num>
-    <icon src="https://iptv-epg.org/images/mqBx9Wp3UUQNG10P9YFdRg-o1auraVxrINalaByff3n-llNolgVTLhY-0SnrL9ohSWdwCPFmRPtb3Tp_yHyNwEYP0yAU0O4sGUNHE3dRDL_wOcle1d4TW0tLuHM4olU_SJHW0mvb9r8MzYDlMKuCbXO6FQ" />
-    <title lang="en">1-to-11: Ep02: Gus Poyet</title>
-  </programme>
-  <programme start="20261021073000 +0000" stop="20261021080000 +0000" channel="AstroPremierLeague2.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">E5
-An evergreen archive strand that relives classic matches, season and moments in the company of those who starred in them.</desc>
-    <episode-num>E5</episode-num>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Rewind: Ep05: Theo Walcott: My PL Years</title>
-  </programme>
-  <programme start="20261021080000 +0000" stop="20261021090000 +0000" channel="AstroPremierLeague2.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">An extensive recap of Matchweek 7, showcasing the thrills, spills and major talking points from each Premier League fixture.</desc>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Review: MW07</title>
-  </programme>
-  <programme start="20261021090000 +0000" stop="20261021093000 +0000" channel="AstroPremierLeague2.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">E9
-Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
-    <episode-num>E9</episode-num>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">The Big Interview</title>
-  </programme>
-  <programme start="20261021093000 +0000" stop="20261021100000 +0000" channel="AstroPremierLeague2.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">E20
-Once the last line of defence, today's goalkeeper is expected to be so much more. From sweeper-keepers to playing out under pressure.</desc>
-    <episode-num>E20</episode-num>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">PL Stories: Ep20: the Evolution of Goalkeepers</title>
-  </programme>
-  <programme start="20261021100000 +0000" stop="20261021103000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261027043000 +0000" stop="20261027050000 +0000" channel="AstroPremierLeague.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Match Hls 26/27: MW07: Nfo Vs Ars</title>
+    <icon src="https://iptv-epg.org/images/2MjEd2JvCh_iKO0kYUK9_F-PPMrHkV1y4CG_BYQy3gq057XdguhbkKllAF4oq8tI4zMJH9nIHyL_5iMzbJyfqiBI7rJMZpR4xkkfXZIdZPYsJ0qu-J7bDAFmyEQd8QZ0KPOhwtPLRiYkjQxmuiXa-Q" />
+    <title lang="en">Match HL 2026/27: WK8: CRY vs NEW</title>
   </programme>
-  <programme start="20261021103000 +0000" stop="20261021110000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261027050000 +0000" stop="20261027053000 +0000" channel="AstroPremierLeague.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Netbusters: MW07</title>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/2MjEd2JvCh_iKO0kYUK9_F-PPMrHkV1y4CG_BYQy3gq057XdguhbkKllAF4oq8tI4zMJH9nIHyL_5iMzbJyfqiBI7rJMZpR4xkkfXZIdZPYsJ0qu-J7bDAFmyEQd8QZ0KPOhwtPLRiYkjQxmuiXa-Q" />
+    <title lang="en">Match HL 2026/27: WK8: HUL vs BRE</title>
   </programme>
-  <programme start="20261021110000 +0000" stop="20261021120000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261027053000 +0000" stop="20261027060000 +0000" channel="AstroPremierLeague.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">We take a look back at some of the most spectacular and important goals from previous Premier League seasons.</desc>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Goals of the Season: 2020/2021</title>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/2MjEd2JvCh_iKO0kYUK9_F-PPMrHkV1y4CG_BYQy3gq057XdguhbkKllAF4oq8tI4zMJH9nIHyL_5iMzbJyfqiBI7rJMZpR4xkkfXZIdZPYsJ0qu-J7bDAFmyEQd8QZ0KPOhwtPLRiYkjQxmuiXa-Q" />
+    <title lang="en">Match HL 2026/27: WK8: SUN vs LEE</title>
   </programme>
-  <programme start="20261021120000 +0000" stop="20261021130000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261027060000 +0000" stop="20261027070000 +0000" channel="AstroPremierLeague.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football, with input from players, managers and data experts.</desc>
-    <icon src="https://iptv-epg.org/images/fOs5AIpuK7q1IOz_Yn4CxP0yBiGupXxaYCX_WToP1rW8kSgfsNRKIfC38tRQKtDSfIOGm5GY0hCx0_83RC5hVN1ZZdKBzCwkmqA7S2Z74kDdxbkUa621qlrU-kKpGTzx-rbXwNQa4CFsXli8wtOAI9BAaw" />
-    <title lang="en">Generation Xg</title>
+    <desc lang="en">Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+    <icon src="https://iptv-epg.org/images/KJuaP7Q7Ta1Xa2mTmcAyrXTDM7Ij64gWtx3zOA5Dl902QJcIzy7CXRxwmt8rR6xLs_o10SWmP1rnNUmN4zn7oTurkZtJKHSWRx4sSA-3n8FMaD-eZWbCOV33N3Cz1lyEsG5X6rGdL4_PdV3Vats7CQ" />
+    <title lang="en">PL Review 2026/27: Week 8</title>
   </programme>
-  <programme start="20261021130000 +0000" stop="20261021133000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261027070000 +0000" stop="20261027073000 +0000" channel="AstroPremierLeague.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">Pro Ref Chief Refereeing Officer Howard Webb joins Michael Owen to provide context and explanation behind refereeing decisions.</desc>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Match Officials Mic'd up</title>
+    <desc lang="en">An evergreen archive strand that relives classic matches, season and moments in the company of those who starred in them.</desc>
+    <icon src="https://iptv-epg.org/images/oCLFVQZJWE6g_PZDnwjgmnJNThr0EU6w7iutv2Y2TPPlUKtUOjYth-mrFXKNM_Rh6MCfBPGDBMjtB7ia8_X9rYRhRDJ8kIzGE7PQ4AQHAAlE3Q6wdEsG8s4S_Y64em53VZbXWCqLWFiSGyjrnEqK9w" />
+    <title lang="en">PL Rewind: Theo Walcott: My Premier League Years</title>
   </programme>
-  <programme start="20261021133000 +0000" stop="20261021140000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261027073000 +0000" stop="20261027094000 +0000" channel="AstroPremierLeague.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">E5
-An evergreen archive strand that relives classic matches, season and moments in the company of those who starred in them.</desc>
-    <episode-num>E5</episode-num>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Rewind: Ep05: Theo Walcott: My PL Years</title>
+    <desc lang="en">Premier League 2026/27: Match Week 8: Arsenal vs Everton, from Emirates Stadium.</desc>
+    <icon src="https://iptv-epg.org/images/VE68jKVfGFF7ENtQ4Dlo7hQGC6cdWTVc6ywdkfN-tYCm9n9HoCtDQ_f0aSWZfaq5fBPGrntqCBgyoa0hFC8ODiQxLxhTe4rFLIG4ccoAZGG6qbrzw4NrPa3Kop9m0J-h8nGBE7TcXUO4" />
+    <title lang="en">PL: Arsenal vs Everton</title>
   </programme>
-  <programme start="20261021140000 +0000" stop="20261021150000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261027094000 +0000" stop="20261027115000 +0000" channel="AstroPremierLeague.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">E9
-The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
-    <episode-num>E9</episode-num>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">The Catch-up Show</title>
+    <desc lang="en">Premier League 2026/27: Match Week 8: Manchester United vs Bournemouth, from Old Trafford.</desc>
+    <icon src="https://iptv-epg.org/images/65Q3cyGMxxXyE8VgF36_PD7j8raufabDvjVBEvL4SMYm9uMpKWxdx1OVA_s_pr6zxgy2DCs2tHtxq0STpvpIh8L6b_1ry3VQAMNJEetU0LTEjDL6Temc4Fztdvj1iHdai7yBFU7FDaKT" />
+    <title lang="en">PL: Man Utd vs Bournemouth</title>
   </programme>
-  <programme start="20261021150000 +0000" stop="20261021170000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261027115000 +0000" stop="20261027122000 +0000" channel="AstroPremierLeague.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2009/2010 season.</desc>
-    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
-    <title lang="en">Classic Match: Che Vs Tot</title>
+    <desc lang="en">E8
+Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+    <episode-num>E8</episode-num>
+    <icon src="https://iptv-epg.org/images/aDVYB3jlVKIU_ka4MI6wFJ-qwfQ3SDTA_J6HtRsnOibTlQ0aVpW_4FneRSibrqDKTVREt_SoMvxh46D75mxFdhs1TqIM2xkZDge7VF8VX_oDW0cxItcpUZbMMMmySLmW7pGq77PpNruApIe4Q8ooLg" />
+    <title lang="en">Netbusters 2026/27</title>
+  </programme>
+  <programme start="20261027122000 +0000" stop="20261027125000 +0000" channel="AstroPremierLeague.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/2MjEd2JvCh_iKO0kYUK9_F-PPMrHkV1y4CG_BYQy3gq057XdguhbkKllAF4oq8tI4zMJH9nIHyL_5iMzbJyfqiBI7rJMZpR4xkkfXZIdZPYsJ0qu-J7bDAFmyEQd8QZ0KPOhwtPLRiYkjQxmuiXa-Q" />
+    <title lang="en">Match HL 2026/27: WK8: LIV vs BHA</title>
+  </programme>
+  <programme start="20261027125000 +0000" stop="20261027132000 +0000" channel="AstroPremierLeague.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/2MjEd2JvCh_iKO0kYUK9_F-PPMrHkV1y4CG_BYQy3gq057XdguhbkKllAF4oq8tI4zMJH9nIHyL_5iMzbJyfqiBI7rJMZpR4xkkfXZIdZPYsJ0qu-J7bDAFmyEQd8QZ0KPOhwtPLRiYkjQxmuiXa-Q" />
+    <title lang="en">Match HL 2026/27: WK8: MUN vs BOU</title>
+  </programme>
+  <programme start="20261027132000 +0000" stop="20261027164000 +0000" channel="AstroPremierLeague.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Premier League 2026/27: Match Week 8: Liverpool vs Brighton and Hove Albion, from Anfield.</desc>
+    <icon src="https://iptv-epg.org/images/BXVUTedFRqOArliKPGBK_1QwwxQQQdBmdctAr1bUIwoa4Dxx8Fz6QaRefG7pHNtJ3FSNC3rDeEBw-hxK77S8yc3IkTc8hwExsMDhjbfhImSOZSe2QDj9gA1zMw2ocgq2a1z-Emrou9ce" />
+    <title lang="en">PL: Liverpool vs Brighton</title>
+  </programme>
+  <programme start="20261027164000 +0000" stop="20261027185000 +0000" channel="AstroPremierLeague.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Premier League 2026/27: Match Week 8: Crystal Palace vs Newcastle United, from Selhurst Park.</desc>
+    <icon src="https://iptv-epg.org/images/9aByp42lweGgB1oYahE8vrmMnuWrms52EaJQiJZ5LA9DpMqXilF20qQiR1EdcydObmx73lhTwTtCK0MMKOLZ8cgXxlzuuhaZHDEscr5GJsttHO4M5Q6HkW03L2qcAlSNGivLu5CwKA36" />
+    <title lang="en">PL: Crystal Palace vs Newcastle</title>
+  </programme>
+  <programme start="20261027185000 +0000" stop="20261027210000 +0000" channel="AstroPremierLeague.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Premier League 2026/27: Match Week 8: Hull City vs Brentford, from MKM Stadium.</desc>
+    <icon src="https://iptv-epg.org/images/ua8HizL6IpgZNBOmNjWdSXirsnskQyld6CEW_DPpjEYY19BRrHMfeibpJHoOzoT12DGQeme2vcn2Acl-vU9TQNyQha-wV0Io5kZG-jCrHGMw92r7F25xfDT3rBezbMv-bDvDvy125HGZ" />
+    <title lang="en">PL: Hull vs Brentford</title>
+  </programme>
+  <programme start="20261027210000 +0000" stop="20261027213000 +0000" channel="AstroPremierLeague.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/2MjEd2JvCh_iKO0kYUK9_F-PPMrHkV1y4CG_BYQy3gq057XdguhbkKllAF4oq8tI4zMJH9nIHyL_5iMzbJyfqiBI7rJMZpR4xkkfXZIdZPYsJ0qu-J7bDAFmyEQd8QZ0KPOhwtPLRiYkjQxmuiXa-Q" />
+    <title lang="en">Match HL 2026/27: WK8: SUN vs LEE</title>
+  </programme>
+  <programme start="20261027213000 +0000" stop="20261027220000 +0000" channel="AstroPremierLeague.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/2MjEd2JvCh_iKO0kYUK9_F-PPMrHkV1y4CG_BYQy3gq057XdguhbkKllAF4oq8tI4zMJH9nIHyL_5iMzbJyfqiBI7rJMZpR4xkkfXZIdZPYsJ0qu-J7bDAFmyEQd8QZ0KPOhwtPLRiYkjQxmuiXa-Q" />
+    <title lang="en">Match HL 2026/27: WK8: CRY vs NEW</title>
+  </programme>
+  <programme start="20261027220000 +0000" stop="20261027223000 +0000" channel="AstroPremierLeague.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <desc lang="en">PL Classic 2023/24: A wonderful individual goal from Son Heung-min helped Tottenham end Chelsea’s unbeaten start to the season with a 3-1 win at Wembley Stadium.</desc>
+    <icon src="https://iptv-epg.org/images/5V-oHNaFFEVyvhgYBrpbGgbtgsPbJVG7Kxa8ZyyEVmQfS-6R70Efuefmuwt2LF0bpjZ-miJZzMJCwgg5KBIyFA8XN42Y0EMyYYrRHQeyK8UXbGVPgGY1BCDKyevPA3BciTP3ps5UUX4I" />
+    <title lang="en">Tottenham Hotspur vs Chelsea 2018/19</title>
+  </programme>
+  <programme start="20261027223000 +0000" stop="20261027230000 +0000" channel="AstroPremierLeague.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <desc lang="en">PL Classic 2023/24: Newcastle come back from 4-0 down to steal a point in this remarkable match.</desc>
+    <icon src="https://iptv-epg.org/images/5V-oHNaFFEVyvhgYBrpbGgbtgsPbJVG7Kxa8ZyyEVmQfS-6R70Efuefmuwt2LF0bpjZ-miJZzMJCwgg5KBIyFA8XN42Y0EMyYYrRHQeyK8UXbGVPgGY1BCDKyevPA3BciTP3ps5UUX4I" />
+    <title lang="en">Newcastle United vs Arsenal 2010/11</title>
+  </programme>
+  <programme start="20261027230000 +0000" stop="20261028011000 +0000" channel="AstroPremierLeague.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Premier League 2026/27: Match Week 8: Ipswich Town vs Nottingham Forest, from Portman Road.</desc>
+    <icon src="https://iptv-epg.org/images/gXOwg7FRUEBMXZF1b1VGWgEmHUm3PxyzYfc3VoOh77Zm-UZQUET0DzD3iSoT6mpzi12XSwBZOdGqeln_aZJw0qd1-FwD9b4EWcvt664sBvsDwElb8Zh3j_B9nD-pXiMxTqmwvsz4O6-v" />
+    <title lang="en">PL: Ipswich vs Nottm Forest</title>
   </programme>
   <programme start="20261021170000 +0000" stop="20261021180000 +0000" channel="AstroPremierLeague2.my">
     <category lang="en">Sports</category>
@@ -91453,14 +91466,14 @@ Extended sit-downs and more informal 'out and about' interview with the Premier 
     <title lang="en">PL: Arsenal vs Everton</title>
     <live />
   </programme>
-  <programme start="20261024160000 +0000" stop="20261024170000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261024160000 +0000" stop="20261024165500 +0000" channel="AstroPremierLeague2.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
     <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
     <title lang="en">PLTV: 1-To-11 2026/27</title>
   </programme>
-  <programme start="20261024170000 +0000" stop="20261024190000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261024165500 +0000" stop="20261024190000 +0000" channel="AstroPremierLeague2.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Premier League 2026/27: Match Week 7: Brighton and Hove Albion vs Crystal Palace, from American Express Stadium, Falmer, England.</desc>
@@ -91676,14 +91689,14 @@ Extended sit-downs and more informal 'out and about' interview with the Premier 
     <icon src="https://iptv-epg.org/images/cRGrG8eJ5s2fqNy8Fuq4gTxwPj-REVLUHiPSxoL4Ulq-pejbkWYa0ULUvzqT-j37iwNlzZs3dRfOvO-LCqqTLIbO_UyD3fDF7TRAtlaZy51zBgdxRk6n6DKyBS1Uhqj5AG4wPDF-8TBSbofXYeZzSBP5Qw" />
     <title lang="en">The Saturday Wrap</title>
   </programme>
-  <programme start="20261025123000 +0000" stop="20261025133000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261025123000 +0000" stop="20261025130800 +0000" channel="AstroPremierLeague2.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <desc lang="en">Dion Dublin selects his ultimate Premier League 1 to 11 from the outstanding players he played alongside during his career.</desc>
     <icon src="https://iptv-epg.org/images/JQU9lBBRsl9s1u2Nt_cAqgzCzADObn_DmYI-YLWXM4kYEKHx0XBURUX7ImWRj1fJ8-RStABn4x4mSyolTjPPwcjN16LIKqF5ywizImeuZO87p66zmJoXLiuw8POVKiJV7kr9GLULaUo1" />
     <title lang="en">PLTV: 1-To-11 2026/27 Ep.1 (1/9)</title>
   </programme>
-  <programme start="20261025133000 +0000" stop="20261025135000 +0000" channel="AstroPremierLeague2.my">
+  <programme start="20261025130800 +0000" stop="20261025135000 +0000" channel="AstroPremierLeague2.my">
     <category lang="en">Sports</category>
     <category lang="en">Sports Magazine</category>
     <desc lang="en">As Manchester City embark on a new chapter, we celebrate the extraordinary legacy of Pep Guardiola, the visionary who transformed not only a football club, but the Premier League itself.</desc>
@@ -92032,6 +92045,242 @@ Former Chelsea and Tottenham midfielder Gus Poyet chooses the best eleven teamma
     <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
     <title lang="en">Netbusters: MW08</title>
   </programme>
+  <programme start="20261027000000 +0000" stop="20261027010000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">This is the show that puts international fans at the heart of the Premier League conversation. We connect with fans from around the world as they share their views on their teams and favourite players.</desc>
+    <icon src="https://iptv-epg.org/images/ob3xw0M_u58bHjILcEXii3LPr87ZzOewqw3LjYlWXsVxnYv7t2h-Aq9nJ_SHHixaov1Dgzquo4P2IsRn33cOhHRKlREwv0L4IrlR642Q90j3QeevP8c6hR75LjionMPlwRiSovv0pLb-5hYp-WdtIlYhsA" />
+    <title lang="en">Fanzone</title>
+  </programme>
+  <programme start="20261027010000 +0000" stop="20261027020000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">An extensive recap of Matchweek 8, showcasing the thrills, spills and major talking points from each Premier League fixture.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Review: MW08</title>
+  </programme>
+  <programme start="20261027020000 +0000" stop="20261027023000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Match Hls 26/27: MW08: Che V Tot</title>
+  </programme>
+  <programme start="20261027023000 +0000" stop="20261027033000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football, with input from players, managers and data experts.</desc>
+    <icon src="https://iptv-epg.org/images/fOs5AIpuK7q1IOz_Yn4CxP0yBiGupXxaYCX_WToP1rW8kSgfsNRKIfC38tRQKtDSfIOGm5GY0hCx0_83RC5hVN1ZZdKBzCwkmqA7S2Z74kDdxbkUa621qlrU-kKpGTzx-rbXwNQa4CFsXli8wtOAI9BAaw" />
+    <title lang="en">Generation Xg</title>
+  </programme>
+  <programme start="20261027033000 +0000" stop="20261027040000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Netbusters: MW08</title>
+  </programme>
+  <programme start="20261027040000 +0000" stop="20261027043000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Match Hls 26/27: MW08: Cov V Ful</title>
+  </programme>
+  <programme start="20261027043000 +0000" stop="20261027050000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Match Hls 26/27: MW08: Avl V Mci</title>
+  </programme>
+  <programme start="20261027050000 +0000" stop="20261027060000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">This is the show that puts international fans at the heart of the Premier League conversation. We connect with fans from around the world as they share their views on their teams and favourite players.</desc>
+    <icon src="https://iptv-epg.org/images/ob3xw0M_u58bHjILcEXii3LPr87ZzOewqw3LjYlWXsVxnYv7t2h-Aq9nJ_SHHixaov1Dgzquo4P2IsRn33cOhHRKlREwv0L4IrlR642Q90j3QeevP8c6hR75LjionMPlwRiSovv0pLb-5hYp-WdtIlYhsA" />
+    <title lang="en">Fanzone</title>
+  </programme>
+  <programme start="20261027060000 +0000" stop="20261027063000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Match Hls 26/27: MW08: Mun V Bou</title>
+  </programme>
+  <programme start="20261027063000 +0000" stop="20261027073000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">The Weekend Wrap features insightful debate and expert analysis from the Premier League Live pundits around the weekend's fixtures.</desc>
+    <icon src="https://iptv-epg.org/images/Ns9Tt_872-f9OmdTZovCXwLSx66CEhP0dv5VOUb50Ow4LisFmEiod0jmrAHue5SOUNVIqUsX4mUo1GrFOd4a9zU2vooGkTodZjM2RIJ5Hx55jiuddkF7JBBqVexOve7DC4k0toTyum30xmOdLUxKqwSYJ41eFddgXSM" />
+    <title lang="en">The Weekend Wrap</title>
+  </programme>
+  <programme start="20261027073000 +0000" stop="20261027083000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football, with input from players, managers and data experts.</desc>
+    <icon src="https://iptv-epg.org/images/fOs5AIpuK7q1IOz_Yn4CxP0yBiGupXxaYCX_WToP1rW8kSgfsNRKIfC38tRQKtDSfIOGm5GY0hCx0_83RC5hVN1ZZdKBzCwkmqA7S2Z74kDdxbkUa621qlrU-kKpGTzx-rbXwNQa4CFsXli8wtOAI9BAaw" />
+    <title lang="en">Generation Xg</title>
+  </programme>
+  <programme start="20261027083000 +0000" stop="20261027090000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Netbusters: MW08</title>
+  </programme>
+  <programme start="20261027090000 +0000" stop="20261027100000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">E15
+Steve McManaman revisits ten standout moments from his Premier League career, from his breakthrough at Anfield to unforgettable solo goals and Merseyside derby magic.</desc>
+    <episode-num>E15</episode-num>
+    <icon src="https://iptv-epg.org/images/6lVBYaEi0s3NmL-qqwCuzuhFugSfrIIqrLdwPznoq2PU4hkG-UKGSXDoAlDv35-6vFvq8m-VHSPwrYWNidbtpSkAmDYP2ld_NfeyNIgbTDbBfKwx8pPrmlsW8vl5Uz0DgFnEWqLzFWW-T-yro2v-vvng-A" />
+    <title lang="en">PL Moments: Ep15: Steve Mcmanaman</title>
+  </programme>
+  <programme start="20261027100000 +0000" stop="20261027103000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Match Hls 26/27: MW08: Liv V Bha</title>
+  </programme>
+  <programme start="20261027103000 +0000" stop="20261027110000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Match Hls 26/27: MW08: Che V Tot</title>
+  </programme>
+  <programme start="20261027110000 +0000" stop="20261027120000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">This is the show that puts international fans at the heart of the Premier League conversation. We connect with fans from around the world as they share their views on their teams and favourite players.</desc>
+    <icon src="https://iptv-epg.org/images/ob3xw0M_u58bHjILcEXii3LPr87ZzOewqw3LjYlWXsVxnYv7t2h-Aq9nJ_SHHixaov1Dgzquo4P2IsRn33cOhHRKlREwv0L4IrlR642Q90j3QeevP8c6hR75LjionMPlwRiSovv0pLb-5hYp-WdtIlYhsA" />
+    <title lang="en">Fanzone</title>
+  </programme>
+  <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">An extensive recap of Matchweek 8, showcasing the thrills, spills and major talking points from each Premier League fixture.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Review: MW08</title>
+  </programme>
+  <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">E15
+Steve McManaman revisits ten standout moments from his Premier League career, from his breakthrough at Anfield to unforgettable solo goals and Merseyside derby magic.</desc>
+    <episode-num>E15</episode-num>
+    <icon src="https://iptv-epg.org/images/6lVBYaEi0s3NmL-qqwCuzuhFugSfrIIqrLdwPznoq2PU4hkG-UKGSXDoAlDv35-6vFvq8m-VHSPwrYWNidbtpSkAmDYP2ld_NfeyNIgbTDbBfKwx8pPrmlsW8vl5Uz0DgFnEWqLzFWW-T-yro2v-vvng-A" />
+    <title lang="en">PL Moments: Ep15: Steve Mcmanaman</title>
+  </programme>
+  <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Match Hls 26/27: MW08: Hul V Bre</title>
+  </programme>
+  <programme start="20261027143000 +0000" stop="20261027153000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football, with input from players, managers and data experts.</desc>
+    <icon src="https://iptv-epg.org/images/fOs5AIpuK7q1IOz_Yn4CxP0yBiGupXxaYCX_WToP1rW8kSgfsNRKIfC38tRQKtDSfIOGm5GY0hCx0_83RC5hVN1ZZdKBzCwkmqA7S2Z74kDdxbkUa621qlrU-kKpGTzx-rbXwNQa4CFsXli8wtOAI9BAaw" />
+    <title lang="en">Generation Xg</title>
+  </programme>
+  <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">E13
+From the depths of League One to becoming a Premier League and European champion, Adam Lallana emerged as one of English football's standout talents of the 2010s.</desc>
+    <episode-num>E13</episode-num>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Rewind: Ep13: Adam Lallana: My PL Years</title>
+  </programme>
+  <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Match Hls 26/27: MW08: Liv V Bha</title>
+  </programme>
+  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Netbusters: MW08</title>
+  </programme>
+  <programme start="20261027170000 +0000" stop="20261027180000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">The Weekend Wrap features insightful debate and expert analysis from the Premier League Live pundits around the weekend's fixtures.</desc>
+    <icon src="https://iptv-epg.org/images/Ns9Tt_872-f9OmdTZovCXwLSx66CEhP0dv5VOUb50Ow4LisFmEiod0jmrAHue5SOUNVIqUsX4mUo1GrFOd4a9zU2vooGkTodZjM2RIJ5Hx55jiuddkF7JBBqVexOve7DC4k0toTyum30xmOdLUxKqwSYJ41eFddgXSM" />
+    <title lang="en">The Weekend Wrap</title>
+  </programme>
+  <programme start="20261027180000 +0000" stop="20261027190000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">E15
+Steve McManaman revisits ten standout moments from his Premier League career, from his breakthrough at Anfield to unforgettable solo goals and Merseyside derby magic.</desc>
+    <episode-num>E15</episode-num>
+    <icon src="https://iptv-epg.org/images/6lVBYaEi0s3NmL-qqwCuzuhFugSfrIIqrLdwPznoq2PU4hkG-UKGSXDoAlDv35-6vFvq8m-VHSPwrYWNidbtpSkAmDYP2ld_NfeyNIgbTDbBfKwx8pPrmlsW8vl5Uz0DgFnEWqLzFWW-T-yro2v-vvng-A" />
+    <title lang="en">PL Moments: Ep15: Steve Mcmanaman</title>
+  </programme>
+  <programme start="20261027190000 +0000" stop="20261027193000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Match Hls 26/27: MW08: Sun V Lee</title>
+  </programme>
+  <programme start="20261027193000 +0000" stop="20261027203000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football, with input from players, managers and data experts.</desc>
+    <icon src="https://iptv-epg.org/images/fOs5AIpuK7q1IOz_Yn4CxP0yBiGupXxaYCX_WToP1rW8kSgfsNRKIfC38tRQKtDSfIOGm5GY0hCx0_83RC5hVN1ZZdKBzCwkmqA7S2Z74kDdxbkUa621qlrU-kKpGTzx-rbXwNQa4CFsXli8wtOAI9BAaw" />
+    <title lang="en">Generation Xg</title>
+  </programme>
+  <programme start="20261027203000 +0000" stop="20261027210000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">E1
+Adored by Liverpool fans around the world, Robbie Fowler is one of the Premier League's all-time greats.</desc>
+    <episode-num>E1</episode-num>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Rewind: Ep01: Robbie Fowler: My Liverpool Years</title>
+  </programme>
+  <programme start="20261027210000 +0000" stop="20261027220000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">This is the show that puts international fans at the heart of the Premier League conversation. We connect with fans from around the world as they share their views on their teams and favourite players.</desc>
+    <icon src="https://iptv-epg.org/images/ob3xw0M_u58bHjILcEXii3LPr87ZzOewqw3LjYlWXsVxnYv7t2h-Aq9nJ_SHHixaov1Dgzquo4P2IsRn33cOhHRKlREwv0L4IrlR642Q90j3QeevP8c6hR75LjionMPlwRiSovv0pLb-5hYp-WdtIlYhsA" />
+    <title lang="en">Fanzone</title>
+  </programme>
+  <programme start="20261027220000 +0000" stop="20261027230000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">An extensive recap of Matchweek 8, showcasing the thrills, spills and major talking points from each Premier League fixture.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Review: MW08</title>
+  </programme>
+  <programme start="20261027230000 +0000" stop="20261027233000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://iptv-epg.org/images/4Q1c1cczKT-Lu-z2ddJyfCI-O7wKOxiOe4SoXvXovrbhUJ07ZXJDMIYXqiDaEiTBJZTPhhJKKn674BkaDElWnHWddKWVJPqulV-V__pifErzVOAgFYDm4Fe2_WAULlwfZ2R_oKIRsWeoy2FCHMbloVUibeF4CfDOzgjeO8TR3ir-09Eg6HJH-ANwERXheKaSr9cmeg" />
+    <title lang="en">Match Hls 26/27: MW08: Ars V Eve</title>
+  </programme>
+  <programme start="20261027233000 +0000" stop="20261028003000 +0000" channel="AstroPremierLeague2.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">E15
+Steve McManaman revisits ten standout moments from his Premier League career, from his breakthrough at Anfield to unforgettable solo goals and Merseyside derby magic.</desc>
+    <episode-num>E15</episode-num>
+    <icon src="https://iptv-epg.org/images/6lVBYaEi0s3NmL-qqwCuzuhFugSfrIIqrLdwPznoq2PU4hkG-UKGSXDoAlDv35-6vFvq8m-VHSPwrYWNidbtpSkAmDYP2ld_NfeyNIgbTDbBfKwx8pPrmlsW8vl5Uz0DgFnEWqLzFWW-T-yro2v-vvng-A" />
+    <title lang="en">PL Moments: Ep15: Steve Mcmanaman</title>
+  </programme>
   <programme start="20261022220000 +0000" stop="20261023040000 +0000" channel="AstroPremierLeague3.my">
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -92195,55 +92444,6 @@ Former Chelsea and Tottenham midfielder Gus Poyet chooses the best eleven teamma
     <desc lang="en">Thank You for watching the live Premier League 2026/27: Match Week 8: Hull City vs Brentford.</desc>
     <icon src="https://iptv-epg.org/images/LhXjiw17PXiewOLFf3NSo9XyFY9kiLgEhdrJoQpsAgPzF0r0NBRDWS8JU2pDYSHtZjWo78UKhkri11x2SE2p1tr9wdhvUKOuVFDzr2IEO9HKQWdsSonkPAGwGEX31b2CmO8TT_3v9EdwCf9bPOvD0TKIOGagdZqLoLNFcrx8bGjRVSKiwA5dePsHgzlUg2ESil9dXA" />
     <title lang="en">Astro Premier League 4</title>
-  </programme>
-  <programme start="20261021020000 +0000" stop="20261021041500 +0000" channel="AstroSuperSportUHD.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/2027: Round 4: Sunderland vs Arsenal, from the Stadium of Light, Sunderland, England.</desc>
-    <icon src="https://iptv-epg.org/images/kdcsPSOjwAON-SiQyABWzPJyXp-edh4h3hqMsf7eiBWo3j5x1hRMNRORChuxbqilQxGlRinsoswBdJlWIJ49ZeiYtMQdkzjsb7ldqOiRVTeynajCbEGYKsXU3Ho4D9jjygoGotuzyTgX" />
-    <title lang="en">PL 26/27: Sunderland vs Arsenal</title>
-  </programme>
-  <programme start="20261021041500 +0000" stop="20261021063000 +0000" channel="AstroSuperSportUHD.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/2027: Round 7: Leeds Utd vs Manchester Utd, from the Elland Road, or Elland Road Stadium, Beeston, Leeds, England.</desc>
-    <icon src="https://iptv-epg.org/images/XWY1AVO5cN_83YvnVzlOo--WBbeVSbiXnL6KKW57ijLsvgV6r82j65sAGiVF5nhk6Kvg0qgxQ3jnwSLJdTnNwpi-5uxm7OL4-pJelqo-_bme5gxCz5AgedLzAioYKulMMrk3_XxXED9s" />
-    <title lang="en">PL 26/27: Leeds Utd vs Man Utd</title>
-  </programme>
-  <programme start="20261021063000 +0000" stop="20261021084500 +0000" channel="AstroSuperSportUHD.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/2027: Round 7: Newcastle Utd vs Aston Villa, from the St. James Park, Newcastle, England.</desc>
-    <icon src="https://iptv-epg.org/images/3BkT60w0caxCLQ-JfDX6UiAKw61VDZfcGVrqr7uAU1__WMBYq8aO_AoGlH8owmmj8JslhshPvWnjFxp8rTchEZ06w41pEHNTYf8FVFEco--naCe-u_ik8nYAfeWnwQ_KZHDZzNAdcz-V" />
-    <title lang="en">PL 26/27: Newcastle vs Villa</title>
-  </programme>
-  <programme start="20261021084500 +0000" stop="20261021110000 +0000" channel="AstroSuperSportUHD.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/2027: Round 4: Manchester Utd vs Manchester City, from the Old Trafford, Manchester, England,.</desc>
-    <icon src="https://iptv-epg.org/images/pIsgW6elzBQJgO0nGbROe16xpDm6-w2yyAvNvaE4rvhGVgjidBwkbtNybqA2tvIv4g3kkCF4tWMjhlcl4sCsPXqQoa8VKi-CptExvziqBaQMM6VLE4D-hE1O7ouBkTN3nVa_QF6GFK0h" />
-    <title lang="en">PL: Man Utd vs Man City</title>
-  </programme>
-  <programme start="20261021110000 +0000" stop="20261021131500 +0000" channel="AstroSuperSportUHD.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/2027: Round 7: Everton vs Chelsea, from the Hill Dickinson Stadium, Liverpool, England.</desc>
-    <icon src="https://iptv-epg.org/images/G4ZssX6JfhcTZCzEj_uskokFVQAEE2vUewAJZf-He6G-O_coSd-XkmrJxBWX7EP5vwsLTF0cYGT6a8X1UjcO4WZZmYSv-NXTdKW_H4mtBynynhU2juAaUBU6i_dCFe8V4oUhSa087MXg" />
-    <title lang="en">PL 26/27: Everton vs Chelsea</title>
-  </programme>
-  <programme start="20261021131500 +0000" stop="20261021153000 +0000" channel="AstroSuperSportUHD.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/2027: Round 7: Leeds Utd vs Manchester Utd, from the Elland Road, or Elland Road Stadium, Beeston, Leeds, England.</desc>
-    <icon src="https://iptv-epg.org/images/XWY1AVO5cN_83YvnVzlOo--WBbeVSbiXnL6KKW57ijLsvgV6r82j65sAGiVF5nhk6Kvg0qgxQ3jnwSLJdTnNwpi-5uxm7OL4-pJelqo-_bme5gxCz5AgedLzAioYKulMMrk3_XxXED9s" />
-    <title lang="en">PL 26/27: Leeds Utd vs Man Utd</title>
-  </programme>
-  <programme start="20261021153000 +0000" stop="20261021174500 +0000" channel="AstroSuperSportUHD.my">
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <desc lang="en">Premier League 2026/2027: Round 7: Everton vs Chelsea, from the Hill Dickinson Stadium, Liverpool, England.</desc>
-    <icon src="https://iptv-epg.org/images/G4ZssX6JfhcTZCzEj_uskokFVQAEE2vUewAJZf-He6G-O_coSd-XkmrJxBWX7EP5vwsLTF0cYGT6a8X1UjcO4WZZmYSv-NXTdKW_H4mtBynynhU2juAaUBU6i_dCFe8V4oUhSa087MXg" />
-    <title lang="en">PL 26/27: Everton vs Chelsea</title>
   </programme>
   <programme start="20261021174500 +0000" stop="20261021200000 +0000" channel="AstroSuperSportUHD.my">
     <category lang="en">Sports</category>
@@ -92670,80 +92870,76 @@ Former Chelsea and Tottenham midfielder Gus Poyet chooses the best eleven teamma
     <icon src="https://iptv-epg.org/images/YmH6JSmGCyR5SC-r_qc7RFTg6cZDExWtHK6HqxA8j3iQUVq5KDH9Cxkm-dD99PZ113S8U1EtDd_FD6Nw5Kr8SR4V9W-ewLF-BWDy3qqF-icnmeinQBScHtWJyGJOCClPWS2DrRxonQYe" />
     <title lang="en">PL 26/27: Everton vs Man Utd</title>
   </programme>
-  <programme start="20261022000000 +0000" stop="20261022010000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  <programme start="20261027020000 +0000" stop="20261027041500 +0000" channel="AstroSuperSportUHD.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Premier League 2026/2027: Round 8: Chelsea vs Tottenham Hotspur, from Stamford Bridge Stadium, West London, England.</desc>
+    <icon src="https://iptv-epg.org/images/wufYv5OTl2xKMTspjpzeA-LBazU3-W49A_Vwei0HrBB2Isi1mHPR8vGjEBkeIto54ztmcoY0d6FXh0YWXXxKM9THFz7yzB01FM3uduyaaUMM6IPRFbrfBY7jCaRGqAd7sYlk5wkS38PJ" />
+    <title lang="en">PL 26/27: Chelsea vs Tottenham</title>
   </programme>
-  <programme start="20261022010000 +0000" stop="20261022020000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  <programme start="20261027041500 +0000" stop="20261027063000 +0000" channel="AstroSuperSportUHD.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Premier League 2026/2027: Round 8: Manchester Utd vs AFC Bournemouth, from the Old Trafford, Manchester, England.</desc>
+    <icon src="https://iptv-epg.org/images/0Csfvygh12rg_bgl91u-KbDhoLSxIarHk5NvguqwQU10MHUCBeV7AhJx3bvNtxoaObSEJEAnUlGyZ6UY0wToa-j1BmqtnhM8XJdAmrcPXtDnQSmKqSkRUTK3qG05SNQBqR21B01QlH_v" />
+    <title lang="en">PL 26/27: Man Utd vs Bournemouth</title>
   </programme>
-  <programme start="20261022020000 +0000" stop="20261022030000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  <programme start="20261027063000 +0000" stop="20261027084500 +0000" channel="AstroSuperSportUHD.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Premier League 2026/2027: Round 3: Arsenal vs Chelsea, from the Emirates Stadium London, England.</desc>
+    <icon src="https://iptv-epg.org/images/ov8mBPtv8iK88PGC7g3tLPNBDE_oNq6IsPXfyY4p_tpLwPYdZZSTAGD7MoP0G7ofjHAgV4x-rlk_og6cCphleE0UqEnJk8cMpkVIvcD2Kli2jZrWpnRGejdzt4gDaJqE9_t245zWyYtL" />
+    <title lang="en">PL 26/27: Arsenal vs Chelsea</title>
   </programme>
-  <programme start="20261022030000 +0000" stop="20261022040000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  <programme start="20261027084500 +0000" stop="20261027110000 +0000" channel="AstroSuperSportUHD.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Premier League 2026/2027: Round 8: Aston Villa vs Manchester City, from the Villa Park,  Aston, Birmingham, England.</desc>
+    <icon src="https://iptv-epg.org/images/1m199oA0275AFZ1XwxI_FYd1nJI6JxuyrMCik5xoOhb1fd4MMf1KLd16HeB7scQVjJxYiUJkWFJfXznb2qkGxkjogWRaJpp0TrgpJ4oNSTNsmD9NlSrbwjy8eHifxb416E5eNKtsffw1" />
+    <title lang="en">PL 26/27: Aston Villa vs Man City</title>
   </programme>
-  <programme start="20261022040000 +0000" stop="20261022050000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  <programme start="20261027110000 +0000" stop="20261027131500 +0000" channel="AstroSuperSportUHD.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Premier League 2026/2027: Round 8: Chelsea vs Tottenham Hotspur, from Stamford Bridge Stadium, West London, England.</desc>
+    <icon src="https://iptv-epg.org/images/wufYv5OTl2xKMTspjpzeA-LBazU3-W49A_Vwei0HrBB2Isi1mHPR8vGjEBkeIto54ztmcoY0d6FXh0YWXXxKM9THFz7yzB01FM3uduyaaUMM6IPRFbrfBY7jCaRGqAd7sYlk5wkS38PJ" />
+    <title lang="en">PL 26/27: Chelsea vs Tottenham</title>
   </programme>
-  <programme start="20261022050000 +0000" stop="20261022060000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  <programme start="20261027131500 +0000" stop="20261027153000 +0000" channel="AstroSuperSportUHD.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Premier League 2026/2027: Round 8: Aston Villa vs Manchester City, from the Villa Park,  Aston, Birmingham, England.</desc>
+    <icon src="https://iptv-epg.org/images/1m199oA0275AFZ1XwxI_FYd1nJI6JxuyrMCik5xoOhb1fd4MMf1KLd16HeB7scQVjJxYiUJkWFJfXznb2qkGxkjogWRaJpp0TrgpJ4oNSTNsmD9NlSrbwjy8eHifxb416E5eNKtsffw1" />
+    <title lang="en">PL 26/27: Aston Villa vs Man City</title>
   </programme>
-  <programme start="20261022060000 +0000" stop="20261022070000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  <programme start="20261027153000 +0000" stop="20261027173000 +0000" channel="AstroSuperSportUHD.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Premier League 2026/27: Round 4: Liverpool vs Fulham, from the Anfield, Liverpool, England.</desc>
+    <icon src="https://iptv-epg.org/images/n23R_Yp64CE5ewLGVpPvqpM4nks-XKdPzdk9lMx7MC55X6A_OuosWNSVn1p3IV7Gm_aZRm0n4tCOzC8_YMN_fm1ZqJ0YUv-rUxsTWnJhMPHFiHZvkJEU9nmDJVu8Wo_XObVu8huQuPRL" />
+    <title lang="en">PL: Liverpool vs Fulham</title>
   </programme>
-  <programme start="20261022070000 +0000" stop="20261022080000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  <programme start="20261027173000 +0000" stop="20261027194000 +0000" channel="AstroSuperSportUHD.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">DFB Pokal 2026/27: Round 1: HEBC Hamburg vs Borussia Dortmund, from Professor Reinmuller-Platz Stadium, Hamburg, Germany.</desc>
+    <icon src="https://iptv-epg.org/images/NAHB2UUEunb7jkFJe53XCnSPYKEWTBMP84Gf66zm0ssBmo_p2bhycZxFpm_DlwIZ3fS3s0qqwhECc89MMJSA3TAqqflldyENnPU3Gv4jZekFUK15m-4M_XdjyDXYQrOlS7Jomkh53tKn" />
+    <title lang="en">DFB: Hamburg vs Dortmund</title>
   </programme>
-  <programme start="20261022080000 +0000" stop="20261022090000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  <programme start="20261027194000 +0000" stop="20261027215000 +0000" channel="AstroSuperSportUHD.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">LIVE: DFB Pokal 2026/27: Round 2: Borussia Dortmund vs Werder Bremen, from the Signal Iduna Park, Dortmund, Germany.</desc>
+    <icon src="https://iptv-epg.org/images/Vm6B5dEETnM-naVyrv2XCRZvTDvBKdvbciJ-6MCMgNRaQ-HZ_DacQlW1BKz5oXgpvacFDvioh9SQ-G08GNAQh2lITKchpMXtflgB9zihXsApbxPNqFHznPOsB1yJx2oIhtcGsuhwsVSc" />
+    <title lang="en">DFB Pokal: Dortmund vs Bremen</title>
+    <live />
   </programme>
-  <programme start="20261022090000 +0000" stop="20261022100000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022100000 +0000" stop="20261022110000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022110000 +0000" stop="20261022120000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022120000 +0000" stop="20261022130000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022130000 +0000" stop="20261022140000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261022140000 +0000" stop="20261022150000 +0000" channel="SPOTV.my">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  <programme start="20261027215000 +0000" stop="20261028000000 +0000" channel="AstroSuperSportUHD.my">
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <desc lang="en">Premier League 2025/26: Round 25: Arsenal vs Sunderland, from Emirates Stadium, Holloway, London, England.</desc>
+    <icon src="https://iptv-epg.org/images/qGxv3AXhMoZ7mEC-FsyB2Mq5HRadQxLvDAs4t9VRko9NnSbtUj5wFXV5yDQKloQuZaa8SiKi_e01l-O3clJIp4a_fCnTXPT71jvae4sG3peUAIl4hb7Lbl4P8PsYjF-tPriaFFgDezay" />
+    <title lang="en">PL: Arsenal vs Sunderland</title>
   </programme>
   <programme start="20261022150000 +0000" stop="20261022160000 +0000" channel="SPOTV.my">
     <title>No Data</title>
@@ -93030,77 +93226,77 @@ Former Chelsea and Tottenham midfielder Gus Poyet chooses the best eleven teamma
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022000000 +0000" stop="20261022010000 +0000" channel="SPOTV2.my">
+  <programme start="20261025000000 +0000" stop="20261025010000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022010000 +0000" stop="20261022020000 +0000" channel="SPOTV2.my">
+  <programme start="20261025010000 +0000" stop="20261025020000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022020000 +0000" stop="20261022030000 +0000" channel="SPOTV2.my">
+  <programme start="20261025020000 +0000" stop="20261025030000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022030000 +0000" stop="20261022040000 +0000" channel="SPOTV2.my">
+  <programme start="20261025030000 +0000" stop="20261025040000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022040000 +0000" stop="20261022050000 +0000" channel="SPOTV2.my">
+  <programme start="20261025040000 +0000" stop="20261025050000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022050000 +0000" stop="20261022060000 +0000" channel="SPOTV2.my">
+  <programme start="20261025050000 +0000" stop="20261025060000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022060000 +0000" stop="20261022070000 +0000" channel="SPOTV2.my">
+  <programme start="20261025060000 +0000" stop="20261025070000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022070000 +0000" stop="20261022080000 +0000" channel="SPOTV2.my">
+  <programme start="20261025070000 +0000" stop="20261025080000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022080000 +0000" stop="20261022090000 +0000" channel="SPOTV2.my">
+  <programme start="20261025080000 +0000" stop="20261025090000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022090000 +0000" stop="20261022100000 +0000" channel="SPOTV2.my">
+  <programme start="20261025090000 +0000" stop="20261025100000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022100000 +0000" stop="20261022110000 +0000" channel="SPOTV2.my">
+  <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022110000 +0000" stop="20261022120000 +0000" channel="SPOTV2.my">
+  <programme start="20261025110000 +0000" stop="20261025120000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022120000 +0000" stop="20261022130000 +0000" channel="SPOTV2.my">
+  <programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022130000 +0000" stop="20261022140000 +0000" channel="SPOTV2.my">
+  <programme start="20261025130000 +0000" stop="20261025140000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261022140000 +0000" stop="20261022150000 +0000" channel="SPOTV2.my">
+  <programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="SPOTV.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -93386,6 +93582,81 @@ Former Chelsea and Tottenham midfielder Gus Poyet chooses the best eleven teamma
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261024230000 +0000" stop="20261025000000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025000000 +0000" stop="20261025010000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025010000 +0000" stop="20261025020000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025020000 +0000" stop="20261025030000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025030000 +0000" stop="20261025040000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025040000 +0000" stop="20261025050000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025060000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025060000 +0000" stop="20261025070000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025070000 +0000" stop="20261025080000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025090000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025100000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025110000 +0000" stop="20261025120000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025140000 +0000" channel="SPOTV2.my">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="SPOTV2.my">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
